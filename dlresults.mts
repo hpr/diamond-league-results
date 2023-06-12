@@ -1,48 +1,7 @@
 import { JSDOM } from "jsdom";
-import fs from "fs";
-
-type MeetOption = {
-  label: string;
-  path: string;
-  selected: boolean;
-  hasResults: boolean;
-};
-type Result = {
-  place?: string;
-  athlete?: string;
-  id?: string;
-  nat?: string;
-  birthYear?: number;
-  mark?: string;
-  doping?: string;
-};
-type Heat = {
-  category: string;
-  title: string;
-  detail: string;
-  data: Result[];
-};
-
-const MEET_SELECTOR = "#id2";
-const FN_NAME = "onLoad";
-const DL_START = 2010;
-
-const initialUrl = "https://dl.all-athletics.com/dlra/en/2/1967/all";
-
-const range = (start: number, end: number) => {
-  return [...Array(end - start + 1)].map((_, i) => start + i);
-};
-
-const write = (fname: string, data: any) =>
-  fs.writeFileSync(fname + ".json", JSON.stringify(data, null, 2));
-const read = (fname: string) => {
-  try {
-    return JSON.parse(fs.readFileSync(fname + ".json", "utf-8") ?? "{}");
-  } catch {
-    return null;
-  }
-};
-const exists = (fname: string) => fs.existsSync(fname + ".json");
+import { read, write, range, exists } from "./util.mjs";
+import { Heat, MeetOption, Result } from "./types.mjs";
+import { initialUrl, FN_NAME, MEET_SELECTOR, DL_START } from "./const.mjs";
 
 let meetingIds: { [k: number]: string } | null = read("meetingIds");
 
