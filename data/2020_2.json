@@ -1,0 +1,285 @@
+{
+  "Promotional Events": [
+    {
+      "title": "Men's 100y - 09.07.2020",
+      "detail": "Final, wind: -3.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Andre DE GRASSE",
+          "id": "14535607",
+          "nat": "CAN",
+          "birthYear": 1994,
+          "mark": "9.68",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jimmy VICAUT",
+          "id": "14334964",
+          "nat": "FRA",
+          "birthYear": 1992,
+          "mark": "9.72",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Omar MCLEOD",
+          "id": "14435592",
+          "nat": "JAM",
+          "birthYear": 1994,
+          "mark": "9.87",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 200m - 09.07.2020",
+      "detail": "Final, wind: -3.7",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Noah LYLES",
+          "id": "14536762",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "18.90",
+          "doping": "SC"
+        },
+        {
+          "place": "1.",
+          "athlete": "Christophe LEMAITRE",
+          "id": "14186000",
+          "nat": "FRA",
+          "birthYear": 1990,
+          "mark": "20.65",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Churandy MARTINA",
+          "id": "14180965",
+          "nat": "NED",
+          "birthYear": 1984,
+          "mark": "20.81",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's Pole Vault - 09.07.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sam KENDRICKS",
+          "id": "14440868",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "5.81",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Piotr LISEK",
+          "id": "14426447",
+          "nat": "POL",
+          "birthYear": 1992,
+          "mark": "5.66",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Valentin LAVILLENIE",
+          "id": "14378885",
+          "nat": "FRA",
+          "birthYear": 1991,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's Triple Jump - 09.07.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Pedro PICHARDO",
+          "id": "14412588",
+          "nat": "POR",
+          "birthYear": 1993,
+          "mark": "17.40",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Christian TAYLOR",
+          "id": "14252807",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "17.27",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Omar CRADDOCK",
+          "id": "14235504",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "17.04",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Pedro PICHARDO",
+          "id": "14412588",
+          "nat": "POR",
+          "birthYear": 1993,
+          "mark": "17.17",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 150m - 09.07.2020",
+      "detail": "Final, wind: -2.6",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Allyson FELIX",
+          "id": "14309983",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "16.81",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Shaunae MILLER-UIBO",
+          "id": "14368116",
+          "nat": "BAH",
+          "birthYear": 1994,
+          "mark": "17.15",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Mujinga KAMBUNDJI",
+          "id": "14300897",
+          "nat": "SUI",
+          "birthYear": 1992,
+          "mark": "17.28",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 300mH - 09.07.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Georganne MOLINE",
+          "id": "14362616",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "39.08",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Lea SPRUNGER",
+          "id": "14301240",
+          "nat": "SUI",
+          "birthYear": 1990,
+          "mark": "39.25",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Zuzana HEJNOVÁ",
+          "id": "14263088",
+          "nat": "CZE",
+          "birthYear": 1986,
+          "mark": "40.97",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's Pole Vault - 09.07.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sandi MORRIS",
+          "id": "14373498",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4.66",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Angelica BENGTSSON",
+          "id": "14301706",
+          "nat": "SWE",
+          "birthYear": 1993,
+          "mark": "4.46",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Aikaterini STEFANIDI",
+          "id": "14280914",
+          "nat": "GRE",
+          "birthYear": 1990,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 3x100m - 09.07.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "United States",
+          "id": "",
+          "nat": "USA",
+          "birthYear": null,
+          "mark": "32.25",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Switzerland",
+          "id": "",
+          "nat": "SUI",
+          "birthYear": null,
+          "mark": "32.50",
+          "doping": ""
+        },
+        {
+          "place": "1.",
+          "athlete": "Netherlands",
+          "id": "",
+          "nat": "NED",
+          "birthYear": null,
+          "mark": "32.94",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

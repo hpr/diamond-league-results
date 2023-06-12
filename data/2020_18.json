@@ -1,0 +1,532 @@
+{
+  "Promotional Events": [
+    {
+      "title": "Men's 100m - 11.06.2020",
+      "detail": "Final, wind: +0.2",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Salum Ageze KASHAFALI",
+          "id": "14458706",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "10.59",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Mathias Hove JOHANSEN",
+          "id": "14652141",
+          "nat": "NOR",
+          "birthYear": 1998,
+          "mark": "10.78",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Christian MARTHINUSSEN",
+          "id": "14364643",
+          "nat": "NOR",
+          "birthYear": 1983,
+          "mark": "DQ",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 1000m - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Filip INGEBRIGTSEN",
+          "id": "14458705",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "2:16.46",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Håkon MUSHOM",
+          "id": "14431961",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Thomas Arne ROTH",
+          "id": "14364669",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Andreas ROTH",
+          "id": "14422715",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 2000m - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jakob INGEBRIGTSEN",
+          "id": "14653717",
+          "nat": "NOR",
+          "birthYear": 1900,
+          "mark": "4:50.01",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Henrik INGEBRIGTSEN",
+          "id": "14215338",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "4:53.72",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Elijah Motonei MANANGOI",
+          "id": "14590785",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "3.",
+          "athlete": "Filip INGEBRIGTSEN",
+          "id": "14458705",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "4:56.91",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Timothy CHERUIYOT",
+          "id": "14643526",
+          "nat": "KEN",
+          "birthYear": 1995,
+          "mark": "5:03.05",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Timothy SEIN",
+          "id": "14481137",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Vincent Kibet KETER",
+          "id": "14847964",
+          "nat": "KEN",
+          "birthYear": 1902,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Edwin MELLY",
+          "id": "14579464",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Per SVELA",
+          "id": "14704734",
+          "nat": "NOR",
+          "birthYear": 1992,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Narve Gilje NORDÅS",
+          "id": "14705412",
+          "nat": "NOR",
+          "birthYear": 1998,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 20,000m - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "",
+          "athlete": "Sondre Nordstad MOEN",
+          "id": "14215417",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "57:55.00",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 1 Hour - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "",
+          "athlete": "Sondre Nordstad MOEN",
+          "id": "14215417",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "20703",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 25,000m - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sondre Nordstad MOEN",
+          "id": "14215417",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "1:12:46.5h",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Andreas Myhre SJURSETH",
+          "id": "14439498",
+          "nat": "NOR",
+          "birthYear": 1985,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sindre BURAAS",
+          "id": "14215246",
+          "nat": "NOR",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Rolf STEIER",
+          "id": "14252161",
+          "nat": "NOR",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sigurd Ruud SKJESETH",
+          "id": "14593995",
+          "nat": "NOR",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 300mH - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Karsten WARHOLM",
+          "id": "14479487",
+          "nat": "NOR",
+          "birthYear": 1996,
+          "mark": "33.78",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's Pole Vault - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Armand DUPLANTIS",
+          "id": "14679502",
+          "nat": "SWE",
+          "birthYear": 1999,
+          "mark": "5.86",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Pål Haugen LILLEFOSSE",
+          "id": "14652736",
+          "nat": "NOR",
+          "birthYear": 1901,
+          "mark": "5.61",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Simen GUTTORMSEN",
+          "id": "14779830",
+          "nat": "NOR",
+          "birthYear": 1901,
+          "mark": "5.21",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Renaud LAVILLENIE",
+          "id": "14185853",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "5.81",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's Shot Put - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Marcus THOMSEN",
+          "id": "14593954",
+          "nat": "NOR",
+          "birthYear": 1998,
+          "mark": "21.03",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Wictor PETERSSON",
+          "id": "14481190",
+          "nat": "SWE",
+          "birthYear": 1998,
+          "mark": "20.94",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sven Martin SKAGESTAD",
+          "id": "14480080",
+          "nat": "NOR",
+          "birthYear": 1995,
+          "mark": "17.15",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's Discus Throw - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Daniel STÅHL",
+          "id": "14375325",
+          "nat": "SWE",
+          "birthYear": 1992,
+          "mark": "65.92",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Simon PETTERSSON",
+          "id": "14428365",
+          "nat": "SWE",
+          "birthYear": 1994,
+          "mark": "64.54",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ola STUNES ISENE",
+          "id": "14481378",
+          "nat": "NOR",
+          "birthYear": 1995,
+          "mark": "61.85",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sven Martin SKAGESTAD",
+          "id": "14480080",
+          "nat": "NOR",
+          "birthYear": 1995,
+          "mark": "60.38",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 600m - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Hedda HYNNE",
+          "id": "14458686",
+          "nat": "NOR",
+          "birthYear": 1990,
+          "mark": "1:29.06",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Selina RUTZ-BÜCHEL",
+          "id": "14300684",
+          "nat": "SUI",
+          "birthYear": 1991,
+          "mark": "1:30.10",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 3000m - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "",
+          "athlete": "Karoline Bjerkeli GRØVDAL",
+          "id": "14292573",
+          "nat": "NOR",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 10,000m - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Therese JOHAUG",
+          "id": "14913798",
+          "nat": "NOR",
+          "birthYear": 1988,
+          "mark": "31:40.67",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 200mH - 11.06.2020",
+      "detail": "Final, wind: -0.9",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Line KLOSTER",
+          "id": "14364310",
+          "nat": "NOR",
+          "birthYear": 1990,
+          "mark": "26.11",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nooralotta NEZIRI",
+          "id": "14259193",
+          "nat": "FIN",
+          "birthYear": 1992,
+          "mark": "26.65",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Annimari KORTE",
+          "id": "14259379",
+          "nat": "FIN",
+          "birthYear": 1988,
+          "mark": "26.70",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Isabelle PEDERSEN",
+          "id": "14292761",
+          "nat": "NOR",
+          "birthYear": 1992,
+          "mark": "28.11",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 300mH - 11.06.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sara Slott PETERSEN",
+          "id": "14262456",
+          "nat": "DEN",
+          "birthYear": 1987,
+          "mark": "39.42",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Amalie IUEL",
+          "id": "14481392",
+          "nat": "NOR",
+          "birthYear": 1994,
+          "mark": "39.44",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Lea SPRUNGER",
+          "id": "14301240",
+          "nat": "SUI",
+          "birthYear": 1990,
+          "mark": "39.86",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

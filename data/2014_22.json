@@ -1,0 +1,2913 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 05.09.2014",
+      "detail": "Final, wind: +0.6",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Justin GATLIN",
+          "id": "14238562",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "9.77",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Michael RODGERS",
+          "id": "14249856",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "9.93",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Asafa POWELL",
+          "id": "14202176",
+          "nat": "JAM",
+          "birthYear": 1982,
+          "mark": "9.95",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kemar BAILEY-COLE",
+          "id": "14367591",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "9.96",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "James DASAOLU",
+          "id": "14188983",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "10.00",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Tyson GAY",
+          "id": "14238588",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "10.01",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Nesta CARTER",
+          "id": "14201894",
+          "nat": "JAM",
+          "birthYear": 1985,
+          "mark": "10.01",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Richard THOMPSON",
+          "id": "14229106",
+          "nat": "TTO",
+          "birthYear": 1985,
+          "mark": "10.10",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Kim COLLINS",
+          "id": "14224942",
+          "nat": "SKN",
+          "birthYear": 1976,
+          "mark": "10.19",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 1500m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Taoufik MAKHLOUFI",
+          "id": "14373573",
+          "nat": "ALG",
+          "birthYear": 1988,
+          "mark": "3:31.78",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Silas KIPLAGAT",
+          "id": "14369379",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:31.80",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ayanleh SOULEIMAN",
+          "id": "14375782",
+          "nat": "DJI",
+          "birthYear": 1992,
+          "mark": "3:32.82",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Collins CHEBOI",
+          "id": "14207477",
+          "nat": "KEN",
+          "birthYear": 1987,
+          "mark": "3:32.85",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Aman WOTE",
+          "id": "14429188",
+          "nat": "ETH",
+          "birthYear": 1984,
+          "mark": "3:32.94",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Homiyu TESFAYE",
+          "id": "14450590",
+          "nat": "GER",
+          "birthYear": 1993,
+          "mark": "3:33.22",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Henrik INGEBRIGTSEN",
+          "id": "14215338",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "3:33.47",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Vincent KIBET",
+          "id": "14426307",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "3:33.58",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Mekonnen GEBREMEDHIN",
+          "id": "14181467",
+          "nat": "ETH",
+          "birthYear": 1988,
+          "mark": "3:33.70",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Abdelaati IGUIDER",
+          "id": "14212221",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "3:33.78",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Galen RUPP",
+          "id": "14250207",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "3:34.15",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Asbel KIPROP",
+          "id": "14208403",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:34.41",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Pieter-Jan HANNES",
+          "id": "14376860",
+          "nat": "BEL",
+          "birthYear": 1992,
+          "mark": "3:37.65",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "James Kiplagat MAGUT",
+          "id": "14330062",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "3:39.26",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Leonel MANZANO",
+          "id": "14244872",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "3:42.62",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Andrew Kiptoo ROTICH",
+          "id": "14380412",
+          "nat": "KEN",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Ismael Kipngetich KOMBICH",
+          "id": "14208664",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 110mH - 05.09.2014",
+      "detail": "Final, wind: -0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Pascal MARTINOT-LAGARDE",
+          "id": "14360095",
+          "nat": "FRA",
+          "birthYear": 1991,
+          "mark": "13.08",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Orlando ORTEGA",
+          "id": "14325772",
+          "nat": "CUB",
+          "birthYear": 1991,
+          "mark": "13.13",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sergey SHUBENKOV",
+          "id": "14941422",
+          "nat": "RUS",
+          "birthYear": 1990,
+          "mark": "13.22",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ronnie ASH",
+          "id": "14231611",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "13.24",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Andrew RILEY",
+          "id": "14202198",
+          "nat": "JAM",
+          "birthYear": 1988,
+          "mark": "13.29",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "William SHARMAN",
+          "id": "14190738",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "13.31",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Aries MERRITT",
+          "id": "14245965",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "13.37",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Balázs BAJI",
+          "id": "14195900",
+          "nat": "HUN",
+          "birthYear": 1989,
+          "mark": "13.41",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Petr SVOBODA",
+          "id": "14168231",
+          "nat": "CZE",
+          "birthYear": 1984,
+          "mark": "13.74",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 3000mSC - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jairus Kipchoge BIRECH",
+          "id": "14425940",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "7:58.41",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Mahiedine MEKHISSI",
+          "id": "14186447",
+          "nat": "FRA",
+          "birthYear": 1985,
+          "mark": "8:03.23",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Evan JAGER",
+          "id": "14241750",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "8:04.71",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Daniel HULING",
+          "id": "14241342",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "8:15.61",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Conseslus KIPRUTO",
+          "id": "14479159",
+          "nat": "KEN",
+          "birthYear": 1994,
+          "mark": "8:16.72",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Brimin Kiprop KIPRUTO",
+          "id": "14208442",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "8:16.90",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ilgizar SAFIULIN",
+          "id": "14376859",
+          "nat": "RUS",
+          "birthYear": 1992,
+          "mark": "8:20.29",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Hilal YEGO",
+          "id": "14375963",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "8:20.35",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Paul Kipsiele KOECH",
+          "id": "14208637",
+          "nat": "KEN",
+          "birthYear": 1981,
+          "mark": "8:24.11",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Krystian ZALEWSKI",
+          "id": "14217925",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "8:24.83",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Barnabas KIPYEGO",
+          "id": "14657342",
+          "nat": "KEN",
+          "birthYear": 1995,
+          "mark": "8:26.19",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Andrew BAYER",
+          "id": "14360463",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "8:29.44",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Ivan LUKYANOV",
+          "id": "14212711",
+          "nat": "RUS",
+          "birthYear": 1981,
+          "mark": "8:29.81",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Jukka KESKISALO",
+          "id": "14182035",
+          "nat": "FIN",
+          "birthYear": 1981,
+          "mark": "8:31.21",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Ezekiel KEMBOI",
+          "id": "14207908",
+          "nat": "KEN",
+          "birthYear": 1982,
+          "mark": "8:35.35",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Bernard NGANGA",
+          "id": "14209082",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "8:36.56",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Haron LAGAT",
+          "id": "14208829",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Nikolay CHAVKIN",
+          "id": "14221966",
+          "nat": "RUS",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's High Jump - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mutaz Essa BARSHIM",
+          "id": "14377312",
+          "nat": "QAT",
+          "birthYear": 1991,
+          "mark": "2.43",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Bohdan BONDARENKO",
+          "id": "14229763",
+          "nat": "UKR",
+          "birthYear": 1989,
+          "mark": "2.40",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Ivan UKHOV",
+          "id": "14224358",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "3.",
+          "athlete": "Derek DROUIN",
+          "id": "14174346",
+          "nat": "CAN",
+          "birthYear": 1990,
+          "mark": "2.31",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Erik KYNARD",
+          "id": "14243470",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "2.31",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Andrii PROTSENKO",
+          "id": "14230447",
+          "nat": "UKR",
+          "birthYear": 1988,
+          "mark": "2.31",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Naoto TOBE",
+          "id": "14329684",
+          "nat": "JPN",
+          "birthYear": 1992,
+          "mark": "2.31",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Andrei CHURYLA",
+          "id": "14405137",
+          "nat": "BLR",
+          "birthYear": 1993,
+          "mark": "2.25",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mihai DONISAN",
+          "id": "14219269",
+          "nat": "ROU",
+          "birthYear": 1988,
+          "mark": "2.20",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Mickaël HANANY",
+          "id": "14185282",
+          "nat": "FRA",
+          "birthYear": 1983,
+          "mark": "2.20",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Gianmarco TAMBERI",
+          "id": "14375750",
+          "nat": "ITA",
+          "birthYear": 1992,
+          "mark": "2.20",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Pole Vault - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Renaud LAVILLENIE",
+          "id": "14185853",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "5.93",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Robert SOBERA",
+          "id": "14335149",
+          "nat": "POL",
+          "birthYear": 1991,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Konstantinos FILIPPIDIS",
+          "id": "14195089",
+          "nat": "GRE",
+          "birthYear": 1986,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mark HOLLIS",
+          "id": "14240984",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Changrui XUE",
+          "id": "14462143",
+          "nat": "CHN",
+          "birthYear": 1991,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Piotr LISEK",
+          "id": "14426447",
+          "nat": "POL",
+          "birthYear": 1992,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Paweł WOJCIECHOWSKI",
+          "id": "14217866",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "5.55",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Luke CUTTS",
+          "id": "14188965",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "5.55",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Augusto DUTRA",
+          "id": "14373227",
+          "nat": "BRA",
+          "birthYear": 1990,
+          "mark": "5.55",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Kévin MÉNALDO",
+          "id": "14362302",
+          "nat": "FRA",
+          "birthYear": 1992,
+          "mark": "5.45",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Karsten DILLA",
+          "id": "14191884",
+          "nat": "GER",
+          "birthYear": 1989,
+          "mark": "5.45",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Damiel DOSSÉVI",
+          "id": "14184433",
+          "nat": "FRA",
+          "birthYear": 1983,
+          "mark": "5.30",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Long Jump - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Godfrey Khotso MOKOENA",
+          "id": "14220668",
+          "nat": "RSA",
+          "birthYear": 1985,
+          "mark": "8.19",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ignisious GAISAH",
+          "id": "14194908",
+          "nat": "NED",
+          "birthYear": 1983,
+          "mark": "8.06",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Christian TAYLOR",
+          "id": "14252807",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "8.06",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Michael HARTFIELD",
+          "id": "14364544",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "8.03",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Jinzhe LI",
+          "id": "14172132",
+          "nat": "CHN",
+          "birthYear": 1989,
+          "mark": "8.01",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Tyrone SMITH",
+          "id": "14177104",
+          "nat": "BER",
+          "birthYear": 1984,
+          "mark": "7.83",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Kafétien GOMIS",
+          "id": "14185073",
+          "nat": "FRA",
+          "birthYear": 1980,
+          "mark": "7.82",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Zarck VISSER",
+          "id": "14221485",
+          "nat": "RSA",
+          "birthYear": 1989,
+          "mark": "7.79",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Mauro Vinicius DA SILVA",
+          "id": "14176013",
+          "nat": "BRA",
+          "birthYear": 1986,
+          "mark": "7.63",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Cedric NOLF",
+          "id": "14362088",
+          "nat": "BEL",
+          "birthYear": 1989,
+          "mark": "7.35",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mathias BROOTHAERTS",
+          "id": "14432865",
+          "nat": "BEL",
+          "birthYear": 1994,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Discus Throw - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Robert HARTING",
+          "id": "14192401",
+          "nat": "GER",
+          "birthYear": 1984,
+          "mark": "67.57",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Piotr MAŁACHOWSKI",
+          "id": "14217144",
+          "nat": "POL",
+          "birthYear": 1983,
+          "mark": "67.35",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Gerd KANTER",
+          "id": "14180993",
+          "nat": "EST",
+          "birthYear": 1979,
+          "mark": "65.81",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Robert URBANEK",
+          "id": "14217771",
+          "nat": "POL",
+          "birthYear": 1987,
+          "mark": "65.58",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Martin WIERIG",
+          "id": "14194737",
+          "nat": "GER",
+          "birthYear": 1987,
+          "mark": "64.72",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Philip MILANOV",
+          "id": "14423360",
+          "nat": "BEL",
+          "birthYear": 1991,
+          "mark": "63.04",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Vikas GOWDA",
+          "id": "14197977",
+          "nat": "IND",
+          "birthYear": 1983,
+          "mark": "62.90",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Benn HARRADINE",
+          "id": "14179564",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "62.38",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Andrius GUDŽIUS",
+          "id": "14329304",
+          "nat": "LTU",
+          "birthYear": 1991,
+          "mark": "62.14",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Erik CADÉE",
+          "id": "14213748",
+          "nat": "NED",
+          "birthYear": 1984,
+          "mark": "61.01",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 200m - 05.09.2014",
+      "detail": "Final, wind: +0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Allyson FELIX",
+          "id": "14309983",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "22.02",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Myriam SOUMARÉ",
+          "id": "14273961",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "22.11",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Dafne SCHIPPERS",
+          "id": "14291986",
+          "nat": "NED",
+          "birthYear": 1992,
+          "mark": "22.30",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Joanna ATKINS",
+          "id": "14305059",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "22.58",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Anthonique STRACHAN",
+          "id": "14368117",
+          "nat": "BAH",
+          "birthYear": 1993,
+          "mark": "22.58",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Blessing OKAGBARE",
+          "id": "14292330",
+          "nat": "NGR",
+          "birthYear": 1988,
+          "mark": "22.60",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jeneba TARMOH",
+          "id": "14322457",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "22.64",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jodie WILLIAMS",
+          "id": "14276757",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "22.92",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Mujinga KAMBUNDJI",
+          "id": "14300897",
+          "nat": "SUI",
+          "birthYear": 1992,
+          "mark": "23.38",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sanya RICHARDS-ROSS",
+          "id": "14319838",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "49.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Stephenie Ann MCPHERSON",
+          "id": "14285809",
+          "nat": "JAM",
+          "birthYear": 1988,
+          "mark": "50.12",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Novlene WILLIAMS-MILLS",
+          "id": "14286000",
+          "nat": "JAM",
+          "birthYear": 1982,
+          "mark": "50.42",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Olha ZEMLYAK",
+          "id": "14304366",
+          "nat": "UKR",
+          "birthYear": 1990,
+          "mark": "51.07",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Libania GRENOT",
+          "id": "14263547",
+          "nat": "ITA",
+          "birthYear": 1983,
+          "mark": "51.15",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Natasha HASTINGS",
+          "id": "14312172",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "51.24",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Francena MCCORORY",
+          "id": "14316439",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "51.44",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Christine DAY",
+          "id": "14285647",
+          "nat": "JAM",
+          "birthYear": 1986,
+          "mark": "51.57",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Olivia BORLÉE",
+          "id": "14270487",
+          "nat": "BEL",
+          "birthYear": 1986,
+          "mark": "53.38",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 800m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Brenda MARTINEZ",
+          "id": "14316143",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "1:58.84",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Lynsey SHARP",
+          "id": "14276316",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "1:58.94",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Eunice Jepkoech SUM",
+          "id": "14423891",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "1:58.94",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Marina ARZAMASOVA",
+          "id": "14427676",
+          "nat": "BLR",
+          "birthYear": 1987,
+          "mark": "2:00.37",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Janeth JEPKOSGEI",
+          "id": "14289031",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "2:00.79",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sanne VERSTEGEN-WOLTERS",
+          "id": "14292246",
+          "nat": "NED",
+          "birthYear": 1985,
+          "mark": "2:00.99",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Tigst ASSEFA",
+          "id": "14388506",
+          "nat": "ETH",
+          "birthYear": 1996,
+          "mark": "2:01.06",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Maggie VESSEY",
+          "id": "14323367",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "2:01.92",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Ajee WILSON",
+          "id": "14411176",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "2:02.89",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Winnie NANYONDO",
+          "id": "14534257",
+          "nat": "UGA",
+          "birthYear": 1993,
+          "mark": "2:03.92",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Yekaterina KUPINA",
+          "id": "14298343",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 3000m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mercy CHERONO",
+          "id": "14288952",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "8:28.95",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sifan HASSAN",
+          "id": "14489606",
+          "nat": "NED",
+          "birthYear": 1993,
+          "mark": "8:29.38",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Genzebe DIBABA",
+          "id": "14259874",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "8:29.41",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jenny SIMPSON",
+          "id": "14305392",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "8:29.58",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Shannon ROWBURY",
+          "id": "14320310",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "8:29.93",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Viola Jelagat KIBIWOT",
+          "id": "14289100",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "8:30.14",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Stacey Chepkemboi NDIWA",
+          "id": "14330221",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "8:30.54",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Janet KISA",
+          "id": "14423914",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "8:32.66",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Almaz AYANA",
+          "id": "14259917",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "8:33.43",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Sally KIPYEGO",
+          "id": "14289173",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "8:34.18",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Irene JELAGAT",
+          "id": "14289013",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "8:34.67",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Mimi BELETE",
+          "id": "14270503",
+          "nat": "BRN",
+          "birthYear": 1988,
+          "mark": "8:34.73",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Susan KRUMINS",
+          "id": "14291825",
+          "nat": "NED",
+          "birthYear": 1986,
+          "mark": "8:36.08",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Alemitu HAROYE",
+          "id": "14471428",
+          "nat": "ETH",
+          "birthYear": 1995,
+          "mark": "8:36.87",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Betsy SAINA",
+          "id": "14363050",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "8:38.01",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Renata PLIŚ",
+          "id": "14294279",
+          "nat": "POL",
+          "birthYear": 1985,
+          "mark": "8:39.18",
+          "doping": ""
+        },
+        {
+          "place": "17.",
+          "athlete": "Perine NENGAMPI",
+          "id": "14477600",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "8:45.15",
+          "doping": ""
+        },
+        {
+          "place": "18.",
+          "athlete": "Eloise WELLINGS",
+          "id": "14271451",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "8:54.11",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tamara TVERDOSTUP",
+          "id": "14304309",
+          "nat": "UKR",
+          "birthYear": 1979,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Nuria FERNÁNDEZ",
+          "id": "14261624",
+          "nat": "ESP",
+          "birthYear": 1976,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Luiza GEGA",
+          "id": "14272917",
+          "nat": "ALB",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400mH - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kaliese CARTER",
+          "id": "14285929",
+          "nat": "JAM",
+          "birthYear": 1987,
+          "mark": "54.12",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Denisa ROSOLOVÁ",
+          "id": "14262688",
+          "nat": "CZE",
+          "birthYear": 1986,
+          "mark": "54.54",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Eilidh DOYLE",
+          "id": "14274691",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "54.76",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Hanna TITIMETS",
+          "id": "14304260",
+          "nat": "UKR",
+          "birthYear": 1989,
+          "mark": "54.95",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Cassandra TATE",
+          "id": "14322468",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "55.04",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Georganne MOLINE",
+          "id": "14362616",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "55.16",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Axelle DAUWENS",
+          "id": "14378548",
+          "nat": "BEL",
+          "birthYear": 1990,
+          "mark": "55.56",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kemi ADEKOYA",
+          "id": "14419510",
+          "nat": "BRN",
+          "birthYear": 1993,
+          "mark": "55.60",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Wenda NEL",
+          "id": "14296960",
+          "nat": "RSA",
+          "birthYear": 1988,
+          "mark": "55.61",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Triple Jump - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Caterine IBARGUEN",
+          "id": "14263994",
+          "nat": "COL",
+          "birthYear": 1984,
+          "mark": "14.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Olha SALADUKHA",
+          "id": "14304115",
+          "nat": "UKR",
+          "birthYear": 1983,
+          "mark": "14.53",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Yekaterina KONEVA",
+          "id": "14298189",
+          "nat": "RUS",
+          "birthYear": 1988,
+          "mark": "14.40",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kimberly WILLIAMS",
+          "id": "14285998",
+          "nat": "JAM",
+          "birthYear": 1988,
+          "mark": "14.25",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Yosiris URRUTIA",
+          "id": "14263900",
+          "nat": "COL",
+          "birthYear": 1986,
+          "mark": "14.21",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Irina GUMENYUK",
+          "id": "14297885",
+          "nat": "RUS",
+          "birthYear": 1988,
+          "mark": "14.19",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Olga RYPAKOVA",
+          "id": "14288693",
+          "nat": "KAZ",
+          "birthYear": 1984,
+          "mark": "14.04",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Alsu MURTAZINA",
+          "id": "14298683",
+          "nat": "RUS",
+          "birthYear": 1987,
+          "mark": "13.87",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Dana VELĎÁKOVÁ",
+          "id": "14301624",
+          "nat": "SVK",
+          "birthYear": 1981,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Shot Put - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Valerie ADAMS",
+          "id": "14292861",
+          "nat": "NZL",
+          "birthYear": 1984,
+          "mark": "20.59",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Christina SCHWANITZ",
+          "id": "14279753",
+          "nat": "GER",
+          "birthYear": 1985,
+          "mark": "19.86",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Michelle CARTER",
+          "id": "14307333",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "19.73",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Cleopatra BOREL",
+          "id": "14302978",
+          "nat": "TTO",
+          "birthYear": 1979,
+          "mark": "19.13",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Yevgeniya KOLODKO",
+          "id": "14298170",
+          "nat": "RUS",
+          "birthYear": 1990,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "6.",
+          "athlete": "Anita MÁRTON",
+          "id": "14282022",
+          "nat": "HUN",
+          "birthYear": 1989,
+          "mark": "18.23",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Felisha JOHNSON",
+          "id": "14362863",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "18.13",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Aliona DUBITSKAYA",
+          "id": "14269885",
+          "nat": "BLR",
+          "birthYear": 1990,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "8.",
+          "athlete": "Yuliya LEANTSIUK",
+          "id": "14269774",
+          "nat": "BLR",
+          "birthYear": 1984,
+          "mark": "17.33",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Javelin Throw - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Barbora ŠPOTÁKOVÁ",
+          "id": "14262671",
+          "nat": "CZE",
+          "birthYear": 1981,
+          "mark": "67.99",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sunette VILJOEN",
+          "id": "14297120",
+          "nat": "RSA",
+          "birthYear": 1983,
+          "mark": "64.30",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kathryn MITCHELL",
+          "id": "14271632",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "62.93",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Linda STAHL",
+          "id": "14279868",
+          "nat": "GER",
+          "birthYear": 1985,
+          "mark": "60.64",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Hanna HATSKO",
+          "id": "14303628",
+          "nat": "UKR",
+          "birthYear": 1990,
+          "mark": "59.10",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Madara PALAMEIKA",
+          "id": "14290055",
+          "nat": "LAT",
+          "birthYear": 1987,
+          "mark": "58.68",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Martina RATEJ",
+          "id": "14300230",
+          "nat": "SLO",
+          "birthYear": 1981,
+          "mark": "58.61",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Katharina MOLITOR",
+          "id": "14278931",
+          "nat": "GER",
+          "birthYear": 1983,
+          "mark": "55.48",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Tatsiana KHALADOVICH",
+          "id": "14269852",
+          "nat": "BLR",
+          "birthYear": 1991,
+          "mark": "54.41",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's 200m - 05.09.2014",
+      "detail": "Final, wind: 0.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Justin GATLIN",
+          "id": "14238562",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "19.71",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Femi OGUNODE",
+          "id": "14330343",
+          "nat": "QAT",
+          "birthYear": 1991,
+          "mark": "20.15",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Alonso EDWARD",
+          "id": "14216095",
+          "nat": "PAN",
+          "birthYear": 1989,
+          "mark": "20.26",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Christophe LEMAITRE",
+          "id": "14186000",
+          "nat": "FRA",
+          "birthYear": 1990,
+          "mark": "20.30",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Serhiy SMELYK",
+          "id": "14230624",
+          "nat": "UKR",
+          "birthYear": 1987,
+          "mark": "20.31",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Curtis MITCHELL",
+          "id": "14246265",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "20.42",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Karol ZALEWSKI",
+          "id": "14403529",
+          "nat": "POL",
+          "birthYear": 1993,
+          "mark": "20.58",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ryan BAILEY",
+          "id": "14231808",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "20.84",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Isaac MAKWALA",
+          "id": "14176330",
+          "nat": "BOT",
+          "birthYear": 1985,
+          "mark": "DQ",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 400m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Renny QUOW",
+          "id": "14229073",
+          "nat": "TTO",
+          "birthYear": 1987,
+          "mark": "45.37",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kévin BORLÉE",
+          "id": "14177713",
+          "nat": "BEL",
+          "birthYear": 1988,
+          "mark": "45.44",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Anderson HENRIQUES",
+          "id": "14429472",
+          "nat": "BRA",
+          "birthYear": 1992,
+          "mark": "45.52",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Liemarvin BONEVACIA",
+          "id": "14427350",
+          "nat": "NED",
+          "birthYear": 1989,
+          "mark": "45.54",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Conrad WILLIAMS",
+          "id": "14191245",
+          "nat": "GBR",
+          "birthYear": 1982,
+          "mark": "45.64",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Julien WATRIN",
+          "id": "14329160",
+          "nat": "BEL",
+          "birthYear": 1992,
+          "mark": "45.99",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jakub KRZEWINA",
+          "id": "14216991",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "46.02",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kamghe GABA",
+          "id": "14192151",
+          "nat": "GER",
+          "birthYear": 1984,
+          "mark": "46.07",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 1000m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Adam KSZCZOT",
+          "id": "14217000",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "2:15.72",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Mohammed AMAN",
+          "id": "14329603",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "2:15.75",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Marcin LEWANDOWSKI",
+          "id": "14217081",
+          "nat": "POL",
+          "birthYear": 1987,
+          "mark": "2:15.79",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ferguson Cheruiyot ROTICH",
+          "id": "14590354",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "2:16.88",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ronald MUSAGALA",
+          "id": "14486104",
+          "nat": "UGA",
+          "birthYear": 1992,
+          "mark": "2:17.11",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Yassine HETHAT",
+          "id": "14483503",
+          "nat": "ALG",
+          "birthYear": 1991,
+          "mark": "2:17.15",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Reuben BETT",
+          "id": "14207373",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "2:17.98",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "André OLIVIER",
+          "id": "14220901",
+          "nat": "RSA",
+          "birthYear": 1989,
+          "mark": "2:18.11",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Timothy KITUM",
+          "id": "14425918",
+          "nat": "KEN",
+          "birthYear": 1994,
+          "mark": "2:18.33",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Paul ROBINSON",
+          "id": "14373652",
+          "nat": "IRL",
+          "birthYear": 1991,
+          "mark": "2:18.46",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Casimir LOXSOM",
+          "id": "14335806",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "2:19.16",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Anthony CHEMUT",
+          "id": "14375637",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "2:19.55",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Bram SOM",
+          "id": "14214387",
+          "nat": "NED",
+          "birthYear": 1980,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 100mH - 05.09.2014",
+      "detail": "Final, wind: +0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kristi CASTLIN",
+          "id": "14307379",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "12.76",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Anne ZAGRÉ",
+          "id": "14270082",
+          "nat": "BEL",
+          "birthYear": 1990,
+          "mark": "12.84",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Rosina HODDE",
+          "id": "14291715",
+          "nat": "NED",
+          "birthYear": 1983,
+          "mark": "12.89",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Alina TALAY",
+          "id": "14269587",
+          "nat": "BLR",
+          "birthYear": 1989,
+          "mark": "12.89",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Cindy ROLEDER",
+          "id": "14279423",
+          "nat": "GER",
+          "birthYear": 1989,
+          "mark": "12.98",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sharona BAKKER",
+          "id": "14291483",
+          "nat": "NED",
+          "birthYear": 1990,
+          "mark": "13.01",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Nadine HILDEBRAND",
+          "id": "14278038",
+          "nat": "GER",
+          "birthYear": 1987,
+          "mark": "13.02",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Nooralotta NEZIRI",
+          "id": "14259193",
+          "nat": "FIN",
+          "birthYear": 1992,
+          "mark": "13.24",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Nia ALI",
+          "id": "14304647",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "17.11",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ],
+  "U18 Events": [
+    {
+      "title": "Men's 100m - 05.09.2014",
+      "detail": "Final, wind: +2.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jordan PAQUOT",
+          "id": "14602298",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "10.87",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Tobias CAPIAU",
+          "id": "14516053",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "10.96",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Baptiste LEPOINT",
+          "id": "14622524",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "11.03",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Raphael KAPENDA",
+          "id": "14594493",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "11.06",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Florian TSHITWENU",
+          "id": "14561429",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "11.15",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Arno VAN HAMME",
+          "id": "14578682",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "11.19",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Joaquim FATOÏCHAN",
+          "id": "14602310",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "11.34",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Brian INGELAERE",
+          "id": "14508415",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "11.40",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Men's 400m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Alexander DOOM",
+          "id": "14548983",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "48.56",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Dylan OWUSU",
+          "id": "14602275",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "49.00",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Alessandro VAN DE SANDE",
+          "id": "14563909",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "49.48",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Gerbrand HUTS",
+          "id": "14561465",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "49.91",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Julian COBBAERT",
+          "id": "14647332",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "49.96",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Dennis LOYENS",
+          "id": "14634330",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "50.61",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Robbe RENDERS",
+          "id": "14663534",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "50.99",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Pieter-Jan VERSCHAEREN",
+          "id": "14663535",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "52.81",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Men's 1000m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Dries DE SMET",
+          "id": "14646451",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:30.90",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jochem VERMEULEN",
+          "id": "14627506",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:31.74",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Lorenz FAVERIAU",
+          "id": "14647346",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:32.39",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ruben QUAGLIARA",
+          "id": "14645445",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:33.61",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Henok VERMEIRE",
+          "id": "14646449",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:34.14",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jennen MORTIER",
+          "id": "14659064",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:34.51",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Arne VAN OPSTAL",
+          "id": "14508450",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:35.31",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ewan CAMPBELL",
+          "id": "14594496",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:35.51",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Dorian VAN DE WOUWER",
+          "id": "14628416",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:35.75",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Bastiaan AMERYCKX",
+          "id": "14602301",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:35.95",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "François CORNET",
+          "id": "14593813",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:36.09",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Oussama LONNEUX",
+          "id": "14651722",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:36.45",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Dorian BOULVIN",
+          "id": "14548914",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:37.14",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Arno TEUCHIE",
+          "id": "14656498",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:37.36",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Creo RAHOENS",
+          "id": "14594457",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:38.20",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Jean THIRY",
+          "id": "14663536",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:40.61",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Men's 4x100m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Royal Excelsior SC U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "43.13",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "AC Deinze U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "43.67",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sambre et Meuse AC U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "43.72",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Waremme Club Oreye U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "43.96",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Olympic Brugge U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "44.37",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "KAA Gent U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "44.56",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Daring Club Leuven Atletiek U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "45.40",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Eendracht Aalst U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "45.47",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Women's 100m - 05.09.2014",
+      "detail": "Final, wind: +0.3",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Chloe BEAUCARNE",
+          "id": "14390230",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "12.04",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Judith DILLENS",
+          "id": "14516051",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "12.29",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Bo NIJS",
+          "id": "14533598",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "12.45",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Laurence LOBBENS",
+          "id": "14451374",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "12.46",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Cindy VAN DER VEKEN",
+          "id": "14456536",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "12.49",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Frederique TEUWEN",
+          "id": "14566543",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "12.68",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ina VAN LANCKER",
+          "id": "14504645",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "12.76",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Heurjonie LEMBI BONHEUR",
+          "id": "14578680",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "12.96",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Women's 1000m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Lotte SCHELDEMAN",
+          "id": "14516061",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:49.77",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Elise VANDERELST",
+          "id": "14526691",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:52.90",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hanne MAUDENS",
+          "id": "14450529",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:56.74",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Floor MICHIELSEN",
+          "id": "14527606",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "2:57.73",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Lize DE VLIEGER",
+          "id": "14588159",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "2:59.38",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jolien DE SCHAEPMEESTER",
+          "id": "14548979",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "3:02.03",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Virginie DEMEYER",
+          "id": "14478189",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "3:02.53",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Céline DRAUX",
+          "id": "14459827",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "3:04.17",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Stien FLOSSY",
+          "id": "14646446",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "3:04.27",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Febe PARDAENS",
+          "id": "14527607",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "3:04.41",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Lize VAN CAUTEREN",
+          "id": "14624908",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "3:05.39",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Laura MARIEN",
+          "id": "14601453",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "3:05.47",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Lieze DOCKX",
+          "id": "14485714",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "3:06.17",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Eva ROMPFF",
+          "id": "14646039",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "3:06.32",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Eva DE ROOY",
+          "id": "14588155",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "3:06.46",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Mathilde BOSSUT",
+          "id": "14590165",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "3:08.04",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Women's High Jump - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sarah LEONARD",
+          "id": "14516052",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "1.71",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jessica VANDENREIJKEN",
+          "id": "14593850",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "1.65",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nienke DE WAELE",
+          "id": "14561467",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "1.65",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Alice MERCENIER",
+          "id": "14563930",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "1.65",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Celestine TYTGAT",
+          "id": "14622530",
+          "nat": "BEL",
+          "birthYear": 1997,
+          "mark": "1.55",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ilke LAGROU",
+          "id": "14623344",
+          "nat": "BEL",
+          "birthYear": 1998,
+          "mark": "1.50",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Women's 4x100m - 05.09.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Racing Tienen U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "48.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "AC Meetjesland U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "49.02",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Royal Excelsior SC U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "49.32",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "AC Herentals U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "49.45",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Prins Hendrik U18",
+          "id": "",
+          "nat": "NED",
+          "birthYear": 1900,
+          "mark": "49.48",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Atletiek Verenging Toekomst U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "49.51",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Olse Merksem U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "50.24",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Olympic Essenbeek Halle U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "50.31",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Atletiek Club Lanaken U18",
+          "id": "",
+          "nat": "BEL",
+          "birthYear": 1900,
+          "mark": "50.34",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    }
+  ]
+}

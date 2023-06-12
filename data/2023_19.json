@@ -1,0 +1,1468 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 02.06.2023",
+      "detail": "Final, wind: 0.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Fred KERLEY",
+          "id": "14504382",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "9.94",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ferdinand OMANYALA",
+          "id": "14747153",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "10.05",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Trayvon BROMELL",
+          "id": "14519911",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "10.09",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Akani SIMBINE",
+          "id": "14417763",
+          "nat": "RSA",
+          "birthYear": 1993,
+          "mark": "10.09",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Samuele CECCARELLI",
+          "id": "14753012",
+          "nat": "ITA",
+          "birthYear": 1900,
+          "mark": "10.13",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Rohan BROWNING",
+          "id": "14575440",
+          "nat": "AUS",
+          "birthYear": 1997,
+          "mark": "10.15",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Yohan BLAKE",
+          "id": "14201842",
+          "nat": "JAM",
+          "birthYear": 1989,
+          "mark": "10.15",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Marvin BRACY-WILLIAMS",
+          "id": "14425680",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "10.23",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 200m - 02.06.2023",
+      "detail": "Final, wind: 0.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Erriyon KNIGHTON",
+          "id": "14897541",
+          "nat": "USA",
+          "birthYear": 1904,
+          "mark": "19.89",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jereem RICHARDS",
+          "id": "14434521",
+          "nat": "TTO",
+          "birthYear": 1994,
+          "mark": "20.28",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Aaron BROWN",
+          "id": "14366482",
+          "nat": "CAN",
+          "birthYear": 1992,
+          "mark": "20.31",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Filippo TORTU",
+          "id": "14629026",
+          "nat": "ITA",
+          "birthYear": 1998,
+          "mark": "20.41",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Reynier MENA",
+          "id": "14518308",
+          "nat": "CUB",
+          "birthYear": 1996,
+          "mark": "20.48",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Joseph FAHNBULLEH",
+          "id": "14803230",
+          "nat": "LBR",
+          "birthYear": 1901,
+          "mark": "20.51",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Eseosa Fostine DESALU",
+          "id": "14403082",
+          "nat": "ITA",
+          "birthYear": 1994,
+          "mark": "20.90",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Alexander OGANDO",
+          "id": "14912251",
+          "nat": "DOM",
+          "birthYear": 1900,
+          "mark": "DQ",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 5000m - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mohamed KATIR",
+          "id": "14642046",
+          "nat": "ESP",
+          "birthYear": 1998,
+          "mark": "12:52.09",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yomif KEJELCHA",
+          "id": "14594967",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "12:52.12",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Luis GRIJALVA",
+          "id": "14749285",
+          "nat": "GUA",
+          "birthYear": 1999,
+          "mark": "12:52.97",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Joshua CHEPTEGEI",
+          "id": "14645612",
+          "nat": "UGA",
+          "birthYear": 1996,
+          "mark": "12:53.81",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Telahun Haile BEKELE",
+          "id": "14797485",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "12:54.31",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "William KINCAID",
+          "id": "14493258",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "12:54.40",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Joe KLECKER",
+          "id": "14576389",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "12:55.16",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jacob KROP",
+          "id": "14808798",
+          "nat": "KEN",
+          "birthYear": 1901,
+          "mark": "12:55.57",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Selemon BAREGA",
+          "id": "14751317",
+          "nat": "ETH",
+          "birthYear": 1900,
+          "mark": "12:56.18",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Mohammed AHMED",
+          "id": "14330105",
+          "nat": "CAN",
+          "birthYear": 1991,
+          "mark": "12:56.46",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Grant FISHER",
+          "id": "14591210",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "12:56.99",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Samuel TEFERA",
+          "id": "14797484",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "12:58.44",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Thierry NDIKUMWENAYO",
+          "id": "14661449",
+          "nat": "ESP",
+          "birthYear": 1997,
+          "mark": "12:59.03",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Berihu AREGAWI",
+          "id": "14848753",
+          "nat": "ETH",
+          "birthYear": 1901,
+          "mark": "13:04.52",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Nicholas KIPKORIR",
+          "id": "14708978",
+          "nat": "KEN",
+          "birthYear": 1998,
+          "mark": "13:10.52",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Stewart MCSWEYN",
+          "id": "14500488",
+          "nat": "AUS",
+          "birthYear": 1995,
+          "mark": "13:23.81",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Andreas ALMGREN",
+          "id": "14460738",
+          "nat": "SWE",
+          "birthYear": 1995,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jack RAYNER",
+          "id": "14517160",
+          "nat": "AUS",
+          "birthYear": 1995,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Paul ROBINSON",
+          "id": "14373652",
+          "nat": "IRL",
+          "birthYear": 1991,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 110mH - 02.06.2023",
+      "detail": "Final, wind: -0.2",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Grant HOLLOWAY",
+          "id": "14516985",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "13.04",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jason JOSEPH",
+          "id": "14680682",
+          "nat": "SUI",
+          "birthYear": 1998,
+          "mark": "13.10",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Devon ALLEN",
+          "id": "14432012",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "13.19",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jamal BRITT",
+          "id": "14769264",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "13.26",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Just KWAOU-MATHEY",
+          "id": "14734289",
+          "nat": "FRA",
+          "birthYear": 1999,
+          "mark": "13.35",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Freddie CRITTENDEN",
+          "id": "14491556",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "13.38",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Rafael PEREIRA",
+          "id": "14662635",
+          "nat": "BRA",
+          "birthYear": 1997,
+          "mark": "13.47",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Lorenzo Ndele SIMONELLI",
+          "id": "14840516",
+          "nat": "ITA",
+          "birthYear": 1902,
+          "mark": "13.57",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's High Jump - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "JuVaughn HARRISON",
+          "id": "14785286",
+          "nat": "USA",
+          "birthYear": 1999,
+          "mark": "2.32",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sanghyeok WOO",
+          "id": "14532326",
+          "nat": "KOR",
+          "birthYear": 1996,
+          "mark": "2.30",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Luis Enrique ZAYAS",
+          "id": "14574169",
+          "nat": "CUB",
+          "birthYear": 1997,
+          "mark": "2.27",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Hamish KERR",
+          "id": "14633982",
+          "nat": "NZL",
+          "birthYear": 1996,
+          "mark": "2.24",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Douwe AMELS",
+          "id": "14378159",
+          "nat": "NED",
+          "birthYear": 1991,
+          "mark": "2.20",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Edgar RIVERA",
+          "id": "14213214",
+          "nat": "MEX",
+          "birthYear": 1991,
+          "mark": "2.15",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Tobias POTYE",
+          "id": "14481078",
+          "nat": "GER",
+          "birthYear": 1995,
+          "mark": "2.15",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Andrii PROTSENKO",
+          "id": "14230447",
+          "nat": "UKR",
+          "birthYear": 1988,
+          "mark": "2.15",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Luis CASTRO RIVERA",
+          "id": "14437678",
+          "nat": "PUR",
+          "birthYear": 1991,
+          "mark": "2.10",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Triple Jump - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Andy DÍAZ HERNÁNDEZ",
+          "id": "14587743",
+          "nat": "ITA",
+          "birthYear": 1995,
+          "mark": "17.75",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Hugues Fabrice ZANGO",
+          "id": "14523962",
+          "nat": "BUR",
+          "birthYear": 1993,
+          "mark": "17.68",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Lázaro MARTÍNEZ",
+          "id": "14571850",
+          "nat": "CUB",
+          "birthYear": 1997,
+          "mark": "17.12",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Emmanuel IHEMEJE",
+          "id": "14629166",
+          "nat": "ITA",
+          "birthYear": 1998,
+          "mark": "16.69",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Donald SCOTT",
+          "id": "14438760",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "16.46",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Abdulla NARANGOLINTEVIDA",
+          "id": "14606734",
+          "nat": "IND",
+          "birthYear": 1996,
+          "mark": "16.37",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Christian TAYLOR",
+          "id": "14252807",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "16.32",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Tobia BOCCHI",
+          "id": "14568868",
+          "nat": "ITA",
+          "birthYear": 1997,
+          "mark": "16.24",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Shot Put - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Leonardo FABBRI",
+          "id": "14567432",
+          "nat": "ITA",
+          "birthYear": 1997,
+          "mark": "21.73",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Tom WALSH",
+          "id": "14413007",
+          "nat": "NZL",
+          "birthYear": 1992,
+          "mark": "21.69",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Tomáš STANĚK",
+          "id": "14379859",
+          "nat": "CZE",
+          "birthYear": 1991,
+          "mark": "21.64",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Joe KOVACS",
+          "id": "14243308",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "21.55",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Adrian PIPERI",
+          "id": "14713124",
+          "nat": "USA",
+          "birthYear": 1999,
+          "mark": "21.43",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Zane WEIR",
+          "id": "14544053",
+          "nat": "ITA",
+          "birthYear": 1995,
+          "mark": "21.13",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Filip MIHALJEVIĆ",
+          "id": "14523988",
+          "nat": "CRO",
+          "birthYear": 1994,
+          "mark": "20.92",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Josh AWOTUNDE",
+          "id": "14522818",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "20.12",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Armin SINANČEVIĆ",
+          "id": "14709517",
+          "nat": "SRB",
+          "birthYear": 1996,
+          "mark": "19.53",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100m - 02.06.2023",
+      "detail": "Final, wind: -0.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Marie-Josée TA LOU",
+          "id": "14415994",
+          "nat": "CIV",
+          "birthYear": 1988,
+          "mark": "10.97",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Gina LÜCKENKEMPER",
+          "id": "14450088",
+          "nat": "GER",
+          "birthYear": 1996,
+          "mark": "11.09",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Imani LANSIQUOT",
+          "id": "14506362",
+          "nat": "GBR",
+          "birthYear": 1997,
+          "mark": "11.16",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Morolake AKINOSUN",
+          "id": "14430813",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "11.20",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Abby STEINER",
+          "id": "14691380",
+          "nat": "USA",
+          "birthYear": 1999,
+          "mark": "11.23",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Gabrielle THOMAS",
+          "id": "14733520",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "11.27",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jenna PRANDINI",
+          "id": "14329068",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "11.33",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Dina ASHER-SMITH",
+          "id": "14378282",
+          "nat": "GBR",
+          "birthYear": 1995,
+          "mark": "DNS",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400m - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Natalia KACZMAREK",
+          "id": "14642563",
+          "nat": "POL",
+          "birthYear": 1998,
+          "mark": "50.41",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Lieke KLAVER",
+          "id": "14560483",
+          "nat": "NED",
+          "birthYear": 1998,
+          "mark": "50.75",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Lynna IRBY-JACKSON",
+          "id": "14486888",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "50.84",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Roxana GÓMEZ",
+          "id": "14637147",
+          "nat": "CUB",
+          "birthYear": 1999,
+          "mark": "51.29",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Aliyah ABRAMS",
+          "id": "14447688",
+          "nat": "GUY",
+          "birthYear": 1997,
+          "mark": "51.31",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Anna KIEŁBASIŃSKA",
+          "id": "14293852",
+          "nat": "POL",
+          "birthYear": 1990,
+          "mark": "51.76",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Candice MCLEOD",
+          "id": "14587165",
+          "nat": "JAM",
+          "birthYear": 1996,
+          "mark": "52.09",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Alice MANGIONE",
+          "id": "14594823",
+          "nat": "ITA",
+          "birthYear": 1997,
+          "mark": "52.61",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 1500m - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Faith KIPYEGON",
+          "id": "14413305",
+          "nat": "KEN",
+          "birthYear": 1994,
+          "mark": "3:49.11",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Laura MUIR",
+          "id": "14422111",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "3:57.09",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jessica HULL",
+          "id": "14464506",
+          "nat": "AUS",
+          "birthYear": 1996,
+          "mark": "3:57.29",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ciara MAGEEAN",
+          "id": "14275665",
+          "nat": "IRL",
+          "birthYear": 1992,
+          "mark": "4:00.95",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Axumawit EMBAYE",
+          "id": "14534819",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "4:00.98",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Abbey CALDWELL",
+          "id": "14636659",
+          "nat": "AUS",
+          "birthYear": 1901,
+          "mark": "4:01.34",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Josette ANDREWS",
+          "id": "14574966",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "4:01.39",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Cory Ann MCGEE",
+          "id": "14316538",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:01.45",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Sintayehu VISSA",
+          "id": "14593929",
+          "nat": "ITA",
+          "birthYear": 1996,
+          "mark": "4:01.98",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Linden HALL",
+          "id": "14272002",
+          "nat": "AUS",
+          "birthYear": 1991,
+          "mark": "4:02.43",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Ludovica CAVALLI",
+          "id": "14752217",
+          "nat": "ITA",
+          "birthYear": 1900,
+          "mark": "4:03.04",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Gabriela DEBUES-STAFFORD",
+          "id": "14501531",
+          "nat": "CAN",
+          "birthYear": 1995,
+          "mark": "4:03.64",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Federica DEL BUONO",
+          "id": "14480247",
+          "nat": "ITA",
+          "birthYear": 1994,
+          "mark": "4:05.09",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Marta GARCÍA",
+          "id": "14635475",
+          "nat": "ESP",
+          "birthYear": 1998,
+          "mark": "4:07.22",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Brooke FELDMEIER",
+          "id": "14487045",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sage HURTA-KLECKER",
+          "id": "14478094",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400mH - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Femke BOL",
+          "id": "14707010",
+          "nat": "NED",
+          "birthYear": 1900,
+          "mark": "52.43",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Shamier LITTLE",
+          "id": "14443767",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "53.38",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Anna HALL",
+          "id": "14713272",
+          "nat": "USA",
+          "birthYear": 1901,
+          "mark": "54.42",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Gianna WOODRUFF",
+          "id": "14423522",
+          "nat": "PAN",
+          "birthYear": 1993,
+          "mark": "54.59",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Viktoriya TKACHUK",
+          "id": "14426923",
+          "nat": "UKR",
+          "birthYear": 1994,
+          "mark": "54.71",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Rushell CLAYTON",
+          "id": "14425208",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "54.71",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ayomide FOLORUNSO",
+          "id": "14484475",
+          "nat": "ITA",
+          "birthYear": 1996,
+          "mark": "55.34",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Anna RYZHYKOVA",
+          "id": "14304336",
+          "nat": "UKR",
+          "birthYear": 1989,
+          "mark": "55.99",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 3000mSC - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sembo ALMAYEW",
+          "id": "14968520",
+          "nat": "ETH",
+          "birthYear": 1905,
+          "mark": "9:00.71",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jackline CHEPKOECH",
+          "id": "14989892",
+          "nat": "KEN",
+          "birthYear": 1903,
+          "mark": "9:04.07",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Zerfe WONDEMAGEGN",
+          "id": "14894854",
+          "nat": "ETH",
+          "birthYear": 1902,
+          "mark": "9:04.61",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Beatrice CHEPKOECH",
+          "id": "14383286",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "9:10.02",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Alice FINOT",
+          "id": "14758606",
+          "nat": "FRA",
+          "birthYear": 1991,
+          "mark": "9:10.04",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Maruša MIŠMAŠ ZRIMŠEK",
+          "id": "14375060",
+          "nat": "SLO",
+          "birthYear": 1994,
+          "mark": "9:10.07",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Mekides ABEBE",
+          "id": "14804561",
+          "nat": "ETH",
+          "birthYear": 1901,
+          "mark": "9:11.09",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Courtney WAYMENT",
+          "id": "14617090",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "9:11.41",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Marwa BOUZAYANI",
+          "id": "14595096",
+          "nat": "TUN",
+          "birthYear": 1997,
+          "mark": "9:11.76",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Luiza GEGA",
+          "id": "14272917",
+          "nat": "ALB",
+          "birthYear": 1988,
+          "mark": "9:11.94",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Winfred Mutile YAVI",
+          "id": "14695622",
+          "nat": "BRN",
+          "birthYear": 1999,
+          "mark": "9:18.12",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Emma COBURN",
+          "id": "14307810",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "9:18.17",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Regan YEE",
+          "id": "14501254",
+          "nat": "CAN",
+          "birthYear": 1995,
+          "mark": "9:40.04",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Nataliya STREBKOVA",
+          "id": "14530014",
+          "nat": "UKR",
+          "birthYear": 1995,
+          "mark": "9:43.20",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Fancy CHERONO",
+          "id": "14798265",
+          "nat": "KEN",
+          "birthYear": 1901,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Pole Vault - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Katie MOON",
+          "id": "14373744",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "4.71",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Tina ŠUTEJ",
+          "id": "14300261",
+          "nat": "SLO",
+          "birthYear": 1988,
+          "mark": "4.71",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Nina KENNEDY",
+          "id": "14407592",
+          "nat": "AUS",
+          "birthYear": 1997,
+          "mark": "4.61",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Roberta BRUNI",
+          "id": "14400947",
+          "nat": "ITA",
+          "birthYear": 1994,
+          "mark": "4.61",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Sandi MORRIS",
+          "id": "14373498",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lene Onsrud RETZIUS",
+          "id": "14458694",
+          "nat": "NOR",
+          "birthYear": 1996,
+          "mark": "4.51",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Wilma MURTO",
+          "id": "14486887",
+          "nat": "FIN",
+          "birthYear": 1998,
+          "mark": "4.51",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Elisa MOLINAROLO",
+          "id": "14488967",
+          "nat": "ITA",
+          "birthYear": 1994,
+          "mark": "4.41",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Aikaterini STEFANIDI",
+          "id": "14280914",
+          "nat": "GRE",
+          "birthYear": 1990,
+          "mark": "4.41",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Long Jump - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Larissa IAPICHINO",
+          "id": "14827877",
+          "nat": "ITA",
+          "birthYear": 1902,
+          "mark": "6.79",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Tara DAVIS-WOODHALL",
+          "id": "14596561",
+          "nat": "USA",
+          "birthYear": 1999,
+          "mark": "6.74",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Maryna BEKH-ROMANCHUK",
+          "id": "14434131",
+          "nat": "UKR",
+          "birthYear": 1995,
+          "mark": "6.59",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ese BRUME",
+          "id": "14591118",
+          "nat": "NGR",
+          "birthYear": 1996,
+          "mark": "6.58",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Malaika MIHAMBO",
+          "id": "14377384",
+          "nat": "GER",
+          "birthYear": 1994,
+          "mark": "6.57",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jazmin SAWYERS",
+          "id": "14372810",
+          "nat": "GBR",
+          "birthYear": 1994,
+          "mark": "6.43",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ivana VULETA",
+          "id": "14300421",
+          "nat": "SRB",
+          "birthYear": 1990,
+          "mark": "6.42",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Quanesha BURKS",
+          "id": "14490255",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "6.33",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Khaddi SAGNIA",
+          "id": "14377776",
+          "nat": "SWE",
+          "birthYear": 1994,
+          "mark": "6.32",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Discus Throw - 02.06.2023",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Valarie ALLMAN",
+          "id": "14479216",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "65.96",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Bin FENG",
+          "id": "14430151",
+          "nat": "CHN",
+          "birthYear": 1994,
+          "mark": "65.91",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Shanice CRAFT",
+          "id": "14361931",
+          "nat": "GER",
+          "birthYear": 1993,
+          "mark": "64.47",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Liliana CÁ",
+          "id": "14294819",
+          "nat": "POR",
+          "birthYear": 1986,
+          "mark": "63.69",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Melina ROBERT-MICHON",
+          "id": "14273725",
+          "nat": "FRA",
+          "birthYear": 1979,
+          "mark": "63.20",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jorinde VAN KLINKEN",
+          "id": "14676577",
+          "nat": "NED",
+          "birthYear": 1900,
+          "mark": "62.13",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Daisy OSAKUE",
+          "id": "14514026",
+          "nat": "ITA",
+          "birthYear": 1996,
+          "mark": "61.55",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Izabela DA SILVA",
+          "id": "14460894",
+          "nat": "BRA",
+          "birthYear": 1995,
+          "mark": "60.81",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Laulauga TAUSAGA",
+          "id": "14647494",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "55.34",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ]
+}

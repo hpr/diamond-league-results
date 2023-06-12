@@ -1,0 +1,1290 @@
+{
+  "Promotional Events": [
+    {
+      "title": "Men's 200m - 14.08.2020",
+      "detail": "Final, wind: +0.7",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Noah LYLES",
+          "id": "14536762",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "19.76",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Josephus LYLES",
+          "id": "14592146",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "20.30",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Deniz ALMAS",
+          "id": "14586894",
+          "nat": "GER",
+          "birthYear": 1997,
+          "mark": "20.64",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Adam GEMILI",
+          "id": "14427998",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "20.68",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ramil GULIYEV",
+          "id": "14178065",
+          "nat": "TUR",
+          "birthYear": 1990,
+          "mark": "20.80",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Mario BURKE",
+          "id": "14520350",
+          "nat": "BAR",
+          "birthYear": 1997,
+          "mark": "20.91",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Marvin RENÉ",
+          "id": "14464596",
+          "nat": "FRA",
+          "birthYear": 1995,
+          "mark": "20.97",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mouhamadou FALL",
+          "id": "14702316",
+          "nat": "FRA",
+          "birthYear": 1992,
+          "mark": "21.20",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 800m - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Donavan BRAZIER",
+          "id": "14603138",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "1:43.15",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Bryce HOPPEL",
+          "id": "14656699",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "1:43.23",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Marco AROP",
+          "id": "14755875",
+          "nat": "CAN",
+          "birthYear": 1998,
+          "mark": "1:44.14",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Benjamin ROBERT",
+          "id": "14683828",
+          "nat": "FRA",
+          "birthYear": 1998,
+          "mark": "1:44.56",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kyle LANGFORD",
+          "id": "14515224",
+          "nat": "GBR",
+          "birthYear": 1996,
+          "mark": "1:44.83",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Marc REUTHER",
+          "id": "14534930",
+          "nat": "GER",
+          "birthYear": 1996,
+          "mark": "1:44.93",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Peter BOL",
+          "id": "14456885",
+          "nat": "AUS",
+          "birthYear": 1994,
+          "mark": "1:44.96",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ferguson Cheruiyot ROTICH",
+          "id": "14590354",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "1:45.48",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Amel TUKA",
+          "id": "14381641",
+          "nat": "BIH",
+          "birthYear": 1991,
+          "mark": "1:45.97",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Joseph DENG",
+          "id": "14622158",
+          "nat": "AUS",
+          "birthYear": 1998,
+          "mark": "1:46.20",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mame-Ibra ANNE",
+          "id": "14182901",
+          "nat": "FRA",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 1500m - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Timothy CHERUIYOT",
+          "id": "14643526",
+          "nat": "KEN",
+          "birthYear": 1995,
+          "mark": "3:28.45",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jakob INGEBRIGTSEN",
+          "id": "14653717",
+          "nat": "NOR",
+          "birthYear": 1900,
+          "mark": "3:28.68",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jake WIGHTMAN",
+          "id": "14522654",
+          "nat": "GBR",
+          "birthYear": 1994,
+          "mark": "3:29.47",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Filip INGEBRIGTSEN",
+          "id": "14458705",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "3:30.35",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Yomif KEJELCHA",
+          "id": "14594967",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "3:32.69",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jesús GÓMEZ",
+          "id": "14684882",
+          "nat": "ESP",
+          "birthYear": 1991,
+          "mark": "3:33.07",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Marcin LEWANDOWSKI",
+          "id": "14217081",
+          "nat": "POL",
+          "birthYear": 1987,
+          "mark": "3:33.99",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Charlie DA'VALL GRICE",
+          "id": "14379043",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "3:34.63",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Pierrik JOCTEUR-MONROZIER",
+          "id": "14709257",
+          "nat": "FRA",
+          "birthYear": 1998,
+          "mark": "3:35.00",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Kalle BERGLUND",
+          "id": "14551607",
+          "nat": "SWE",
+          "birthYear": 1996,
+          "mark": "3:35.34",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Craig ENGELS",
+          "id": "14467155",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "3:35.42",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Ryan GREGSON",
+          "id": "14179609",
+          "nat": "AUS",
+          "birthYear": 1990,
+          "mark": "3:35.57",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Timothy SEIN",
+          "id": "14481137",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Vincent Kibet KETER",
+          "id": "14847964",
+          "nat": "KEN",
+          "birthYear": 1902,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 5000m - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Joshua CHEPTEGEI",
+          "id": "14645612",
+          "nat": "UGA",
+          "birthYear": 1996,
+          "mark": "12:35.36",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nicholas KIPKORIR",
+          "id": "14708978",
+          "nat": "KEN",
+          "birthYear": 1998,
+          "mark": "12:51.78",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jacob KROP",
+          "id": "14808798",
+          "nat": "KEN",
+          "birthYear": 1901,
+          "mark": "13:11.32",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mike FOPPEN",
+          "id": "14631296",
+          "nat": "NED",
+          "birthYear": 1996,
+          "mark": "13:13.06",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ouassim OUMAIZ",
+          "id": "14682421",
+          "nat": "ESP",
+          "birthYear": 1999,
+          "mark": "13:13.14",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Stewart MCSWEYN",
+          "id": "14500488",
+          "nat": "AUS",
+          "birthYear": 1995,
+          "mark": "13:13.22",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jimmy GRESSIER",
+          "id": "14694062",
+          "nat": "FRA",
+          "birthYear": 1997,
+          "mark": "13:15.77",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Per SVELA",
+          "id": "14704734",
+          "nat": "NOR",
+          "birthYear": 1992,
+          "mark": "13:23.97",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Suldan HASSAN",
+          "id": "14653713",
+          "nat": "SWE",
+          "birthYear": 1998,
+          "mark": "13:31.62",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Julien WANDERS",
+          "id": "14527440",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "13:49.85",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Henrik INGEBRIGTSEN",
+          "id": "14215338",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Stephen KISSA",
+          "id": "14677961",
+          "nat": "UGA",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Roy HOORNWEG",
+          "id": "14213997",
+          "nat": "NED",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Yemaneberhan CRIPPA",
+          "id": "14513998",
+          "nat": "ITA",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Matthew RAMSDEN",
+          "id": "14576384",
+          "nat": "AUS",
+          "birthYear": 1997,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 110mH - 14.08.2020",
+      "detail": "Final, wind: +0.8",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Orlando ORTEGA",
+          "id": "14325772",
+          "nat": "ESP",
+          "birthYear": 1991,
+          "mark": "13.11",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Andrew POZZI",
+          "id": "14375897",
+          "nat": "GBR",
+          "birthYear": 1992,
+          "mark": "13.14",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Wilhem BELOCIAN",
+          "id": "14462837",
+          "nat": "FRA",
+          "birthYear": 1995,
+          "mark": "13.18",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Grant HOLLOWAY",
+          "id": "14516985",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "13.19",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Paolo DAL MOLIN",
+          "id": "14200099",
+          "nat": "ITA",
+          "birthYear": 1987,
+          "mark": "13.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Vladimir VUKICEVIC",
+          "id": "14364665",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "13.75",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jason JOSEPH",
+          "id": "14680682",
+          "nat": "SUI",
+          "birthYear": 1998,
+          "mark": "13.84",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Antonio ALKANA",
+          "id": "14462668",
+          "nat": "RSA",
+          "birthYear": 1990,
+          "mark": "13.87",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 400mH - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Karsten WARHOLM",
+          "id": "14479487",
+          "nat": "NOR",
+          "birthYear": 1996,
+          "mark": "47.10",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yasmani COPELLO",
+          "id": "14169627",
+          "nat": "TUR",
+          "birthYear": 1987,
+          "mark": "49.04",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Rasmus MÄGI",
+          "id": "14373195",
+          "nat": "EST",
+          "birthYear": 1992,
+          "mark": "49.23",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ludvy VAILLANT",
+          "id": "14480831",
+          "nat": "FRA",
+          "birthYear": 1995,
+          "mark": "49.35",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Constantin PREIS",
+          "id": "14627400",
+          "nat": "GER",
+          "birthYear": 1998,
+          "mark": "49.49",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 3000mSC - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Soufiane EL BAKKALI",
+          "id": "14590424",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "8:08.04",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Leonard Kipkemoi BETT",
+          "id": "14802643",
+          "nat": "KEN",
+          "birthYear": 1900,
+          "mark": "8:08.78",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Djilali BEDRANI",
+          "id": "14423830",
+          "nat": "FRA",
+          "birthYear": 1993,
+          "mark": "8:13.43",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Fernando CARRO",
+          "id": "14375772",
+          "nat": "ESP",
+          "birthYear": 1992,
+          "mark": "8:13.45",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Matthew HUGHES",
+          "id": "14174102",
+          "nat": "CAN",
+          "birthYear": 1989,
+          "mark": "8:16.25",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Topi RAITANEN",
+          "id": "14551131",
+          "nat": "FIN",
+          "birthYear": 1996,
+          "mark": "8:16.57",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Daniel ARCE",
+          "id": "14420300",
+          "nat": "ESP",
+          "birthYear": 1992,
+          "mark": "8:19.40",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Lamecha GIRMA",
+          "id": "14848765",
+          "nat": "ETH",
+          "birthYear": 1900,
+          "mark": "8:22.57",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Ole HESSELBJERG",
+          "id": "14167942",
+          "nat": "DEN",
+          "birthYear": 1990,
+          "mark": "8:24.87",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Getnet WALE",
+          "id": "14760253",
+          "nat": "ETH",
+          "birthYear": 1900,
+          "mark": "8:35.85",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Zak SEDDON",
+          "id": "14386241",
+          "nat": "GBR",
+          "birthYear": 1994,
+          "mark": "8:38.86",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Alexis PHELUT",
+          "id": "14707992",
+          "nat": "FRA",
+          "birthYear": 1998,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's Pole Vault - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Armand DUPLANTIS",
+          "id": "14679502",
+          "nat": "SWE",
+          "birthYear": 1999,
+          "mark": "6.00",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ben BROEDERS",
+          "id": "14474566",
+          "nat": "BEL",
+          "birthYear": 1995,
+          "mark": "5.70",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ernest John OBIENA",
+          "id": "14522941",
+          "nat": "PHI",
+          "birthYear": 1995,
+          "mark": "5.70",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Claudio Michel STECCHI",
+          "id": "14201526",
+          "nat": "ITA",
+          "birthYear": 1991,
+          "mark": "5.50",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Thiago BRAZ",
+          "id": "14377443",
+          "nat": "BRA",
+          "birthYear": 1993,
+          "mark": "5.50",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sam KENDRICKS",
+          "id": "14440868",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "DNS",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 100m - 14.08.2020",
+      "detail": "Final, wind: +0.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ajla DEL PONTE",
+          "id": "14487463",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "11.16",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Aleia HOBBS",
+          "id": "14430847",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "11.28",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Gina LÜCKENKEMPER",
+          "id": "14450088",
+          "nat": "GER",
+          "birthYear": 1996,
+          "mark": "11.31",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Marie-Josée TA LOU",
+          "id": "14415994",
+          "nat": "CIV",
+          "birthYear": 1988,
+          "mark": "11.39",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Maja MIHALINEC ZIDAR",
+          "id": "14300190",
+          "nat": "SLO",
+          "birthYear": 1989,
+          "mark": "11.44",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Anna BONGIORNI",
+          "id": "14361484",
+          "nat": "ITA",
+          "birthYear": 1993,
+          "mark": "11.44",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Rebekka HAASE",
+          "id": "14360165",
+          "nat": "GER",
+          "birthYear": 1993,
+          "mark": "11.47",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Daryll NEITA",
+          "id": "14476603",
+          "nat": "GBR",
+          "birthYear": 1996,
+          "mark": "11.50",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 400m - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Lynna IRBY-JACKSON",
+          "id": "14486888",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "50.50",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Wadeline JONATHAS",
+          "id": "14756963",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "51.40",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Femke BOL",
+          "id": "14707010",
+          "nat": "NED",
+          "birthYear": 1900,
+          "mark": "51.57",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Justyna ŚWIĘTY-ERSETIC",
+          "id": "14361154",
+          "nat": "POL",
+          "birthYear": 1992,
+          "mark": "52.11",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Lada VONDROVÁ",
+          "id": "14684777",
+          "nat": "CZE",
+          "birthYear": 1999,
+          "mark": "52.13",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Corinna SCHWAB",
+          "id": "14584915",
+          "nat": "GER",
+          "birthYear": 1999,
+          "mark": "52.21",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Anita HORVAT",
+          "id": "14472475",
+          "nat": "SLO",
+          "birthYear": 1996,
+          "mark": "52.45",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Amandine BROSSIER",
+          "id": "14678934",
+          "nat": "FRA",
+          "birthYear": 1995,
+          "mark": "52.98",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 1000m - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Faith KIPYEGON",
+          "id": "14413305",
+          "nat": "KEN",
+          "birthYear": 1994,
+          "mark": "2:29.15",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Laura MUIR",
+          "id": "14422111",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "2:30.82",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ciara MAGEEAN",
+          "id": "14275665",
+          "nat": "IRL",
+          "birthYear": 1992,
+          "mark": "2:31.06",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jemma REEKIE",
+          "id": "14533469",
+          "nat": "GBR",
+          "birthYear": 1998,
+          "mark": "2:31.11",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Halimah NAKAAYI",
+          "id": "14431159",
+          "nat": "UGA",
+          "birthYear": 1994,
+          "mark": "2:32.12",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sofia ENNAOUI",
+          "id": "14436869",
+          "nat": "POL",
+          "birthYear": 1995,
+          "mark": "2:32.30",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Selina RUTZ-BÜCHEL",
+          "id": "14300684",
+          "nat": "SUI",
+          "birthYear": 1991,
+          "mark": "2:35.58",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Winnie NANYONDO",
+          "id": "14534257",
+          "nat": "UGA",
+          "birthYear": 1993,
+          "mark": "2:36.54",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Raevyn ROGERS",
+          "id": "14378260",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "2:37.10",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Shelayna OSKAN-CLARKE",
+          "id": "14329259",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 5000m - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Hellen OBIRI",
+          "id": "14424921",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "14:22.12",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Letesenbet GIDEY",
+          "id": "14654918",
+          "nat": "ETH",
+          "birthYear": 1998,
+          "mark": "14:26.57",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Laura WEIGHTMAN",
+          "id": "14276688",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "14:35.44",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jessica HULL",
+          "id": "14464506",
+          "nat": "AUS",
+          "birthYear": 1996,
+          "mark": "14:43.80",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Shannon ROWBURY",
+          "id": "14320310",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "14:45.11",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Beatrice CHEPKOECH",
+          "id": "14383286",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "14:55.01",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Eilish MCCOLGAN",
+          "id": "14275729",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "14:57.37",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Genevieve GREGSON",
+          "id": "14271807",
+          "nat": "AUS",
+          "birthYear": 1989,
+          "mark": "15:38.22",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Liv WESTPHAL",
+          "id": "14424702",
+          "nat": "FRA",
+          "birthYear": 1993,
+          "mark": "15:39.66",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Alessia ZARBO",
+          "id": "14761053",
+          "nat": "FRA",
+          "birthYear": 1901,
+          "mark": "16:09.70",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sifan HASSAN",
+          "id": "14489606",
+          "nat": "NED",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Esther GUERRERO",
+          "id": "14261358",
+          "nat": "ESP",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Winny CHEBET",
+          "id": "14288808",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's High Jump - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Yaroslava MAHUCHIKH",
+          "id": "14739628",
+          "nat": "UKR",
+          "birthYear": 1901,
+          "mark": "1.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yuliia LEVCHENKO",
+          "id": "14594836",
+          "nat": "UKR",
+          "birthYear": 1997,
+          "mark": "1.98",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jeanelle SCHEPER",
+          "id": "14454102",
+          "nat": "LCA",
+          "birthYear": 1994,
+          "mark": "1.88",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Salome LANG",
+          "id": "14490112",
+          "nat": "SUI",
+          "birthYear": 1997,
+          "mark": "1.84",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mirela DEMIREVA",
+          "id": "14268737",
+          "nat": "BUL",
+          "birthYear": 1989,
+          "mark": "1.84",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Katarina JOHNSON-THOMPSON",
+          "id": "14276543",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "1.84",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Erika FURLANI",
+          "id": "14425524",
+          "nat": "ITA",
+          "birthYear": 1996,
+          "mark": "1.84",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's Triple Jump - 14.08.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Yulimar ROJAS",
+          "id": "14436431",
+          "nat": "VEN",
+          "birthYear": 1995,
+          "mark": "14.27",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Gabriela PETROVA",
+          "id": "14268585",
+          "nat": "BUL",
+          "birthYear": 1992,
+          "mark": "14.18",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Patrícia MAMONA",
+          "id": "14294964",
+          "nat": "POR",
+          "birthYear": 1988,
+          "mark": "14.08",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dovilė KILTY",
+          "id": "14363902",
+          "nat": "LTU",
+          "birthYear": 1993,
+          "mark": "13.98",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Neja FILIPIČ",
+          "id": "14474496",
+          "nat": "SLO",
+          "birthYear": 1995,
+          "mark": "13.80",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Naomi METZGER",
+          "id": "14590572",
+          "nat": "GBR",
+          "birthYear": 1998,
+          "mark": "13.56",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Diana ZAGAINOVA",
+          "id": "14565366",
+          "nat": "LTU",
+          "birthYear": 1997,
+          "mark": "13.52",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

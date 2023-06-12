@@ -1,4 +1,5 @@
 import { JSDOM } from "jsdom";
+import fs from "fs";
 
 type MeetOption = {
   label: string;
@@ -6,43 +7,92 @@ type MeetOption = {
   selected: boolean;
   hasResults: boolean;
 };
+type Result = {
+  place?: string;
+  athlete?: string;
+  id?: string;
+  nat?: string;
+  birthYear?: number;
+  mark?: string;
+  doping?: string;
+};
 type Heat = {
   category: string;
   title: string;
   detail: string;
-  data: HTMLTableElement;
+  data: Result[];
 };
 
 const MEET_SELECTOR = "#id2";
 const FN_NAME = "onLoad";
 const DL_START = 2010;
 
-const meetingIds: { [k: number]: string } = {};
 const initialUrl = "https://dl.all-athletics.com/dlra/en/2/1967/all";
 
 const range = (start: number, end: number) => {
   return [...Array(end - start + 1)].map((_, i) => start + i);
 };
 
+const write = (fname: string, data: any) =>
+  fs.writeFileSync(fname + ".json", JSON.stringify(data, null, 2));
+const read = (fname: string) => {
+  try {
+    return JSON.parse(fs.readFileSync(fname + ".json", "utf-8") ?? "{}");
+  } catch {
+    return null;
+  }
+};
+const exists = (fname: string) => fs.existsSync(fname + ".json");
+
+let meetingIds: { [k: number]: string } | null = read("meetingIds");
+
+const parseTable = (tbl: HTMLTableElement): Result[] => {
+  return [...tbl.querySelectorAll("tbody tr")].map((tr) => {
+    const achiever = tr.querySelector(".achiever");
+    const birthYear = +(tr.querySelector(".birthdate")?.textContent ?? NaN);
+    const results = tr.querySelectorAll(".result");
+    return {
+      place: tr.querySelector(".place")?.textContent ?? "",
+      athlete: achiever?.textContent ?? "",
+      id:
+        achiever
+          ?.querySelector("a")
+          ?.href.match(
+            /^http:\/\/www.diamondleague.com\/athletes\/(\d+).htm/
+          )?.[1] ?? "",
+      nat: tr.querySelector(".nationality")?.textContent ?? "",
+      birthYear: birthYear < 100 ? 1900 + birthYear : birthYear,
+      mark: results[0]?.textContent ?? "",
+      doping: results[1]?.textContent ?? "",
+    };
+  });
+};
+
 const getDlResults = async () => {
   const { document } = new JSDOM(await (await fetch(initialUrl)).text()).window;
-  const script =
-    [...document.querySelectorAll("script")].at(-1)?.textContent ?? "";
-  Function(
-    "$",
-    script + `;${FN_NAME}();`
-  )((selector: string) => ({
-    athletesSelector: (meets: MeetOption[]) => {
-      if (selector === MEET_SELECTOR) {
-        for (const { label, path } of meets) {
-          const id = path.match(/^en\/(\d+)\/\d+\/all$/)?.[1] ?? NaN;
-          meetingIds[id] = label;
+  if (!meetingIds) {
+    meetingIds = {};
+    const script =
+      [...document.querySelectorAll("script")].at(-1)?.textContent ?? "";
+    Function(
+      "$",
+      script + `;${FN_NAME}();`
+    )((selector: string) => ({
+      athletesSelector: (meets: MeetOption[]) => {
+        if (selector === MEET_SELECTOR) {
+          for (const { label, path } of meets) {
+            const id = path.match(/^en\/(\d+)\/\d+\/all$/)?.[1] ?? NaN;
+            meetingIds![id] = label;
+          }
         }
-      }
-    },
-  }));
+      },
+    }));
+    write("meetingIds", meetingIds);
+  }
   for (const year of range(DL_START, new Date().getFullYear())) {
     for (const id in meetingIds) {
+      const fname = `data/${year}_${id}`;
+      if (exists(fname)) continue;
       const url = `https://dl.all-athletics.com/dlra/en/${id}/${year}/all`;
       console.log(meetingIds[id], url);
       const { document } = new JSDOM(await (await fetch(url)).text()).window;
@@ -67,7 +117,7 @@ const getDlResults = async () => {
           }
           if (ptr?.tagName === "H3") heat.detail = ptr?.textContent ?? "";
           if (ptr?.tagName === "TABLE") {
-            heat.data = ptr as HTMLTableElement;
+            heat.data = parseTable(ptr as HTMLTableElement);
             heat.title ??= lastTitle;
             heat.category = hdrText;
             evts[hdrText].push(heat as Heat);
@@ -76,9 +126,8 @@ const getDlResults = async () => {
         }
       }
       console.log(evts);
-      break;
+      write(fname, evts);
     }
-    break;
   }
 };
 await getDlResults();

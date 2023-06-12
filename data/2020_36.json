@@ -1,0 +1,180 @@
+{
+  "Promotional Events": [
+    {
+      "title": "Men's Pole Vault - 02.09.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Armand DUPLANTIS",
+          "id": "14679502",
+          "nat": "SWE",
+          "birthYear": 1999,
+          "mark": "6.07",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sam KENDRICKS",
+          "id": "14440868",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "6.02",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Thiago BRAZ",
+          "id": "14377443",
+          "nat": "BRA",
+          "birthYear": 1993,
+          "mark": "5.72",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Renaud LAVILLENIE",
+          "id": "14185853",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "5.72",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Cole WALSH",
+          "id": "14512998",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "5.62",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Thibaut COLLET",
+          "id": "14733137",
+          "nat": "FRA",
+          "birthYear": 1999,
+          "mark": "5.62",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Christopher NILSEN",
+          "id": "14709278",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "5.62",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Paweł WOJCIECHOWSKI",
+          "id": "14217866",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "5.62",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Claudio Michel STECCHI",
+          "id": "14201526",
+          "nat": "ITA",
+          "birthYear": 1991,
+          "mark": "5.52",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's Pole Vault - 02.09.2020",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Angelica BENGTSSON",
+          "id": "14301706",
+          "nat": "SWE",
+          "birthYear": 1993,
+          "mark": "4.72",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Holly BRADSHAW",
+          "id": "14371556",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "4.64",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Angelica MOSER",
+          "id": "14450465",
+          "nat": "SUI",
+          "birthYear": 1997,
+          "mark": "4.64",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Michaela MEIJER",
+          "id": "14302210",
+          "nat": "SWE",
+          "birthYear": 1993,
+          "mark": "4.64",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Marion LOTOUT",
+          "id": "14256580",
+          "nat": "FRA",
+          "birthYear": 1989,
+          "mark": "4.54",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Robeilys PEINADO",
+          "id": "14497034",
+          "nat": "VEN",
+          "birthYear": 1997,
+          "mark": "4.34",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Andrina HODEL",
+          "id": "14633302",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4.34",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Romana MALÁČOVÁ",
+          "id": "14262927",
+          "nat": "CZE",
+          "birthYear": 1987,
+          "mark": "4.17",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tina ŠUTEJ",
+          "id": "14300261",
+          "nat": "SLO",
+          "birthYear": 1988,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

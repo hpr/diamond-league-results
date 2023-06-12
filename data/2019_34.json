@@ -1,0 +1,1693 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 18.05.2019",
+      "detail": "Final, wind: +0.9",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Noah LYLES",
+          "id": "14536762",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "9.86",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Christian COLEMAN",
+          "id": "14541956",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "9.86",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Akani SIMBINE",
+          "id": "14417763",
+          "nat": "RSA",
+          "birthYear": 1993,
+          "mark": "9.95",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Reece PRESCOD",
+          "id": "14522622",
+          "nat": "GBR",
+          "birthYear": 1996,
+          "mark": "9.97",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Bingtian SU",
+          "id": "14171509",
+          "nat": "CHN",
+          "birthYear": 1989,
+          "mark": "10.05",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Zhenye XIE",
+          "id": "14376449",
+          "nat": "CHN",
+          "birthYear": 1993,
+          "mark": "10.09",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Isiah YOUNG",
+          "id": "14360879",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "10.14",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Michael RODGERS",
+          "id": "14249856",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "10.15",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Tyquendo TRACEY",
+          "id": "14463007",
+          "nat": "JAM",
+          "birthYear": 1993,
+          "mark": "10.18",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400m - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Fred KERLEY",
+          "id": "14504382",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "44.81",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Michael CHERRY",
+          "id": "14490322",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "45.48",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Nathan STROTHER",
+          "id": "14543488",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "45.52",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Nathon ALLEN",
+          "id": "14540106",
+          "nat": "JAM",
+          "birthYear": 1995,
+          "mark": "45.73",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Bralon TAPLIN",
+          "id": "14367164",
+          "nat": "GRN",
+          "birthYear": 1992,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "5.",
+          "athlete": "Yu Ang WU",
+          "id": "14691823",
+          "nat": "CHN",
+          "birthYear": 1998,
+          "mark": "47.13",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Isaac MAKWALA",
+          "id": "14176330",
+          "nat": "BOT",
+          "birthYear": 1985,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 5000m - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Yomif KEJELCHA",
+          "id": "14594967",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "13:04.16",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Selemon BAREGA",
+          "id": "14751317",
+          "nat": "ETH",
+          "birthYear": 1900,
+          "mark": "13:04.71",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hagos GEBRHIWET",
+          "id": "14477352",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "13:04.83",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Birhanu BALEW",
+          "id": "14695983",
+          "nat": "BRN",
+          "birthYear": 1996,
+          "mark": "13:05.04",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Telahun Haile BEKELE",
+          "id": "14797485",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "13:05.94",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Nicholas KIPKORIR",
+          "id": "14708978",
+          "nat": "KEN",
+          "birthYear": 1998,
+          "mark": "13:06.16",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Joshua CHEPTEGEI",
+          "id": "14645612",
+          "nat": "UGA",
+          "birthYear": 1996,
+          "mark": "13:06.68",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Stanley Waithaka MBURU",
+          "id": "14802641",
+          "nat": "KEN",
+          "birthYear": 1900,
+          "mark": "13:08.97",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Chala REGASA",
+          "id": "14650107",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "13:12.71",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Richard YATOR",
+          "id": "14708970",
+          "nat": "KEN",
+          "birthYear": 1998,
+          "mark": "13:13.24",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Soufiyan BOUQANTAR",
+          "id": "14442147",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "13:13.68",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Paul CHELIMO",
+          "id": "14454958",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "13:13.94",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Mogos TUEMAY",
+          "id": "14594963",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "13:15.04",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Nibret MELAK",
+          "id": "14840778",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "13:15.35",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Stephen KISSA",
+          "id": "14677961",
+          "nat": "UGA",
+          "birthYear": 1988,
+          "mark": "13:19.85",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Hassan MEAD",
+          "id": "14245833",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "13:23.15",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Albert ROP",
+          "id": "14479153",
+          "nat": "BRN",
+          "birthYear": 1992,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "17.",
+          "athlete": "Jianhua PENG",
+          "id": "14750662",
+          "nat": "CHN",
+          "birthYear": 1996,
+          "mark": "14:24.63",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Cornelius KIPLANGAT",
+          "id": "14375731",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Bram SOM",
+          "id": "14214387",
+          "nat": "NED",
+          "birthYear": 1980,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Abdelaati IGUIDER",
+          "id": "14212221",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 110mH - 18.05.2019",
+      "detail": "Final, wind: +0.7",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Omar MCLEOD",
+          "id": "14435592",
+          "nat": "JAM",
+          "birthYear": 1994,
+          "mark": "13.12",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Wenjun XIE",
+          "id": "14171016",
+          "nat": "CHN",
+          "birthYear": 1990,
+          "mark": "13.17",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sergey SHUBENKOV",
+          "id": "14941422",
+          "nat": "ANA",
+          "birthYear": 1990,
+          "mark": "13.28",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Orlando ORTEGA",
+          "id": "14325772",
+          "nat": "ESP",
+          "birthYear": 1991,
+          "mark": "13.28",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Freddie CRITTENDEN",
+          "id": "14491556",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "13.36",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Andrew POZZI",
+          "id": "14375897",
+          "nat": "GBR",
+          "birthYear": 1992,
+          "mark": "13.39",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Milan TRAJKOVIC",
+          "id": "14480568",
+          "nat": "CYP",
+          "birthYear": 1992,
+          "mark": "13.41",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Antonio ALKANA",
+          "id": "14462668",
+          "nat": "RSA",
+          "birthYear": 1990,
+          "mark": "13.47",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Jianhang ZENG",
+          "id": "14744663",
+          "nat": "CHN",
+          "birthYear": 1998,
+          "mark": "13.71",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400mH - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Abderrahman Almoubarrake S ALSALECK",
+          "id": "14752208",
+          "nat": "QAT",
+          "birthYear": 1995,
+          "mark": "47.27",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Rai BENJAMIN",
+          "id": "14574865",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "47.80",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Thomas BARR",
+          "id": "14440533",
+          "nat": "IRL",
+          "birthYear": 1992,
+          "mark": "49.41",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Patryk DOBEK",
+          "id": "14389330",
+          "nat": "POL",
+          "birthYear": 1994,
+          "mark": "49.64",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Rasmus MÄGI",
+          "id": "14373195",
+          "nat": "EST",
+          "birthYear": 1992,
+          "mark": "50.06",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Takatoshi ABE",
+          "id": "14334345",
+          "nat": "JPN",
+          "birthYear": 1991,
+          "mark": "50.27",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Marcio TELES",
+          "id": "14543428",
+          "nat": "BRA",
+          "birthYear": 1994,
+          "mark": "50.90",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Zhiqiang FENG",
+          "id": "14750667",
+          "nat": "CHN",
+          "birthYear": 1998,
+          "mark": "52.11",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's High Jump - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Yu WANG",
+          "id": "14334837",
+          "nat": "CHN",
+          "birthYear": 1991,
+          "mark": "2.28",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Maksim NEDASEKAU",
+          "id": "14650634",
+          "nat": "BLR",
+          "birthYear": 1998,
+          "mark": "2.28",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ilya IVANYUK",
+          "id": "14421068",
+          "nat": "ANA",
+          "birthYear": 1993,
+          "mark": "2.28",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jeron ROBINSON",
+          "id": "14373055",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "2.25",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jamal WILSON",
+          "id": "14177932",
+          "nat": "BAH",
+          "birthYear": 1988,
+          "mark": "2.25",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Brandon STARC",
+          "id": "14387190",
+          "nat": "AUS",
+          "birthYear": 1993,
+          "mark": "2.25",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Majd Eddin GHAZAL",
+          "id": "14228259",
+          "nat": "SYR",
+          "birthYear": 1987,
+          "mark": "2.25",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Michael MASON",
+          "id": "14173852",
+          "nat": "CAN",
+          "birthYear": 1986,
+          "mark": "2.22",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Mateusz PRZYBYLKO",
+          "id": "14360276",
+          "nat": "GER",
+          "birthYear": 1992,
+          "mark": "2.22",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Bohdan BONDARENKO",
+          "id": "14229763",
+          "nat": "UKR",
+          "birthYear": 1989,
+          "mark": "2.19",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Bryan MCBRIDE",
+          "id": "14245280",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "NH",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Donald THOMAS",
+          "id": "14177939",
+          "nat": "BAH",
+          "birthYear": 1984,
+          "mark": "DNS",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Long Jump - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Tajay GAYLE",
+          "id": "14631861",
+          "nat": "JAM",
+          "birthYear": 1996,
+          "mark": "8.24",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jianan WANG",
+          "id": "14514470",
+          "nat": "CHN",
+          "birthYear": 1996,
+          "mark": "8.16",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ruswahl SAMAAI",
+          "id": "14417696",
+          "nat": "RSA",
+          "birthYear": 1991,
+          "mark": "8.14",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Yaoguang ZHANG",
+          "id": "14420860",
+          "nat": "CHN",
+          "birthYear": 1993,
+          "mark": "7.98",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Miltiadis TENTOGLOU",
+          "id": "14669734",
+          "nat": "GRE",
+          "birthYear": 1998,
+          "mark": "7.97",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Zarck VISSER",
+          "id": "14221485",
+          "nat": "RSA",
+          "birthYear": 1989,
+          "mark": "7.90",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Changzhou HUANG",
+          "id": "14502006",
+          "nat": "CHN",
+          "birthYear": 1994,
+          "mark": "7.90",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Emiliano LASA",
+          "id": "14374159",
+          "nat": "URU",
+          "birthYear": 1990,
+          "mark": "7.85",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Zack BAZILE",
+          "id": "14566616",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "7.55",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Damar FORBES",
+          "id": "14366240",
+          "nat": "JAM",
+          "birthYear": 1990,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Javelin Throw - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Andreas HOFMANN",
+          "id": "14372011",
+          "nat": "GER",
+          "birthYear": 1991,
+          "mark": "87.55",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Chao-Tsun CHENG",
+          "id": "14376112",
+          "nat": "TPE",
+          "birthYear": 1993,
+          "mark": "87.12",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Marcin KRUKOWSKI",
+          "id": "14336191",
+          "nat": "POL",
+          "birthYear": 1992,
+          "mark": "84.51",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Thomas RÖHLER",
+          "id": "14379257",
+          "nat": "GER",
+          "birthYear": 1991,
+          "mark": "82.95",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Qizhen LIU",
+          "id": "14748794",
+          "nat": "CHN",
+          "birthYear": 1995,
+          "mark": "80.35",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jakub VADLEJCH",
+          "id": "14168152",
+          "nat": "CZE",
+          "birthYear": 1990,
+          "mark": "80.00",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Julius YEGO",
+          "id": "14376567",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "77.82",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Qun MA",
+          "id": "14441114",
+          "nat": "CHN",
+          "birthYear": 1994,
+          "mark": "74.11",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Petr FRYDRYCH",
+          "id": "14168938",
+          "nat": "CZE",
+          "birthYear": 1988,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100m - 18.05.2019",
+      "detail": "Final, wind: +0.2",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Aleia HOBBS",
+          "id": "14430847",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "11.03",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Blessing OKAGBARE",
+          "id": "14292330",
+          "nat": "NGR",
+          "birthYear": 1988,
+          "mark": "11.07",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Elaine THOMPSON-HERAH",
+          "id": "14285956",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "11.14",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Vitoria Cristina ROSA",
+          "id": "14481687",
+          "nat": "BRA",
+          "birthYear": 1996,
+          "mark": "11.16",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Jenna PRANDINI",
+          "id": "14329068",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "11.19",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Xiaojing LIANG",
+          "id": "14583567",
+          "nat": "CHN",
+          "birthYear": 1997,
+          "mark": "11.22",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Michelle-Lee AHYE",
+          "id": "14302966",
+          "nat": "TTO",
+          "birthYear": 1992,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "7.",
+          "athlete": "Yongli WEI",
+          "id": "14423021",
+          "nat": "CHN",
+          "birthYear": 1991,
+          "mark": "11.40",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ashley HENDERSON",
+          "id": "14436992",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "11.53",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400m - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Salwa Eid NASER",
+          "id": "14643442",
+          "nat": "BRN",
+          "birthYear": 1998,
+          "mark": "50.65",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sydney MCLAUGHLIN-LEVRONE",
+          "id": "14624749",
+          "nat": "USA",
+          "birthYear": 1999,
+          "mark": "50.78",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Christine BOTLOGETSWE",
+          "id": "14472776",
+          "nat": "BOT",
+          "birthYear": 1995,
+          "mark": "51.29",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Stephenie Ann MCPHERSON",
+          "id": "14285809",
+          "nat": "JAM",
+          "birthYear": 1988,
+          "mark": "51.39",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Jessica BEARD",
+          "id": "14305526",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "51.40",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lisanne DE WITTE",
+          "id": "14361462",
+          "nat": "NED",
+          "birthYear": 1992,
+          "mark": "51.80",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Justyna ŚWIĘTY-ERSETIC",
+          "id": "14361154",
+          "nat": "POL",
+          "birthYear": 1992,
+          "mark": "51.85",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Shakima WIMBLEY",
+          "id": "14467626",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "52.69",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Guifen HUANG",
+          "id": "14583568",
+          "nat": "CHN",
+          "birthYear": 1997,
+          "mark": "54.17",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 1500m - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Rababe ARAFI",
+          "id": "14290578",
+          "nat": "MAR",
+          "birthYear": 1991,
+          "mark": "4:01.15",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Gudaf TSEGAY",
+          "id": "14595214",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "4:01.25",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Winnie NANYONDO",
+          "id": "14534257",
+          "nat": "UGA",
+          "birthYear": 1993,
+          "mark": "4:01.39",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dawit SEYAUM",
+          "id": "14578833",
+          "nat": "ETH",
+          "birthYear": 1996,
+          "mark": "4:01.40",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Sifan HASSAN",
+          "id": "14489606",
+          "nat": "NED",
+          "birthYear": 1993,
+          "mark": "4:01.91",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Axumawit EMBAYE",
+          "id": "14534819",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "4:01.95",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Winny CHEBET",
+          "id": "14288808",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "4:02.94",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Alemaz SAMUEL",
+          "id": "14716074",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "4:03.79",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Alexa EFRAIMSON",
+          "id": "14522335",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "4:04.53",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Nelly JEPKOSGEI",
+          "id": "14373314",
+          "nat": "BRN",
+          "birthYear": 1991,
+          "mark": "4:05.07",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Georgia GRIFFITH",
+          "id": "14549778",
+          "nat": "AUS",
+          "birthYear": 1996,
+          "mark": "4:05.39",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Esther CHEBET",
+          "id": "14677914",
+          "nat": "UGA",
+          "birthYear": 1997,
+          "mark": "4:07.75",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Xiaoqian ZHENG",
+          "id": "14647951",
+          "nat": "CHN",
+          "birthYear": 1996,
+          "mark": "4:15.21",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Emily LIPARI",
+          "id": "14315463",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:19.94",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Kristiina MÄKI",
+          "id": "14362176",
+          "nat": "CZE",
+          "birthYear": 1991,
+          "mark": "4:24.86",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Josephine Chelangat KIPLANGAT",
+          "id": "14481134",
+          "nat": "KEN",
+          "birthYear": 1998,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Morgan MITCHELL",
+          "id": "14457910",
+          "nat": "AUS",
+          "birthYear": 1994,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 3000mSC - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Beatrice CHEPKOECH",
+          "id": "14383286",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "9:04.53",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Celliphine Chepteek CHESPOL",
+          "id": "14714407",
+          "nat": "KEN",
+          "birthYear": 1999,
+          "mark": "9:11.10",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Peruth CHEMUTAI",
+          "id": "14707661",
+          "nat": "UGA",
+          "birthYear": 1999,
+          "mark": "9:17.78",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Winfred Mutile YAVI",
+          "id": "14695622",
+          "nat": "BRN",
+          "birthYear": 1999,
+          "mark": "9:19.63",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Mercy CHEPKURUI",
+          "id": "14798263",
+          "nat": "KEN",
+          "birthYear": 1900,
+          "mark": "9:23.59",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Maruša MIŠMAŠ ZRIMŠEK",
+          "id": "14375060",
+          "nat": "SLO",
+          "birthYear": 1994,
+          "mark": "9:29.48",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Geneviève LALONDE",
+          "id": "14267715",
+          "nat": "CAN",
+          "birthYear": 1991,
+          "mark": "9:29.82",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Fancy CHERONO",
+          "id": "14798265",
+          "nat": "KEN",
+          "birthYear": 1901,
+          "mark": "9:31.00",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Shuangshuang XU",
+          "id": "14534952",
+          "nat": "CHN",
+          "birthYear": 1996,
+          "mark": "9:33.89",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Luiza GEGA",
+          "id": "14272917",
+          "nat": "ALB",
+          "birthYear": 1988,
+          "mark": "9:34.94",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Weynshet ANSA",
+          "id": "14578835",
+          "nat": "ETH",
+          "birthYear": 1996,
+          "mark": "9:43.32",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Mel LAWRENCE",
+          "id": "14366762",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "9:44.36",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Lucie SEKANOVÁ",
+          "id": "14262750",
+          "nat": "CZE",
+          "birthYear": 1989,
+          "mark": "9:49.23",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Özlem KAYA ALICI",
+          "id": "14425268",
+          "nat": "TUR",
+          "birthYear": 1990,
+          "mark": "9:58.95",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Caroline TUIGONG",
+          "id": "14288922",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Viktória WAGNER-GYÜRKÉS",
+          "id": "14281627",
+          "nat": "HUN",
+          "birthYear": 1992,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Pole Vault - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Aikaterini STEFANIDI",
+          "id": "14280914",
+          "nat": "GRE",
+          "birthYear": 1990,
+          "mark": "4.72",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nikoleta KYRIAKOPOULOU",
+          "id": "14280697",
+          "nat": "GRE",
+          "birthYear": 1986,
+          "mark": "4.72",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ling LI",
+          "id": "14266007",
+          "nat": "CHN",
+          "birthYear": 1989,
+          "mark": "4.72",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sandi MORRIS",
+          "id": "14373498",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4.72",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Katie MOON",
+          "id": "14373744",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "4.62",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Iryna ZHUK",
+          "id": "14387681",
+          "nat": "BLR",
+          "birthYear": 1993,
+          "mark": "4.52",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Alysha NEWMAN",
+          "id": "14376225",
+          "nat": "CAN",
+          "birthYear": 1994,
+          "mark": "4.52",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Holly BRADSHAW",
+          "id": "14371556",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "4.42",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Annie RHODES-JOHNIGAN",
+          "id": "14466922",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "4.42",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Huiqin XU",
+          "id": "14335475",
+          "nat": "CHN",
+          "birthYear": 1993,
+          "mark": "4.27",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Kristen LELAND",
+          "id": "14411359",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Shot Put - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Chase EALEY",
+          "id": "14533525",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "19.58",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Lijiao GONG",
+          "id": "14266426",
+          "nat": "CHN",
+          "birthYear": 1989,
+          "mark": "19.44",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Aliona DUBITSKAYA",
+          "id": "14269885",
+          "nat": "BLR",
+          "birthYear": 1990,
+          "mark": "18.78",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jessica RAMSEY",
+          "id": "14439750",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "18.61",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Danniel THOMAS-DODD",
+          "id": "14468647",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "18.54",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Maggie EWEN",
+          "id": "14426023",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "18.48",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Fanny ROOS",
+          "id": "14429853",
+          "nat": "SWE",
+          "birthYear": 1995,
+          "mark": "18.30",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Paulina GUBA",
+          "id": "14941418",
+          "nat": "POL",
+          "birthYear": 1991,
+          "mark": "17.86",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Anita MÁRTON",
+          "id": "14282022",
+          "nat": "HUN",
+          "birthYear": 1989,
+          "mark": "17.65",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Daniella HILL",
+          "id": "14330053",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "17.36",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Ka BIAN",
+          "id": "14462024",
+          "nat": "CHN",
+          "birthYear": 1993,
+          "mark": "16.79",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Javelin Throw - 18.05.2019",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Huihui LYU",
+          "id": "14265696",
+          "nat": "CHN",
+          "birthYear": 1989,
+          "mark": "66.89",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Līna MŪZE",
+          "id": "14334855",
+          "nat": "LAT",
+          "birthYear": 1992,
+          "mark": "64.87",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Christin HUSSONG",
+          "id": "14372241",
+          "nat": "GER",
+          "birthYear": 1994,
+          "mark": "64.10",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Madara PALAMEIKA",
+          "id": "14290055",
+          "nat": "LAT",
+          "birthYear": 1987,
+          "mark": "62.45",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Nikola OGRODNÍKOVÁ",
+          "id": "14262856",
+          "nat": "CZE",
+          "birthYear": 1990,
+          "mark": "61.68",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Kelsey-Lee BARBER",
+          "id": "14336705",
+          "nat": "AUS",
+          "birthYear": 1991,
+          "mark": "61.40",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ariana INCE",
+          "id": "14313260",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "60.26",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Sunette VILJOEN",
+          "id": "14297120",
+          "nat": "RSA",
+          "birthYear": 1983,
+          "mark": "57.56",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tatsiana KHALADOVICH",
+          "id": "14269852",
+          "nat": "BLR",
+          "birthYear": 1991,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's 200m - 18.05.2019",
+      "detail": "Final, wind: 0.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Aaron BROWN",
+          "id": "14366482",
+          "nat": "CAN",
+          "birthYear": 1992,
+          "mark": "20.07",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Andre DE GRASSE",
+          "id": "14535607",
+          "nat": "CAN",
+          "birthYear": 1994,
+          "mark": "20.21",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Clarence MUNYAI",
+          "id": "14630862",
+          "nat": "RSA",
+          "birthYear": 1998,
+          "mark": "20.37",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kyle GREAUX",
+          "id": "14526883",
+          "nat": "TTO",
+          "birthYear": 1988,
+          "mark": "20.40",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Nethaneel MITCHELL-BLAKE",
+          "id": "14413552",
+          "nat": "GBR",
+          "birthYear": 1994,
+          "mark": "20.60",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Alonso EDWARD",
+          "id": "14216095",
+          "nat": "PAN",
+          "birthYear": 1989,
+          "mark": "20.62",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jak Ali HARVEY",
+          "id": "14325558",
+          "nat": "TUR",
+          "birthYear": 1989,
+          "mark": "20.96",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kei TAKASE",
+          "id": "14334125",
+          "nat": "JPN",
+          "birthYear": 1988,
+          "mark": "21.43",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

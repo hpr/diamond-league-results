@@ -1,0 +1,539 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Women's Long Jump - 08.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "6.",
+          "athlete": "Maryna BEKH-ROMANCHUK",
+          "id": "14434131",
+          "nat": "UKR",
+          "birthYear": 1995,
+          "mark": "6.50",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lorraine UGEN",
+          "id": "14360085",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "6.38",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Triple Jump - 08.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Yulimar ROJAS",
+          "id": "14436431",
+          "nat": "VEN",
+          "birthYear": 1995,
+          "mark": "15.28",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Maryna BEKH-ROMANCHUK",
+          "id": "14434131",
+          "nat": "UKR",
+          "birthYear": 1995,
+          "mark": "14.96",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Shanieka RICKETTS",
+          "id": "14413464",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "14.85",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Tori FRANKLIN",
+          "id": "14425445",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "14.75",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Thea LAFOND",
+          "id": "14416826",
+          "nat": "DMA",
+          "birthYear": 1994,
+          "mark": "14.56",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Patrícia MAMONA",
+          "id": "14294964",
+          "nat": "POR",
+          "birthYear": 1988,
+          "mark": "14.24",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Shot Put - 07.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Chase EALEY",
+          "id": "14533525",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "20.19",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sarah MITTON",
+          "id": "14607093",
+          "nat": "CAN",
+          "birthYear": 1996,
+          "mark": "19.56",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Auriol DONGMO",
+          "id": "14523980",
+          "nat": "POR",
+          "birthYear": 1990,
+          "mark": "19.46",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jessica SCHILDER",
+          "id": "14688805",
+          "nat": "NED",
+          "birthYear": 1999,
+          "mark": "19.06",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Danniel THOMAS-DODD",
+          "id": "14468647",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "19.04",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Fanny ROOS",
+          "id": "14429853",
+          "nat": "SWE",
+          "birthYear": 1995,
+          "mark": "18.37",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Discus Throw - 08.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Valarie ALLMAN",
+          "id": "14479216",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "67.77",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sandra PERKOVIĆ",
+          "id": "14263753",
+          "nat": "CRO",
+          "birthYear": 1990,
+          "mark": "67.31",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Liliana CÁ",
+          "id": "14294819",
+          "nat": "POR",
+          "birthYear": 1986,
+          "mark": "63.34",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kristin PUDENZ",
+          "id": "14361447",
+          "nat": "GER",
+          "birthYear": 1993,
+          "mark": "61.45",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Claudine VITA",
+          "id": "14453080",
+          "nat": "GER",
+          "birthYear": 1996,
+          "mark": "61.34",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Laulauga TAUSAGA",
+          "id": "14647494",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "58.90",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Javelin Throw - 08.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kara WINGER",
+          "id": "14318617",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "64.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kelsey-Lee BARBER",
+          "id": "14336705",
+          "nat": "AUS",
+          "birthYear": 1991,
+          "mark": "63.72",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Haruka KITAGUCHI",
+          "id": "14649131",
+          "nat": "JPN",
+          "birthYear": 1998,
+          "mark": "63.56",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Līna MŪZE",
+          "id": "14334855",
+          "nat": "LAT",
+          "birthYear": 1992,
+          "mark": "60.35",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Barbora ŠPOTÁKOVÁ",
+          "id": "14262671",
+          "nat": "CZE",
+          "birthYear": 1981,
+          "mark": "59.08",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Liveta JASIŪNAITĖ",
+          "id": "14417641",
+          "nat": "LTU",
+          "birthYear": 1994,
+          "mark": "57.73",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 5km Road Race - 07.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Beatrice CHEBET",
+          "id": "14749924",
+          "nat": "KEN",
+          "birthYear": 1900,
+          "mark": "14:32",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Margaret Chelimo KIPKEMBOI",
+          "id": "14375882",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "14:32",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Gudaf TSEGAY",
+          "id": "14595214",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "14:33",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ejgayehu TAYE",
+          "id": "14848746",
+          "nat": "ETH",
+          "birthYear": 1900,
+          "mark": "14:33",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Sifan HASSAN",
+          "id": "14489606",
+          "nat": "NED",
+          "birthYear": 1993,
+          "mark": "14:38",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Alicia MONSON",
+          "id": "14708276",
+          "nat": "USA",
+          "birthYear": 1998,
+          "mark": "14:38",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Hawi FEYSA",
+          "id": "14786742",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "14:58",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Amy-Eloise MARKOVC",
+          "id": "14404580",
+          "nat": "GBR",
+          "birthYear": 1995,
+          "mark": "15:29",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Marta GARCÍA",
+          "id": "14635475",
+          "nat": "ESP",
+          "birthYear": 1998,
+          "mark": "15:50",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Rose DAVIES",
+          "id": "14517594",
+          "nat": "AUS",
+          "birthYear": 1999,
+          "mark": "16:08",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Viktória WAGNER-GYÜRKÉS",
+          "id": "14281627",
+          "nat": "HUN",
+          "birthYear": 1992,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "National Events": [
+    {
+      "title": "Men's 400m - 08.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Wayde VAN NIEKERK",
+          "id": "14417677",
+          "nat": "RSA",
+          "birthYear": 1992,
+          "mark": "44.39",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Wilbert LONDON",
+          "id": "14601442",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "44.78",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Lionel SPITZ",
+          "id": "14794967",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "45.53",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Davide RE",
+          "id": "14375605",
+          "nat": "ITA",
+          "birthYear": 1993,
+          "mark": "45.59",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Alex HAYDOCK-WILSON",
+          "id": "14735578",
+          "nat": "GBR",
+          "birthYear": 1999,
+          "mark": "45.93",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ramsey ANGELA",
+          "id": "14709423",
+          "nat": "NED",
+          "birthYear": 1999,
+          "mark": "46.41",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Charles DEVANTAY",
+          "id": "14701580",
+          "nat": "SUI",
+          "birthYear": 1998,
+          "mark": "46.53",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Dany BRAND",
+          "id": "14513352",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "46.85",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "title": "Women's 400m - 08.09.2022",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Amandine BROSSIER",
+          "id": "14678934",
+          "nat": "FRA",
+          "birthYear": 1995,
+          "mark": "51.21",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Susanne GOGL-WALLI",
+          "id": "14446721",
+          "nat": "AUT",
+          "birthYear": 1996,
+          "mark": "51.74",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Silke LEMMENS",
+          "id": "14570205",
+          "nat": "SUI",
+          "birthYear": 1999,
+          "mark": "52.03",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Annina FAHR",
+          "id": "14407894",
+          "nat": "SUI",
+          "birthYear": 1993,
+          "mark": "52.05",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Eveline SAALBERG",
+          "id": "14561420",
+          "nat": "NED",
+          "birthYear": 1998,
+          "mark": "52.40",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lisanne DE WITTE",
+          "id": "14361462",
+          "nat": "NED",
+          "birthYear": 1992,
+          "mark": "52.71",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Julia NIEDERBERGER",
+          "id": "14720623",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "52.86",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Yasmin GIGER",
+          "id": "14573915",
+          "nat": "SUI",
+          "birthYear": 1999,
+          "mark": "52.90",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    }
+  ]
+}

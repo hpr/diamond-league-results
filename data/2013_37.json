@@ -1,0 +1,2190 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 30.06.2013",
+      "detail": "Final, wind: +0.8",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Nesta CARTER",
+          "id": "14201894",
+          "nat": "JAM",
+          "birthYear": 1985,
+          "mark": "9.99",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "James DASAOLU",
+          "id": "14188983",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "10.03",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kim COLLINS",
+          "id": "14224942",
+          "nat": "SKN",
+          "birthYear": 1976,
+          "mark": "10.06",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Michael RODGERS",
+          "id": "14249856",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "10.07",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Jimmy VICAUT",
+          "id": "14334964",
+          "nat": "FRA",
+          "birthYear": 1992,
+          "mark": "10.10",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "James ELLINGTON",
+          "id": "14189152",
+          "nat": "GBR",
+          "birthYear": 1985,
+          "mark": "10.17",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Kimmari ROACH",
+          "id": "14335530",
+          "nat": "JAM",
+          "birthYear": 1989,
+          "mark": "10.17",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Julian FORTE",
+          "id": "14367596",
+          "nat": "JAM",
+          "birthYear": 1993,
+          "mark": "10.26",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "detail": "Heat 1, wind: -0.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kim COLLINS",
+          "id": "14224942",
+          "nat": "SKN",
+          "birthYear": 1976,
+          "mark": "10.13",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kimmari ROACH",
+          "id": "14335530",
+          "nat": "JAM",
+          "birthYear": 1989,
+          "mark": "10.23",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Nesta CARTER",
+          "id": "14201894",
+          "nat": "JAM",
+          "birthYear": 1985,
+          "mark": "10.26",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "James ELLINGTON",
+          "id": "14189152",
+          "nat": "GBR",
+          "birthYear": 1985,
+          "mark": "10.29",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Keston BLEDMAN",
+          "id": "14228969",
+          "nat": "TTO",
+          "birthYear": 1988,
+          "mark": "10.32",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Mark LEWIS-FRANCIS",
+          "id": "14189912",
+          "nat": "GBR",
+          "birthYear": 1982,
+          "mark": "10.37",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Gabriel MVUMVURE",
+          "id": "14256526",
+          "nat": "ZIM",
+          "birthYear": 1988,
+          "mark": "10.38",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Yoshihide KIRYU",
+          "id": "14547456",
+          "nat": "JPN",
+          "birthYear": 1995,
+          "mark": "10.55",
+          "doping": ""
+        }
+      ],
+      "title": "Men's 100m - 30.06.2013",
+      "category": "Diamond Discipline"
+    },
+    {
+      "detail": "Heat 2, wind: -1.3",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "James DASAOLU",
+          "id": "14188983",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "10.05",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Michael RODGERS",
+          "id": "14249856",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "10.13",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jimmy VICAUT",
+          "id": "14334964",
+          "nat": "FRA",
+          "birthYear": 1992,
+          "mark": "10.22",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Julian FORTE",
+          "id": "14367596",
+          "nat": "JAM",
+          "birthYear": 1993,
+          "mark": "10.27",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Calesio NEWMAN",
+          "id": "14247139",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "10.32",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Joel FEARON",
+          "id": "14359951",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "10.34",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Isiah YOUNG",
+          "id": "14360879",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "10.35",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Harry AIKINES-ARYEETEY",
+          "id": "14188310",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "10.38",
+          "doping": ""
+        }
+      ],
+      "title": "Men's 100m - 30.06.2013",
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 800m - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mohammed AMAN",
+          "id": "14329603",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "1:45.18",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "André OLIVIER",
+          "id": "14220901",
+          "nat": "RSA",
+          "birthYear": 1989,
+          "mark": "1:45.64",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Andrew OSAGIE",
+          "id": "14190357",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "1:45.80",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Erik SOWINSKI",
+          "id": "14360557",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "1:46.07",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Gareth WARBURTON",
+          "id": "14191138",
+          "nat": "GBR",
+          "birthYear": 1983,
+          "mark": "1:47.50",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Mark WIECZOREK",
+          "id": "14254842",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "1:48.74",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Mukhtar MOHAMMED",
+          "id": "14422615",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "1:51.97",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Matthew SCHERER",
+          "id": "14250593",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jeremiah Kipkorir MUTAI",
+          "id": "14375723",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "DQ",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Michael RIMMER",
+          "id": "14190598",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "DNS",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 5000m - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mo FARAH",
+          "id": "14189197",
+          "nat": "GBR",
+          "birthYear": 1983,
+          "mark": "13:14.24",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yenew ALAMIREW",
+          "id": "14423358",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "13:14.71",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hagos GEBRHIWET",
+          "id": "14477352",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "13:17.11",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ibrahim JEILAN",
+          "id": "14181523",
+          "nat": "ETH",
+          "birthYear": 1989,
+          "mark": "13:19.88",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Mark Kosgei KIPTOO",
+          "id": "14208497",
+          "nat": "KEN",
+          "birthYear": 1976,
+          "mark": "13:20.51",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Moses Ndiema KIPSIRO",
+          "id": "14229608",
+          "nat": "UGA",
+          "birthYear": 1986,
+          "mark": "13:22.96",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Chris THOMPSON",
+          "id": "14191000",
+          "nat": "GBR",
+          "birthYear": 1981,
+          "mark": "13:24.06",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Collis BIRMINGHAM",
+          "id": "14180101",
+          "nat": "AUS",
+          "birthYear": 1984,
+          "mark": "13:29.53",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Abrar OSMAN",
+          "id": "14431144",
+          "nat": "ERI",
+          "birthYear": 1994,
+          "mark": "13:29.69",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Yigrem DEMELASH",
+          "id": "14498755",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "13:29.79",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Kaan Kigen ÖZBILEN",
+          "id": "14208053",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "13:36.51",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Vincent Kiprop CHEPKOK",
+          "id": "14207542",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "13:39.41",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Thomas FARRELL",
+          "id": "14372893",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "13:46.62",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Arne GABIUS",
+          "id": "14192152",
+          "nat": "GER",
+          "birthYear": 1981,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Geofrey BARUSEI",
+          "id": "14472773",
+          "nat": "KEN",
+          "birthYear": 1994,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Gideon GATHIMBA",
+          "id": "14207742",
+          "nat": "KEN",
+          "birthYear": 1980,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400mH - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Javier CULSON",
+          "id": "14218778",
+          "nat": "PUR",
+          "birthYear": 1984,
+          "mark": "48.59",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Rhys WILLIAMS",
+          "id": "14191260",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "48.93",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Michael TINSLEY",
+          "id": "14253267",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "48.94",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jehue GORDON",
+          "id": "14326172",
+          "nat": "TTO",
+          "birthYear": 1991,
+          "mark": "49.02",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "David GREENE",
+          "id": "14189416",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "49.55",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Mamadou Kasse HANN",
+          "id": "14224816",
+          "nat": "SEN",
+          "birthYear": 1986,
+          "mark": "49.60",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Félix SÁNCHEZ",
+          "id": "14167679",
+          "nat": "DOM",
+          "birthYear": 1977,
+          "mark": "49.68",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mahau SUGUIMATI",
+          "id": "14175200",
+          "nat": "BRA",
+          "birthYear": 1984,
+          "mark": "49.96",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's High Jump - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Bohdan BONDARENKO",
+          "id": "14229763",
+          "nat": "UKR",
+          "birthYear": 1989,
+          "mark": "2.36",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Erik KYNARD",
+          "id": "14243470",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "2.34",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Robbie GRABARZ",
+          "id": "14189380",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "2.31",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Tom PARSONS",
+          "id": "14190416",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "2.25",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Mihai DONISAN",
+          "id": "14219269",
+          "nat": "ROU",
+          "birthYear": 1988,
+          "mark": "2.21",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Aleksey DMITRIK",
+          "id": "14222075",
+          "nat": "RUS",
+          "birthYear": 1984,
+          "mark": "2.21",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Brandon STARC",
+          "id": "14387190",
+          "nat": "AUS",
+          "birthYear": 1993,
+          "mark": "2.21",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jesse WILLIAMS",
+          "id": "14255037",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "2.16",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Long Jump - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Aleksandr MENKOV",
+          "id": "14941413",
+          "nat": "RUS",
+          "birthYear": 1990,
+          "mark": "8.27",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Greg RUTHERFORD",
+          "id": "14190672",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "8.11",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Chris TOMLINSON",
+          "id": "14191031",
+          "nat": "GBR",
+          "birthYear": 1981,
+          "mark": "7.97",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Godfrey Khotso MOKOENA",
+          "id": "14220668",
+          "nat": "RSA",
+          "birthYear": 1985,
+          "mark": "7.90",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ngonidzashe MAKUSHA",
+          "id": "14256500",
+          "nat": "ZIM",
+          "birthYear": 1987,
+          "mark": "7.83",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Michel TORNÉUS",
+          "id": "14228155",
+          "nat": "SWE",
+          "birthYear": 1986,
+          "mark": "7.81",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Dwight PHILLIPS",
+          "id": "14248429",
+          "nat": "USA",
+          "birthYear": 1977,
+          "mark": "7.72",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Zarck VISSER",
+          "id": "14221485",
+          "nat": "RSA",
+          "birthYear": 1989,
+          "mark": "7.69",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Triple Jump - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Christian TAYLOR",
+          "id": "14252807",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "17.66",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Teddy TAMGHO",
+          "id": "14187757",
+          "nat": "FRA",
+          "birthYear": 1989,
+          "mark": "17.47",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Yoann RAPINIER",
+          "id": "14187254",
+          "nat": "FRA",
+          "birthYear": 1989,
+          "mark": "16.88",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Nathan DOUGLAS",
+          "id": "14189084",
+          "nat": "GBR",
+          "birthYear": 1982,
+          "mark": "16.70",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Samyr LAINE",
+          "id": "14243516",
+          "nat": "HAI",
+          "birthYear": 1984,
+          "mark": "16.36",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Harold CORREA",
+          "id": "14184029",
+          "nat": "FRA",
+          "birthYear": 1988,
+          "mark": "16.36",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jonathan Henrique SILVA",
+          "id": "14366945",
+          "nat": "BRA",
+          "birthYear": 1991,
+          "mark": "16.10",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Benjamin COMPAORÉ",
+          "id": "14183986",
+          "nat": "FRA",
+          "birthYear": 1987,
+          "mark": "16.04",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Shot Put - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Reese HOFFA",
+          "id": "14240894",
+          "nat": "USA",
+          "birthYear": 1977,
+          "mark": "21.31",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ryan WHITING",
+          "id": "14254801",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "20.89",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ladislav PRÁŠIL",
+          "id": "14940722",
+          "nat": "CZE",
+          "birthYear": 1990,
+          "mark": "20.76",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Tomasz MAJEWSKI",
+          "id": "14217130",
+          "nat": "POL",
+          "birthYear": 1981,
+          "mark": "20.45",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Georgi IVANOV",
+          "id": "14174986",
+          "nat": "BUL",
+          "birthYear": 1985,
+          "mark": "19.90",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Marco FORTES",
+          "id": "14218235",
+          "nat": "POR",
+          "birthYear": 1982,
+          "mark": "19.32",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Zane DUQUEMIN",
+          "id": "14375293",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "18.64",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Javelin Throw - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Andreas THORKILDSEN",
+          "id": "14215526",
+          "nat": "NOR",
+          "birthYear": 1982,
+          "mark": "83.94",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ari MANNIO",
+          "id": "14182247",
+          "nat": "FIN",
+          "birthYear": 1987,
+          "mark": "83.26",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Dmitriy TARABIN",
+          "id": "14940426",
+          "nat": "RUS",
+          "birthYear": 1991,
+          "mark": "83.03",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Roman AVRAMENKO",
+          "id": "14229701",
+          "nat": "UKR",
+          "birthYear": 1988,
+          "mark": "81.72",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kim AMB",
+          "id": "14227321",
+          "nat": "SWE",
+          "birthYear": 1990,
+          "mark": "81.11",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Stuart FARQUHAR",
+          "id": "14215658",
+          "nat": "NZL",
+          "birthYear": 1982,
+          "mark": "79.34",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lee DORAN",
+          "id": "14189076",
+          "nat": "GBR",
+          "birthYear": 1985,
+          "mark": "72.56",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Vítězslav VESELÝ",
+          "id": "14168124",
+          "nat": "CZE",
+          "birthYear": 1983,
+          "mark": "69.89",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 200m - 30.06.2013",
+      "detail": "Final, wind: +0.9",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Blessing OKAGBARE",
+          "id": "14292330",
+          "nat": "NGR",
+          "birthYear": 1988,
+          "mark": "22.55",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Shelly-Ann FRASER-PRYCE",
+          "id": "14285680",
+          "nat": "JAM",
+          "birthYear": 1986,
+          "mark": "22.72",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ivet LALOVA-COLLIO",
+          "id": "14268643",
+          "nat": "BUL",
+          "birthYear": 1984,
+          "mark": "23.02",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mariya RYEMYEN",
+          "id": "14304082",
+          "nat": "UKR",
+          "birthYear": 1987,
+          "mark": "23.07",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Anyika ONUORA",
+          "id": "14275975",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "23.13",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Sherone SIMPSON",
+          "id": "14285909",
+          "nat": "JAM",
+          "birthYear": 1984,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "6.",
+          "athlete": "Carmelita JETER",
+          "id": "14313618",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "23.36",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Anthonique STRACHAN",
+          "id": "14368117",
+          "nat": "BAH",
+          "birthYear": 1993,
+          "mark": "DQ",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400m - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Christine OHURUOGU",
+          "id": "14275963",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "50.63",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Amantle MONTSHO",
+          "id": "14269474",
+          "nat": "BOT",
+          "birthYear": 1983,
+          "mark": "50.64",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Novlene WILLIAMS-MILLS",
+          "id": "14286000",
+          "nat": "JAM",
+          "birthYear": 1982,
+          "mark": "51.03",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Natasha HASTINGS",
+          "id": "14312172",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "51.44",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Stephenie Ann MCPHERSON",
+          "id": "14285809",
+          "nat": "JAM",
+          "birthYear": 1988,
+          "mark": "51.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Regina GEORGE",
+          "id": "14310865",
+          "nat": "NGR",
+          "birthYear": 1991,
+          "mark": "52.15",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Rebecca ALEXANDER",
+          "id": "14304636",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "53.22",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ebonie FLOYD",
+          "id": "14310239",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "55.91",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 1500m - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Abeba AREGAWI",
+          "id": "14360651",
+          "nat": "SWE",
+          "birthYear": 1990,
+          "mark": "4:03.70",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nancy Jebet LANGAT",
+          "id": "14289224",
+          "nat": "KEN",
+          "birthYear": 1981,
+          "mark": "4:04.53",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Yekaterina SHARMINA",
+          "id": "14298562",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "3.",
+          "athlete": "Laura WEIGHTMAN",
+          "id": "14276688",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "4:06.22",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Nicole SIFUENTES",
+          "id": "14268054",
+          "nat": "CAN",
+          "birthYear": 1986,
+          "mark": "4:06.45",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Susan KRUMINS",
+          "id": "14291825",
+          "nat": "NED",
+          "birthYear": 1986,
+          "mark": "4:06.84",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hannah ENGLAND",
+          "id": "14274986",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "4:07.23",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Laura MUIR",
+          "id": "14422111",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "4:07.76",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Gabriele GRUNEWALD",
+          "id": "14304816",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "4:07.98",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Lisa DOBRISKEY",
+          "id": "14274903",
+          "nat": "GBR",
+          "birthYear": 1983,
+          "mark": "4:08.08",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Zoe BUCKMAN",
+          "id": "14272380",
+          "nat": "AUS",
+          "birthYear": 1988,
+          "mark": "4:08.48",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Morgan UCENY",
+          "id": "14323124",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "4:08.49",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Maryam Yusuf JAMAL",
+          "id": "14268773",
+          "nat": "BRN",
+          "birthYear": 1984,
+          "mark": "4:09.99",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Corinna HARRER",
+          "id": "14277904",
+          "nat": "GER",
+          "birthYear": 1991,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Renata PLIŚ",
+          "id": "14294279",
+          "nat": "POL",
+          "birthYear": 1985,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100mH - 30.06.2013",
+      "detail": "Final, wind: -0.5",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Dawn HARPER-NELSON",
+          "id": "14311987",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "12.64",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kellie WELLS",
+          "id": "14323894",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "12.67",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Tiffany PORTER",
+          "id": "14318196",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "12.72",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sally PEARSON",
+          "id": "14271668",
+          "nat": "AUS",
+          "birthYear": 1986,
+          "mark": "12.73",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kristi CASTLIN",
+          "id": "14307379",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "12.80",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Andrea BLISS",
+          "id": "14285558",
+          "nat": "JAM",
+          "birthYear": 1980,
+          "mark": "13.01",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lucie ŠKROBÁKOVÁ",
+          "id": "14262917",
+          "nat": "CZE",
+          "birthYear": 1982,
+          "mark": "13.08",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "LaVonne IDLETTE",
+          "id": "14313238",
+          "nat": "DOM",
+          "birthYear": 1985,
+          "mark": "13.30",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 3000mSC - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Milcah CHEMOS",
+          "id": "14372673",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "9:17.43",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sofia ASSEFA",
+          "id": "14259922",
+          "nat": "ETH",
+          "birthYear": 1987,
+          "mark": "9:17.97",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hiwot AYALEW",
+          "id": "14446122",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "9:18.83",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Lidya CHEPKURUI",
+          "id": "14472839",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "9:23.00",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Etenesh DIRO",
+          "id": "14377849",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "9:28.90",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Purity KIRUI",
+          "id": "14334458",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "9:32.16",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Fancy CHEROTICH",
+          "id": "14288959",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "9:43.23",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ancuţa BOBOCEL",
+          "id": "14295440",
+          "nat": "ROU",
+          "birthYear": 1987,
+          "mark": "9:46.03",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Nicole BUSH",
+          "id": "14306935",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "9:51.19",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Lennie WAITE",
+          "id": "14323487",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "10:06.73",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Mary BALLINGER",
+          "id": "14305266",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "10:09.24",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Stephanie GARCIA",
+          "id": "14310707",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "10:12.89",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Birtukan Fente ALEMU",
+          "id": "14259942",
+          "nat": "ETH",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Virginia NYAMBURA",
+          "id": "14425796",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Genevieve GREGSON",
+          "id": "14271807",
+          "nat": "AUS",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Pole Vault - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Yarisley SILVA",
+          "id": "14263377",
+          "nat": "CUB",
+          "birthYear": 1987,
+          "mark": "4.73",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Fabiana MURER",
+          "id": "14269252",
+          "nat": "BRA",
+          "birthYear": 1981,
+          "mark": "4.63",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jennifer SUHR",
+          "id": "14322231",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "4.53",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Anna ROGOWSKA",
+          "id": "14294343",
+          "nat": "POL",
+          "birthYear": 1981,
+          "mark": "4.53",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Mary SAXER",
+          "id": "14320645",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "4.38",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Martina STRUTZ",
+          "id": "14279971",
+          "nat": "GER",
+          "birthYear": 1981,
+          "mark": "4.38",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Nikoleta KYRIAKOPOULOU",
+          "id": "14280697",
+          "nat": "GRE",
+          "birthYear": 1986,
+          "mark": "4.38",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Alana BOYD",
+          "id": "14272414",
+          "nat": "AUS",
+          "birthYear": 1984,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Discus Throw - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sandra PERKOVIĆ",
+          "id": "14263753",
+          "nat": "CRO",
+          "birthYear": 1990,
+          "mark": "64.32",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Gia LEWIS-SMALLWOOD",
+          "id": "14315338",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "62.46",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Anna RÜH",
+          "id": "14363165",
+          "nat": "GER",
+          "birthYear": 1993,
+          "mark": "62.14",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dani STEVENS",
+          "id": "14271355",
+          "nat": "AUS",
+          "birthYear": 1988,
+          "mark": "61.28",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Melina ROBERT-MICHON",
+          "id": "14273725",
+          "nat": "FRA",
+          "birthYear": 1979,
+          "mark": "59.50",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Nadine MÜLLER",
+          "id": "14278999",
+          "nat": "GER",
+          "birthYear": 1985,
+          "mark": "58.87",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Żaneta GLANC",
+          "id": "14293644",
+          "nat": "POL",
+          "birthYear": 1983,
+          "mark": "58.82",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jade LALLY",
+          "id": "14275909",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "58.54",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's 1500m - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Aman WOTE",
+          "id": "14429188",
+          "nat": "ETH",
+          "birthYear": 1984,
+          "mark": "3:35.99",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Abdelaati IGUIDER",
+          "id": "14212221",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "3:36.23",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Mohamed MOUSTAOUI",
+          "id": "14212385",
+          "nat": "MAR",
+          "birthYear": 1985,
+          "mark": "3:36.75",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Bouabdellah TAHRI",
+          "id": "14187746",
+          "nat": "FRA",
+          "birthYear": 1978,
+          "mark": "3:36.87",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Henrik INGEBRIGTSEN",
+          "id": "14215338",
+          "nat": "NOR",
+          "birthYear": 1991,
+          "mark": "3:37.16",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Florian CARVALHO DE FONSESCO",
+          "id": "14183723",
+          "nat": "FRA",
+          "birthYear": 1989,
+          "mark": "3:37.51",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Carsten SCHLANGEN",
+          "id": "14194033",
+          "nat": "GER",
+          "birthYear": 1980,
+          "mark": "3:37.97",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Chris O'HARE",
+          "id": "14334424",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "3:38.54",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Teshome DIRIRSA",
+          "id": "14473933",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "3:39.46",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "James KAAN",
+          "id": "14179408",
+          "nat": "AUS",
+          "birthYear": 1990,
+          "mark": "3:40.07",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Lee EMANUEL",
+          "id": "14189164",
+          "nat": "GBR",
+          "birthYear": 1985,
+          "mark": "3:40.25",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Charlie DA'VALL GRICE",
+          "id": "14379043",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "3:40.68",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "James SHANE",
+          "id": "14190734",
+          "nat": "GBR",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "David BISHOP",
+          "id": "14188568",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Abraham KIPLAGAT",
+          "id": "14416935",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 110mH - 30.06.2013",
+      "detail": "Final, wind: +2.6",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ryan BRATHWAITE",
+          "id": "14177898",
+          "nat": "BAR",
+          "birthYear": 1988,
+          "mark": "13.13",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Aries MERRITT",
+          "id": "14245965",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "13.22",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Artur NOGA",
+          "id": "14217258",
+          "nat": "POL",
+          "birthYear": 1988,
+          "mark": "13.32",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Pascal MARTINOT-LAGARDE",
+          "id": "14360095",
+          "nat": "FRA",
+          "birthYear": 1991,
+          "mark": "13.33",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Balázs BAJI",
+          "id": "14195900",
+          "nat": "HUN",
+          "birthYear": 1989,
+          "mark": "13.39",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Omoghan OSAGHAE",
+          "id": "14247730",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "13.60",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Barrett NUGENT",
+          "id": "14247369",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "13.76",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "David PAYNE",
+          "id": "14248115",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "DQ",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "detail": "Heat 1, wind: +1.5",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Aries MERRITT",
+          "id": "14245965",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "13.23",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ryan BRATHWAITE",
+          "id": "14177898",
+          "nat": "BAR",
+          "birthYear": 1988,
+          "mark": "13.23",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Artur NOGA",
+          "id": "14217258",
+          "nat": "POL",
+          "birthYear": 1988,
+          "mark": "13.38",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Barrett NUGENT",
+          "id": "14247369",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "13.48",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Dwight THOMAS",
+          "id": "14202275",
+          "nat": "JAM",
+          "birthYear": 1980,
+          "mark": "13.50",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "William SHARMAN",
+          "id": "14190738",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "13.56",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Selim NURUDEEN",
+          "id": "14215035",
+          "nat": "NGR",
+          "birthYear": 1983,
+          "mark": "13.57",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Thomas MARTINOT-LAGARDE",
+          "id": "14186360",
+          "nat": "FRA",
+          "birthYear": 1988,
+          "mark": "13.90",
+          "doping": ""
+        }
+      ],
+      "title": "Men's 110mH - 30.06.2013",
+      "category": "Promotional Events"
+    },
+    {
+      "detail": "Heat 2, wind: +1.3",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Pascal MARTINOT-LAGARDE",
+          "id": "14360095",
+          "nat": "FRA",
+          "birthYear": 1991,
+          "mark": "13.40",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "David PAYNE",
+          "id": "14248115",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "13.42",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Balázs BAJI",
+          "id": "14195900",
+          "nat": "HUN",
+          "birthYear": 1989,
+          "mark": "13.45",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Omoghan OSAGHAE",
+          "id": "14247730",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "13.50",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Mikel THOMAS",
+          "id": "14253066",
+          "nat": "TTO",
+          "birthYear": 1987,
+          "mark": "13.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Gianni FRANKIS",
+          "id": "14189283",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "13.64",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Martin MAZÁČ",
+          "id": "14168554",
+          "nat": "CZE",
+          "birthYear": 1990,
+          "mark": "13.65",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Lehann FOURIE",
+          "id": "14220039",
+          "nat": "RSA",
+          "birthYear": 1987,
+          "mark": "14.18",
+          "doping": ""
+        }
+      ],
+      "title": "Men's 110mH - 30.06.2013",
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 800m - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jessica WARNER-JUDD",
+          "id": "14336301",
+          "nat": "GBR",
+          "birthYear": 1995,
+          "mark": "1:59.85",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Marilyn OKORO",
+          "id": "14275966",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "2:00.76",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Fantu MAGISO",
+          "id": "14429098",
+          "nat": "ETH",
+          "birthYear": 1992,
+          "mark": "2:01.12",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Yvonne HAK",
+          "id": "14291688",
+          "nat": "NED",
+          "birthYear": 1986,
+          "mark": "2:01.87",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kelly HETHERINGTON",
+          "id": "14271967",
+          "nat": "AUS",
+          "birthYear": 1989,
+          "mark": "2:02.13",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Yelena KOTULSKAYA",
+          "id": "14298153",
+          "nat": "RUS",
+          "birthYear": 1988,
+          "mark": "2:02.33",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lea WALLACE",
+          "id": "14323560",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "2:03.02",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Emma JACKSON",
+          "id": "14275428",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "2:04.52",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Laura CROWE",
+          "id": "14283172",
+          "nat": "IRL",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Angelika CICHOCKA",
+          "id": "14293508",
+          "nat": "POL",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 400mH - 30.06.2013",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Perri SHAKES-DRAYTON",
+          "id": "14276312",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "53.82",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Eilidh DOYLE",
+          "id": "14274691",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "54.22",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Yadisleidis PEDROSO",
+          "id": "14263443",
+          "nat": "ITA",
+          "birthYear": 1987,
+          "mark": "55.40",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Meghan BEESLEY",
+          "id": "14274466",
+          "nat": "GBR",
+          "birthYear": 1989,
+          "mark": "55.73",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Tiffany WILLIAMS",
+          "id": "14320284",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "56.06",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Angela MOROŞANU",
+          "id": "14295767",
+          "nat": "ROU",
+          "birthYear": 1986,
+          "mark": "56.69",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Shevon STODDART",
+          "id": "14285942",
+          "nat": "JAM",
+          "birthYear": 1982,
+          "mark": "57.01",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ajoke ODUMOSU",
+          "id": "14292468",
+          "nat": "NGR",
+          "birthYear": 1987,
+          "mark": "57.19",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

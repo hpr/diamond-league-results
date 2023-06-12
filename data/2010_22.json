@@ -1,0 +1,2196 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 27.08.2010",
+      "detail": "Final, wind: +0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Tyson GAY",
+          "id": "14238588",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "9.79",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nesta CARTER",
+          "id": "14201894",
+          "nat": "JAM",
+          "birthYear": 1985,
+          "mark": "9.85",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Yohan BLAKE",
+          "id": "14201842",
+          "nat": "JAM",
+          "birthYear": 1989,
+          "mark": "9.91",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Daniel BAILEY",
+          "id": "14180555",
+          "nat": "ANT",
+          "birthYear": 1986,
+          "mark": "10.09",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Richard THOMPSON",
+          "id": "14229106",
+          "nat": "TTO",
+          "birthYear": 1985,
+          "mark": "10.11",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Mario FORSYTHE",
+          "id": "14201990",
+          "nat": "JAM",
+          "birthYear": 1985,
+          "mark": "10.12",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Trell KIMMONS",
+          "id": "14242966",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "10.20",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Dexter LEE",
+          "id": "14202087",
+          "nat": "JAM",
+          "birthYear": 1991,
+          "mark": "10.21",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Martial MBANDJOCK",
+          "id": "14186427",
+          "nat": "FRA",
+          "birthYear": 1985,
+          "mark": "10.26",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 800m - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "David RUDISHA",
+          "id": "14209691",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "1:43.50",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Abubaker KAKI",
+          "id": "14225691",
+          "nat": "SUD",
+          "birthYear": 1989,
+          "mark": "1:43.84",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Boaz Kiplagat LALANG",
+          "id": "14208839",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "1:44.29",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Marcin LEWANDOWSKI",
+          "id": "14217081",
+          "nat": "POL",
+          "birthYear": 1987,
+          "mark": "1:44.97",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Jackson Mumbwa KIVUVA",
+          "id": "14208600",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "1:45.62",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "David Mutinda MUTUA",
+          "id": "14330372",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "1:45.90",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Antonio Manuel REINA",
+          "id": "14165281",
+          "nat": "ESP",
+          "birthYear": 1981,
+          "mark": "1:45.97",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Duane SOLOMON",
+          "id": "14251836",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "1:46.17",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Belal Mansoor ALI",
+          "id": "14175141",
+          "nat": "BRN",
+          "birthYear": 1988,
+          "mark": "1:46.74",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Bram SOM",
+          "id": "14214387",
+          "nat": "NED",
+          "birthYear": 1980,
+          "mark": "1:48.06",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sammy TANGUI",
+          "id": "14209850",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 1500m - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Asbel KIPROP",
+          "id": "14208403",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:32.18",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Leonel MANZANO",
+          "id": "14244872",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "3:32.37",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Augustine Kiprono CHOGE",
+          "id": "14207679",
+          "nat": "KEN",
+          "birthYear": 1987,
+          "mark": "3:32.88",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mekonnen GEBREMEDHIN",
+          "id": "14181467",
+          "nat": "ETH",
+          "birthYear": 1988,
+          "mark": "3:33.40",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Thomas LANCASHIRE",
+          "id": "14189853",
+          "nat": "GBR",
+          "birthYear": 1985,
+          "mark": "3:33.96",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Daniel Kipchirchir KOMEN",
+          "id": "14208668",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "3:34.03",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Carsten SCHLANGEN",
+          "id": "14194033",
+          "nat": "GER",
+          "birthYear": 1980,
+          "mark": "3:34.19",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Collis BIRMINGHAM",
+          "id": "14180101",
+          "nat": "AUS",
+          "birthYear": 1984,
+          "mark": "3:35.50",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Nixon Kiplimo CHEPSEBA",
+          "id": "14377806",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "3:36.14",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Abdelaati IGUIDER",
+          "id": "14212221",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "3:36.73",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Álvaro FERNÁNDEZ CEREZO",
+          "id": "14166563",
+          "nat": "ESP",
+          "birthYear": 1981,
+          "mark": "3:37.13",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Kristof VAN MALDEREN",
+          "id": "14177221",
+          "nat": "BEL",
+          "birthYear": 1983,
+          "mark": "3:37.36",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Arturo CASADO",
+          "id": "14166923",
+          "nat": "ESP",
+          "birthYear": 1983,
+          "mark": "3:37.67",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Samir DAHMANI",
+          "id": "14184110",
+          "nat": "FRA",
+          "birthYear": 1991,
+          "mark": "3:38.01",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Ismael Kipngetich KOMBICH",
+          "id": "14208664",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "3:40.98",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Johan CRONJE",
+          "id": "14219872",
+          "nat": "RSA",
+          "birthYear": 1982,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Víctor SECO",
+          "id": "14164956",
+          "nat": "ESP",
+          "birthYear": 1985,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "David KRUMMENACKER",
+          "id": "14243399",
+          "nat": "USA",
+          "birthYear": 1975,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400mH - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Bershawn JACKSON",
+          "id": "14241618",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "47.85",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "David GREENE",
+          "id": "14189416",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "48.26",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Javier CULSON",
+          "id": "14218778",
+          "nat": "PUR",
+          "birthYear": 1984,
+          "mark": "48.71",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Justin GAYMON",
+          "id": "14238593",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "49.30",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Michael BULTHEEL",
+          "id": "14177693",
+          "nat": "BEL",
+          "birthYear": 1986,
+          "mark": "49.38",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Angelo TAYLOR",
+          "id": "14252793",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "49.72",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jehue GORDON",
+          "id": "14326172",
+          "nat": "TTO",
+          "birthYear": 1991,
+          "mark": "49.80",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Sébastien MAILLARD",
+          "id": "14186214",
+          "nat": "FRA",
+          "birthYear": 1981,
+          "mark": "50.75",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Nils DUERINCK",
+          "id": "14177568",
+          "nat": "BEL",
+          "birthYear": 1984,
+          "mark": "51.17",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Pole Vault - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Malte MOHR",
+          "id": "14193417",
+          "nat": "GER",
+          "birthYear": 1986,
+          "mark": "5.85",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Renaud LAVILLENIE",
+          "id": "14185853",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "5.80",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Maksym MAZURYK",
+          "id": "14230283",
+          "nat": "UKR",
+          "birthYear": 1983,
+          "mark": "5.75",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Fabian SCHULZE",
+          "id": "14194184",
+          "nat": "GER",
+          "birthYear": 1984,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Derek MILES",
+          "id": "14246081",
+          "nat": "USA",
+          "birthYear": 1972,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Steven HOOKER",
+          "id": "14179504",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "5.65",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Giuseppe GIBILISCO",
+          "id": "14200460",
+          "nat": "ITA",
+          "birthYear": 1979,
+          "mark": "5.55",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Łukasz MICHALSKI",
+          "id": "14217188",
+          "nat": "POL",
+          "birthYear": 1988,
+          "mark": "5.55",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Romain MESNIL",
+          "id": "14186500",
+          "nat": "FRA",
+          "birthYear": 1977,
+          "mark": "5.45",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Kevin RANS",
+          "id": "14177354",
+          "nat": "BEL",
+          "birthYear": 1982,
+          "mark": "5.35",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Damiel DOSSÉVI",
+          "id": "14184433",
+          "nat": "FRA",
+          "birthYear": 1983,
+          "mark": "NH",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Raphael HOLZDEPPE",
+          "id": "14192581",
+          "nat": "GER",
+          "birthYear": 1989,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Triple Jump - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Teddy TAMGHO",
+          "id": "14187757",
+          "nat": "FRA",
+          "birthYear": 1989,
+          "mark": "17.52",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Alexis COPELLO",
+          "id": "14169626",
+          "nat": "CUB",
+          "birthYear": 1985,
+          "mark": "17.47",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Christian OLSSON",
+          "id": "14227931",
+          "nat": "SWE",
+          "birthYear": 1980,
+          "mark": "17.35",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "David GIRAT",
+          "id": "14169551",
+          "nat": "CUB",
+          "birthYear": 1984,
+          "mark": "17.10",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Benjamin COMPAORÉ",
+          "id": "14183986",
+          "nat": "FRA",
+          "birthYear": 1987,
+          "mark": "16.96",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Nathan DOUGLAS",
+          "id": "14189084",
+          "nat": "GBR",
+          "birthYear": 1982,
+          "mark": "16.86",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Marian OPREA",
+          "id": "14219466",
+          "nat": "ROU",
+          "birthYear": 1982,
+          "mark": "16.83",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Randy LEWIS",
+          "id": "14195667",
+          "nat": "GRN",
+          "birthYear": 1978,
+          "mark": "16.11",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Samyr LAINE",
+          "id": "14243516",
+          "nat": "HAI",
+          "birthYear": 1984,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Shot Put - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Reese HOFFA",
+          "id": "14240894",
+          "nat": "USA",
+          "birthYear": 1977,
+          "mark": "22.16",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Christian CANTWELL",
+          "id": "14234176",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "21.62",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Tomasz MAJEWSKI",
+          "id": "14217130",
+          "nat": "POL",
+          "birthYear": 1981,
+          "mark": "21.44",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dylan ARMSTRONG",
+          "id": "14174674",
+          "nat": "CAN",
+          "birthYear": 1981,
+          "mark": "20.87",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Adam NELSON",
+          "id": "14247052",
+          "nat": "USA",
+          "birthYear": 1975,
+          "mark": "20.26",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Cory MARTIN",
+          "id": "14244994",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "20.24",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Dorian SCOTT",
+          "id": "14202215",
+          "nat": "JAM",
+          "birthYear": 1982,
+          "mark": "19.20",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Wim BLONDEEL",
+          "id": "14177722",
+          "nat": "BEL",
+          "birthYear": 1973,
+          "mark": "18.15",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Daniel TAYLOR",
+          "id": "14252811",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Javelin Throw - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Andreas THORKILDSEN",
+          "id": "14215526",
+          "nat": "NOR",
+          "birthYear": 1982,
+          "mark": "89.88",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Tero PITKÄMÄKI",
+          "id": "14182408",
+          "nat": "FIN",
+          "birthYear": 1982,
+          "mark": "83.36",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Matthias DE ZORDO",
+          "id": "14191822",
+          "nat": "GER",
+          "birthYear": 1988,
+          "mark": "82.39",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jarrod BANNISTER",
+          "id": "14180162",
+          "nat": "AUS",
+          "birthYear": 1984,
+          "mark": "82.05",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Teemu WIRKKALA",
+          "id": "14182748",
+          "nat": "FIN",
+          "birthYear": 1984,
+          "mark": "82.01",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ainars KOVALS",
+          "id": "14210990",
+          "nat": "LAT",
+          "birthYear": 1981,
+          "mark": "81.45",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ari MANNIO",
+          "id": "14182247",
+          "nat": "FIN",
+          "birthYear": 1987,
+          "mark": "80.66",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Petr FRYDRYCH",
+          "id": "14168938",
+          "nat": "CZE",
+          "birthYear": 1988,
+          "mark": "77.29",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Oleksandr PYATNYTSYA",
+          "id": "14230458",
+          "nat": "UKR",
+          "birthYear": 1985,
+          "mark": "75.54",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Till WÖSCHLER",
+          "id": "14363170",
+          "nat": "GER",
+          "birthYear": 1991,
+          "mark": "74.60",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 200m - 27.08.2010",
+      "detail": "Final, wind: +0.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Allyson FELIX",
+          "id": "14309983",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "22.61",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Shalonda SOLOMON",
+          "id": "14321706",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "22.70",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Bianca KNIGHT",
+          "id": "14314587",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "23.01",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Aleksandra FEDORIVA-SPAYER",
+          "id": "14297674",
+          "nat": "RUS",
+          "birthYear": 1988,
+          "mark": "23.07",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kelly-Ann BAPTISTE",
+          "id": "14302975",
+          "nat": "TTO",
+          "birthYear": 1986,
+          "mark": "23.26",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Yelizaveta BRYZGINA",
+          "id": "14303484",
+          "nat": "UKR",
+          "birthYear": 1989,
+          "mark": "23.28",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Porscha LUCAS",
+          "id": "14315666",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "23.36",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Olivia BORLÉE",
+          "id": "14270487",
+          "nat": "BEL",
+          "birthYear": 1986,
+          "mark": "23.61",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Consuella MOORE",
+          "id": "14317293",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "23.63",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 800m - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Janeth JEPKOSGEI",
+          "id": "14289031",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "1:58.82",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Mariya SAVINOVA",
+          "id": "14299184",
+          "nat": "RUS",
+          "birthYear": 1985,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "2.",
+          "athlete": "Caster SEMENYA",
+          "id": "14330057",
+          "nat": "RSA",
+          "birthYear": 1991,
+          "mark": "1:59.65",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Alysia MONTAÑO",
+          "id": "14313660",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "1:59.89",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jennifer MEADOWS",
+          "id": "14275784",
+          "nat": "GBR",
+          "birthYear": 1981,
+          "mark": "1:59.93",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Anna WILLARD",
+          "id": "14324194",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "2:00.05",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Elisa CUSMA",
+          "id": "14284142",
+          "nat": "ITA",
+          "birthYear": 1981,
+          "mark": "2:00.35",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Tintu LUKA",
+          "id": "14282954",
+          "nat": "IND",
+          "birthYear": 1989,
+          "mark": "2:00.79",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jemma SIMPSON",
+          "id": "14276350",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "2:01.13",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Neisha BERNARD-THOMAS",
+          "id": "14281029",
+          "nat": "GRN",
+          "birthYear": 1981,
+          "mark": "2:01.75",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Halima HACHLAF",
+          "id": "14290676",
+          "nat": "MAR",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Karen SHINKINS",
+          "id": "14283380",
+          "nat": "IRL",
+          "birthYear": 1976,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 5000m - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Vivian Jepkemoi CHERUIYOT",
+          "id": "14288971",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "14:34.13",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Linet Chepkwemoi MASAI",
+          "id": "14289264",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "14:35.07",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sentayehu EJIGU",
+          "id": "14259868",
+          "nat": "ETH",
+          "birthYear": 1985,
+          "mark": "14:35.13",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sally KIPYEGO",
+          "id": "14289173",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "14:38.64",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Elvan ABEYLEGESSE",
+          "id": "14303189",
+          "nat": "TUR",
+          "birthYear": 1982,
+          "mark": "14:39.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sylvia Jebiwot KIBET",
+          "id": "14289098",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "14:39.80",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ines CHENONGE",
+          "id": "14288867",
+          "nat": "KEN",
+          "birthYear": 1982,
+          "mark": "14:43.14",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Meselech MELKAMU",
+          "id": "14259772",
+          "nat": "ETH",
+          "birthYear": 1985,
+          "mark": "14:44.26",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Molly HUDDLE",
+          "id": "14313054",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "14:44.76",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Stephanie TWELL",
+          "id": "14276601",
+          "nat": "GBR",
+          "birthYear": 1989,
+          "mark": "14:54.08",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Mercy CHERONO",
+          "id": "14288952",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "14:58.88",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Esther CHEMTAI",
+          "id": "14288856",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "14:59.75",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Margaret Wangari MURIUKI",
+          "id": "14289494",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Lidia CHOJECKA",
+          "id": "14293498",
+          "nat": "POL",
+          "birthYear": 1977,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Lindsey DE GRANDE",
+          "id": "14270439",
+          "nat": "BEL",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Zakia Mrisho MOHAMED",
+          "id": "14302619",
+          "nat": "TAN",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Alemitu BEKELE",
+          "id": "14303217",
+          "nat": "TUR",
+          "birthYear": 1977,
+          "mark": "",
+          "doping": "DOP"
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100mH - 27.08.2010",
+      "detail": "Final, wind: 0.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Priscilla SCHLIEP",
+          "id": "14267653",
+          "nat": "CAN",
+          "birthYear": 1982,
+          "mark": "12.54",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sally PEARSON",
+          "id": "14271668",
+          "nat": "AUS",
+          "birthYear": 1986,
+          "mark": "12.64",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Perdita FELICIEN",
+          "id": "14268017",
+          "nat": "CAN",
+          "birthYear": 1980,
+          "mark": "12.68",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Queen CLAYE",
+          "id": "14312088",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "12.69",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Lolo JONES",
+          "id": "14313962",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "12.78",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Danielle CARRUTHERS",
+          "id": "14307290",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "12.93",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Derval O'ROURKE",
+          "id": "14283345",
+          "nat": "IRL",
+          "birthYear": 1981,
+          "mark": "12.96",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Christina VUKICEVIC",
+          "id": "14292853",
+          "nat": "NOR",
+          "birthYear": 1987,
+          "mark": "13.21",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Elisabeth DAVIN",
+          "id": "14270446",
+          "nat": "BEL",
+          "birthYear": 1981,
+          "mark": "13.34",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 3000mSC - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sofia ASSEFA",
+          "id": "14259922",
+          "nat": "ETH",
+          "birthYear": 1987,
+          "mark": "9:20.72",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Milcah CHEMOS",
+          "id": "14372673",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "9:22.34",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Almaz AYANA",
+          "id": "14259917",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "9:22.51",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mekdes BEKELE",
+          "id": "14259900",
+          "nat": "ETH",
+          "birthYear": 1987,
+          "mark": "9:24.17",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Lisa AGUILERA",
+          "id": "14304556",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "9:24.84",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lydia Chebet ROTICH",
+          "id": "14329195",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "9:29.24",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Katarzyna KOWALSKA",
+          "id": "14293933",
+          "nat": "POL",
+          "birthYear": 1985,
+          "mark": "9:33.79",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Birtukan ADAMU",
+          "id": "14428527",
+          "nat": "ETH",
+          "birthYear": 1992,
+          "mark": "9:45.06",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Korene HINDS",
+          "id": "14285733",
+          "nat": "JAM",
+          "birthYear": 1976,
+          "mark": "9:54.37",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mardrea HYMAN",
+          "id": "14285740",
+          "nat": "JAM",
+          "birthYear": 1972,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sophie DUARTE",
+          "id": "14257693",
+          "nat": "FRA",
+          "birthYear": 1981,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's High Jump - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Blanka VLAŠIĆ",
+          "id": "14263716",
+          "nat": "CRO",
+          "birthYear": 1983,
+          "mark": "2.00",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Antonietta DI MARTINO",
+          "id": "14284235",
+          "nat": "ITA",
+          "birthYear": 1978,
+          "mark": "1.98",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Emma GREEN",
+          "id": "14301908",
+          "nat": "SWE",
+          "birthYear": 1984,
+          "mark": "1.98",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ruth BEITIA",
+          "id": "14261980",
+          "nat": "ESP",
+          "birthYear": 1979,
+          "mark": "1.92",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Svetlana SHKOLINA",
+          "id": "14299303",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "1.92",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Irina GORDEYEVA",
+          "id": "14297825",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "1.86",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Levern SPENCER",
+          "id": "14290136",
+          "nat": "LCA",
+          "birthYear": 1984,
+          "mark": "1.86",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ana ŠIMIĆ",
+          "id": "14263731",
+          "nat": "CRO",
+          "birthYear": 1990,
+          "mark": "1.80",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Hanne VAN HESSCHE",
+          "id": "14270144",
+          "nat": "BEL",
+          "birthYear": 1991,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Triple Jump - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Olga RYPAKOVA",
+          "id": "14288693",
+          "nat": "KAZ",
+          "birthYear": 1984,
+          "mark": "14.80",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yargelis SAVIGNE",
+          "id": "14263384",
+          "nat": "CUB",
+          "birthYear": 1984,
+          "mark": "14.56",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Olha SALADUKHA",
+          "id": "14304115",
+          "nat": "UKR",
+          "birthYear": 1983,
+          "mark": "14.38",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dana VELĎÁKOVÁ",
+          "id": "14301624",
+          "nat": "SVK",
+          "birthYear": 1981,
+          "mark": "14.19",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Snežana VUKMIROVIČ",
+          "id": "14300285",
+          "nat": "SLO",
+          "birthYear": 1982,
+          "mark": "14.16",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Svetlana BOLSHAKOVA",
+          "id": "14297425",
+          "nat": "BEL",
+          "birthYear": 1984,
+          "mark": "14.04",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Nadezhda ALYOKHINA",
+          "id": "14297338",
+          "nat": "RUS",
+          "birthYear": 1978,
+          "mark": "13.74",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Anna PYATYKH",
+          "id": "14299042",
+          "nat": "RUS",
+          "birthYear": 1981,
+          "mark": "13.73",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Adelina GAVRILĂ",
+          "id": "14295619",
+          "nat": "ROU",
+          "birthYear": 1978,
+          "mark": "13.61",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Discus Throw - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sandra PERKOVIĆ",
+          "id": "14263753",
+          "nat": "CRO",
+          "birthYear": 1990,
+          "mark": "66.93",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yarelis BARRIOS",
+          "id": "14263686",
+          "nat": "CUB",
+          "birthYear": 1983,
+          "mark": "65.96",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Yanfeng LI",
+          "id": "14265931",
+          "nat": "CHN",
+          "birthYear": 1979,
+          "mark": "64.74",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dani STEVENS",
+          "id": "14271355",
+          "nat": "AUS",
+          "birthYear": 1988,
+          "mark": "62.13",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Nicoleta GRASU",
+          "id": "14295647",
+          "nat": "ROU",
+          "birthYear": 1971,
+          "mark": "61.68",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Aretha D. THURMOND",
+          "id": "14322809",
+          "nat": "USA",
+          "birthYear": 1976,
+          "mark": "61.58",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Becky BREISCH",
+          "id": "14306370",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "59.77",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Joanna WIŚNIEWSKA",
+          "id": "14294644",
+          "nat": "POL",
+          "birthYear": 1972,
+          "mark": "58.42",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "EU Cup": [
+    {
+      "title": "Men's 100m - 27.08.2010",
+      "detail": "Final, wind: +0.6",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Marlon DEVONISH",
+          "id": "14189045",
+          "nat": "GBR",
+          "birthYear": 1976,
+          "mark": "10.19",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Rytis SAKALAUSKAS",
+          "id": "14211549",
+          "nat": "LTU",
+          "birthYear": 1987,
+          "mark": "10.24",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Emanuele DI GREGORIO",
+          "id": "14200195",
+          "nat": "ITA",
+          "birthYear": 1980,
+          "mark": "10.25",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ángel David RODRÍGUEZ",
+          "id": "14165216",
+          "nat": "ESP",
+          "birthYear": 1980,
+          "mark": "10.35",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Alexander KOSENKOW",
+          "id": "14192940",
+          "nat": "GER",
+          "birthYear": 1977,
+          "mark": "10.37",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ryan MOSELEY",
+          "id": "14190219",
+          "nat": "AUT",
+          "birthYear": 1982,
+          "mark": "10.45",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Matic OSOVNIKAR",
+          "id": "14225137",
+          "nat": "SLO",
+          "birthYear": 1980,
+          "mark": "10.45",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Wout VERHOEVEN",
+          "id": "14362406",
+          "nat": "BEL",
+          "birthYear": 1988,
+          "mark": "10.58",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Robert KUBACZYK",
+          "id": "14217003",
+          "nat": "POL",
+          "birthYear": 1986,
+          "mark": "10.60",
+          "doping": ""
+        }
+      ],
+      "category": "EU Cup"
+    },
+    {
+      "detail": "Heat 1, wind: -0.7",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Emanuele DI GREGORIO",
+          "id": "14200195",
+          "nat": "ITA",
+          "birthYear": 1980,
+          "mark": "10.45",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Wout VERHOEVEN",
+          "id": "14362406",
+          "nat": "BEL",
+          "birthYear": 1988,
+          "mark": "10.69",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Robert KUBACZYK",
+          "id": "14217003",
+          "nat": "POL",
+          "birthYear": 1986,
+          "mark": "10.73",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Imaad HALLAY",
+          "id": "14185263",
+          "nat": "FRA",
+          "birthYear": 1984,
+          "mark": "10.79",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Emil ZAIL",
+          "id": "14228217",
+          "nat": "SWE",
+          "birthYear": 1987,
+          "mark": "10.89",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Vasile BOBOŞ",
+          "id": "14219188",
+          "nat": "ROU",
+          "birthYear": 1985,
+          "mark": "10.97",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Ronalds ARĀJS",
+          "id": "14210924",
+          "nat": "LAT",
+          "birthYear": 1987,
+          "mark": "DQ",
+          "doping": ""
+        }
+      ],
+      "title": "Men's 100m - 27.08.2010",
+      "category": "EU Cup"
+    },
+    {
+      "detail": "Heat 2, wind: +1.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Marlon DEVONISH",
+          "id": "14189045",
+          "nat": "GBR",
+          "birthYear": 1976,
+          "mark": "10.19",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Rytis SAKALAUSKAS",
+          "id": "14211549",
+          "nat": "LTU",
+          "birthYear": 1987,
+          "mark": "10.33",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Alexander KOSENKOW",
+          "id": "14192940",
+          "nat": "GER",
+          "birthYear": 1977,
+          "mark": "10.40",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Libor ŽILKA",
+          "id": "14168036",
+          "nat": "CZE",
+          "birthYear": 1986,
+          "mark": "10.70",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Manolis KOUTSOUKLAKIS",
+          "id": "14329310",
+          "nat": "GRE",
+          "birthYear": 1989,
+          "mark": "10.71",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Morten JENSEN",
+          "id": "14167922",
+          "nat": "DEN",
+          "birthYear": 1982,
+          "mark": "10.73",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Desislav GUNEV",
+          "id": "14175004",
+          "nat": "BUL",
+          "birthYear": 1986,
+          "mark": "10.79",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Niko TAAVITSAINEN",
+          "id": "14194442",
+          "nat": "FIN",
+          "birthYear": 1984,
+          "mark": "10.99",
+          "doping": ""
+        }
+      ],
+      "title": "Men's 100m - 27.08.2010",
+      "category": "EU Cup"
+    },
+    {
+      "detail": "Heat 3, wind: +0.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ángel David RODRÍGUEZ",
+          "id": "14165216",
+          "nat": "ESP",
+          "birthYear": 1980,
+          "mark": "10.38",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Matic OSOVNIKAR",
+          "id": "14225137",
+          "nat": "SLO",
+          "birthYear": 1980,
+          "mark": "10.45",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ryan MOSELEY",
+          "id": "14190219",
+          "nat": "AUT",
+          "birthYear": 1982,
+          "mark": "10.46",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jonathan HOLMES",
+          "id": "14198913",
+          "nat": "IRL",
+          "birthYear": 1989,
+          "mark": "10.60",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Giovanni CODRINGTON",
+          "id": "14213756",
+          "nat": "NED",
+          "birthYear": 1988,
+          "mark": "10.65",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Dániel KARLIK",
+          "id": "14196579",
+          "nat": "HUN",
+          "birthYear": 1991,
+          "mark": "10.72",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jozef ŠVONDRK",
+          "id": "14227232",
+          "nat": "SVK",
+          "birthYear": 1986,
+          "mark": "10.77",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Richard PULST",
+          "id": "14181148",
+          "nat": "EST",
+          "birthYear": 1991,
+          "mark": "10.80",
+          "doping": ""
+        }
+      ],
+      "title": "Men's 100m - 27.08.2010",
+      "category": "EU Cup"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's 400m - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Nery BRENES",
+          "id": "14169943",
+          "nat": "CRC",
+          "birthYear": 1985,
+          "mark": "44.92",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jonathan BORLÉE",
+          "id": "14177716",
+          "nat": "BEL",
+          "birthYear": 1988,
+          "mark": "45.27",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Allodin FOTHERGILL",
+          "id": "14201995",
+          "nat": "JAM",
+          "birthYear": 1987,
+          "mark": "45.44",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kévin BORLÉE",
+          "id": "14177713",
+          "nat": "BEL",
+          "birthYear": 1988,
+          "mark": "45.53",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "David NEVILLE",
+          "id": "14247119",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "45.59",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jamaal TORRANCE",
+          "id": "14253358",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "46.02",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Erison HURTAULT",
+          "id": "14241433",
+          "nat": "DMA",
+          "birthYear": 1984,
+          "mark": "46.05",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Cédric VAN BRANTEGHEM",
+          "id": "14177272",
+          "nat": "BEL",
+          "birthYear": 1979,
+          "mark": "46.31",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Ben OFFEREINS",
+          "id": "14179027",
+          "nat": "AUS",
+          "birthYear": 1986,
+          "mark": "46.74",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 3000mSC - 27.08.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mahiedine MEKHISSI",
+          "id": "14186447",
+          "nat": "FRA",
+          "birthYear": 1985,
+          "mark": "8:02.52",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Paul Kipsiele KOECH",
+          "id": "14208637",
+          "nat": "KEN",
+          "birthYear": 1981,
+          "mark": "8:07.66",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Roba GARI",
+          "id": "14181609",
+          "nat": "ETH",
+          "birthYear": 1982,
+          "mark": "8:13.15",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Tomasz SZYMKOWIAK",
+          "id": "14217721",
+          "nat": "POL",
+          "birthYear": 1983,
+          "mark": "8:21.55",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Albert Kiptoo YATOR",
+          "id": "14425938",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "8:23.69",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Bjørnar Ustad KRISTENSEN",
+          "id": "14215367",
+          "nat": "NOR",
+          "birthYear": 1982,
+          "mark": "8:24.51",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Antonio David JIMÉNEZ",
+          "id": "14166106",
+          "nat": "ESP",
+          "birthYear": 1977,
+          "mark": "8:25.42",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Steffen ULICZKA",
+          "id": "14194551",
+          "nat": "GER",
+          "birthYear": 1984,
+          "mark": "8:25.99",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Patrick Kipyegon TERER",
+          "id": "14209891",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "8:28.20",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Tareq Mubarak TAHER",
+          "id": "14175111",
+          "nat": "BRN",
+          "birthYear": 1986,
+          "mark": "8:35.03",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Simon AYEKO",
+          "id": "14229566",
+          "nat": "UGA",
+          "birthYear": 1987,
+          "mark": "8:38.84",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Krijn VAN KOOLWIJK",
+          "id": "14177228",
+          "nat": "BEL",
+          "birthYear": 1981,
+          "mark": "8:40.60",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tarik Langat AKDAG",
+          "id": "14208848",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Haron LAGAT",
+          "id": "14208829",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "U20 Events": [
+    {
+      "title": "Men's 800m - 08.06.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Oussama NABIL",
+          "id": "14594931",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "1:49.78",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Motafa ISMAILI",
+          "id": "14649288",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:51.47",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Abdelhakim OUBID",
+          "id": "14649289",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:51.54",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Rouchdi OUHNINI",
+          "id": "14649290",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:51.57",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Abdelkerim RAHOUI",
+          "id": "14649291",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:52.65",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hamza BELKALFI",
+          "id": "14649292",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:52.83",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Achraf EL MALIKY",
+          "id": "14649293",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:53.72",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Janah BOUBKER",
+          "id": "14582738",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "1:54.35",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Anass MGHARI",
+          "id": "14649294",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "1:54.52",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Mohammed ELAMRI",
+          "id": "14649295",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:54.95",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Ayman ZAHAFI",
+          "id": "14593237",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "1:54.95",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Radouane DROOUICHE",
+          "id": "14649296",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:57.31",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    },
+    {
+      "title": "Men's 1500m - 08.06.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Hassan GHACHOUI",
+          "id": "14577966",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "3:47.87",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Zouhair TALBI",
+          "id": "14577963",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "3:48.21",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Youssef BELAMAALAM",
+          "id": "14590433",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:48.63",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Yassine TINDOUFTE",
+          "id": "14590414",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:49.56",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Hamza LAAROUSSI",
+          "id": "14649304",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:49.92",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hicham OULADHA",
+          "id": "14590405",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "3:50.34",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Walid KOHLI",
+          "id": "14590409",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "3:50.62",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Amine ZAHAF",
+          "id": "14643679",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:52.73",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Omar Ait CHITACHEN",
+          "id": "14577965",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "3:56.04",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Hicham AKANKAM",
+          "id": "14649305",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "3:56.20",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Yassine BOUHMOUCH",
+          "id": "14649306",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "3:56.27",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Ayoub SNIBA",
+          "id": "14649307",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:57.46",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Zouhair ANNAKI",
+          "id": "14649308",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:57.91",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Badreddine LGAA",
+          "id": "14649309",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:58.83",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    },
+    {
+      "title": "Women's 800m - 08.06.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sara SOUHI",
+          "id": "14580149",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "2:07.89",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Wafa ZAROUAL",
+          "id": "14649285",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "2:10.82",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Soukaina HAJJI",
+          "id": "14579514",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "2:12.00",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Majda LAKRAFLI",
+          "id": "14590417",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:13.47",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Khadija BENKASSEM",
+          "id": "14649286",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "2:14.12",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Meryem BOUDAOUD",
+          "id": "14649287",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:15.62",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Najat AIT BOUNOU",
+          "id": "14580154",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:17.61",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    },
+    {
+      "title": "Women's 1500m - 08.06.2014",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sara CHAKKAF",
+          "id": "14585369",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "4:27.02",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kawtar ELHIRACH",
+          "id": "14580235",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "4:29.04",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Oumaima SAOUD",
+          "id": "14590422",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "4:29.93",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Oulaya SAKAT",
+          "id": "14580153",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:30.91",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kawtar SAMAMA",
+          "id": "14649297",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:32.01",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Imane EL BOUHALI",
+          "id": "14649298",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "4:34.35",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Dounia EZZARKA",
+          "id": "14649299",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:37.79",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Saadia FADILI",
+          "id": "14649300",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "4:45.08",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Hana ELFATTOUH",
+          "id": "14649301",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:47.54",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Lamiae BENAYAD",
+          "id": "14649302",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:55.49",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Amal WARAK",
+          "id": "14649303",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:55.92",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    }
+  ]
+}

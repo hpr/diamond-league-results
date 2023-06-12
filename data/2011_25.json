@@ -1,0 +1,2462 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 200m - 04.06.2011",
+      "detail": "Final, wind: +1.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Walter DIX",
+          "id": "14236532",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "20.19",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jaysuma SAIDY NDURE",
+          "id": "14215468",
+          "nat": "NOR",
+          "birthYear": 1984,
+          "mark": "20.26",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Churandy MARTINA",
+          "id": "14180965",
+          "nat": "NED",
+          "birthYear": 1984,
+          "mark": "20.39",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Rondel SORRILLO",
+          "id": "14229095",
+          "nat": "TTO",
+          "birthYear": 1986,
+          "mark": "20.51",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Xavier CARTER",
+          "id": "14234403",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "20.55",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Emmanuel CALLENDER",
+          "id": "14228977",
+          "nat": "TTO",
+          "birthYear": 1984,
+          "mark": "20.67",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Trell KIMMONS",
+          "id": "14242966",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "20.71",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Leroy DIXON",
+          "id": "14236555",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "20.79",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400m - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Angelo TAYLOR",
+          "id": "14252793",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "45.16",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jeremy WARINER",
+          "id": "14254258",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "45.43",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kévin BORLÉE",
+          "id": "14177713",
+          "nat": "BEL",
+          "birthYear": 1988,
+          "mark": "45.51",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "David NEVILLE",
+          "id": "14247119",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "45.70",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Michael BINGHAM",
+          "id": "14232642",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "45.74",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Bershawn JACKSON",
+          "id": "14241618",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "45.91",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Josh SCOTT",
+          "id": "14371964",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "46.16",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Oscar PISTORIUS",
+          "id": "14220961",
+          "nat": "RSA",
+          "birthYear": 1986,
+          "mark": "46.33",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Mile - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Haron KEITANY",
+          "id": "14207892",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "3:49.09",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Silas KIPLAGAT",
+          "id": "14369379",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:49.39",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Asbel KIPROP",
+          "id": "14208403",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:49.55",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mekonnen GEBREMEDHIN",
+          "id": "14181467",
+          "nat": "ETH",
+          "birthYear": 1988,
+          "mark": "3:49.70",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Caleb Mwangangi NDIKU",
+          "id": "14372397",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "3:49.77",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Daniel Kipchirchir KOMEN",
+          "id": "14208668",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "3:50.29",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Yenew ALAMIREW",
+          "id": "14423358",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "3:50.43",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mohamed MOUSTAOUI",
+          "id": "14212385",
+          "nat": "MAR",
+          "birthYear": 1985,
+          "mark": "3:50.67",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Russell BROWN",
+          "id": "14233587",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "3:51.45",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Nick WILLIS",
+          "id": "14215936",
+          "nat": "NZL",
+          "birthYear": 1983,
+          "mark": "3:51.95",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Gideon GATHIMBA",
+          "id": "14207742",
+          "nat": "KEN",
+          "birthYear": 1980,
+          "mark": "3:53.76",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Lopez LOMONG",
+          "id": "14244311",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "3:53.85",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Joshphat Mitunga KITHII",
+          "id": "14208583",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": "DOP"
+        },
+        {
+          "place": "",
+          "athlete": "Mark WIECZOREK",
+          "id": "14254842",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Gideon GATHIMBA",
+          "id": "14207742",
+          "nat": "KEN",
+          "birthYear": 1980,
+          "mark": "DNS",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 110mH - 04.06.2011",
+      "detail": "Final, wind: +1.8",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "David OLIVER",
+          "id": "14247615",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "12.94",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Xiang LIU",
+          "id": "14171882",
+          "nat": "CHN",
+          "birthYear": 1983,
+          "mark": "13.00",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Aries MERRITT",
+          "id": "14245965",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "13.18",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Andrew TURNER",
+          "id": "14191062",
+          "nat": "GBR",
+          "birthYear": 1980,
+          "mark": "13.33",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ashton EATON",
+          "id": "14237014",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "13.35",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ryan WILSON",
+          "id": "14255262",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "13.41",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Dongpeng SHI",
+          "id": "14171560",
+          "nat": "CHN",
+          "birthYear": 1982,
+          "mark": "13.44",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ronnie ASH",
+          "id": "14231611",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "13.49",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 3000mSC - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ezekiel KEMBOI",
+          "id": "14207908",
+          "nat": "KEN",
+          "birthYear": 1982,
+          "mark": "8:08.34",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Paul Kipsiele KOECH",
+          "id": "14208637",
+          "nat": "KEN",
+          "birthYear": 1981,
+          "mark": "8:10.13",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Roba GARI",
+          "id": "14181609",
+          "nat": "ETH",
+          "birthYear": 1982,
+          "mark": "8:11.34",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ruben RAMOLEFI",
+          "id": "14221021",
+          "nat": "RSA",
+          "birthYear": 1978,
+          "mark": "8:24.95",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Daniel HULING",
+          "id": "14241342",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "8:25.95",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Kyle ALCORN",
+          "id": "14231108",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "8:26.88",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "William NELSON",
+          "id": "14247058",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "8:28.67",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Ben BRUCE",
+          "id": "14233625",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "8:37.27",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Steve SLATTERY",
+          "id": "14251455",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "8:50.95",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Youcef ABDI",
+          "id": "14180225",
+          "nat": "AUS",
+          "birthYear": 1977,
+          "mark": "8:52.32",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Haron LAGAT",
+          "id": "14208829",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Derek SCOTT",
+          "id": "14250808",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's High Jump - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Raul SPANK",
+          "id": "14194321",
+          "nat": "GER",
+          "birthYear": 1988,
+          "mark": "2.32",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Andrey SILNOV",
+          "id": "14224009",
+          "nat": "RUS",
+          "birthYear": 1984,
+          "mark": "2.32",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jesse WILLIAMS",
+          "id": "14255037",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "2.32",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dusty JONAS",
+          "id": "14242273",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "2.29",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Mutaz Essa BARSHIM",
+          "id": "14377312",
+          "nat": "QAT",
+          "birthYear": 1991,
+          "mark": "2.29",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ivan UKHOV",
+          "id": "14224358",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "2.29",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Kyriakos IOANNOU",
+          "id": "14169214",
+          "nat": "CYP",
+          "birthYear": 1984,
+          "mark": "2.26",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Donald THOMAS",
+          "id": "14177939",
+          "nat": "BAH",
+          "birthYear": 1984,
+          "mark": "2.21",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Long Jump - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Greg RUTHERFORD",
+          "id": "14190672",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "8.32",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Godfrey Khotso MOKOENA",
+          "id": "14220668",
+          "nat": "RSA",
+          "birthYear": 1985,
+          "mark": "8.31",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sebastian BAYER",
+          "id": "14191495",
+          "nat": "GER",
+          "birthYear": 1986,
+          "mark": "8.03",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Tyrone SMITH",
+          "id": "14177104",
+          "nat": "BER",
+          "birthYear": 1984,
+          "mark": "8.00",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Fabrice LAPIERRE",
+          "id": "14179335",
+          "nat": "AUS",
+          "birthYear": 1983,
+          "mark": "7.94",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ashton EATON",
+          "id": "14237014",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "7.93",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jeremy HICKS",
+          "id": "14240672",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "7.78",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Godfrey Khotso MOKOENA",
+          "id": "14220668",
+          "nat": "RSA",
+          "birthYear": 1985,
+          "mark": "8.19",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Greg RUTHERFORD",
+          "id": "14190672",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "8.03",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Fabrice LAPIERRE",
+          "id": "14179335",
+          "nat": "AUS",
+          "birthYear": 1983,
+          "mark": "7.85",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sebastian BAYER",
+          "id": "14191495",
+          "nat": "GER",
+          "birthYear": 1986,
+          "mark": "7.80",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Irving SALADINO",
+          "id": "14216103",
+          "nat": "PAN",
+          "birthYear": 1983,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Discus Throw - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Robert HARTING",
+          "id": "14192401",
+          "nat": "GER",
+          "birthYear": 1984,
+          "mark": "68.40",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Virgilijus ALEKNA",
+          "id": "14211253",
+          "nat": "LTU",
+          "birthYear": 1972,
+          "mark": "67.19",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Piotr MAŁACHOWSKI",
+          "id": "14217144",
+          "nat": "POL",
+          "birthYear": 1983,
+          "mark": "65.95",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Gerd KANTER",
+          "id": "14180993",
+          "nat": "EST",
+          "birthYear": 1979,
+          "mark": "65.51",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Jason YOUNG",
+          "id": "14255732",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "63.20",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ian WALTZ",
+          "id": "14254197",
+          "nat": "USA",
+          "birthYear": 1977,
+          "mark": "62.32",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Zoltán KŐVÁGÓ",
+          "id": "14196754",
+          "nat": "HUN",
+          "birthYear": 1979,
+          "mark": "61.67",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Casey MALONE",
+          "id": "14244787",
+          "nat": "USA",
+          "birthYear": 1977,
+          "mark": "60.37",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100m - 04.06.2011",
+      "detail": "Final, wind: +2.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Carmelita JETER",
+          "id": "14313618",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "10.70",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Marshevet HOOKER",
+          "id": "14312862",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "10.86",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kerron STEWART",
+          "id": "14285938",
+          "nat": "JAM",
+          "birthYear": 1984,
+          "mark": "10.87",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Shelly-Ann FRASER-PRYCE",
+          "id": "14285680",
+          "nat": "JAM",
+          "birthYear": 1986,
+          "mark": "10.95",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Sherone SIMPSON",
+          "id": "14285909",
+          "nat": "JAM",
+          "birthYear": 1984,
+          "mark": "11.00",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Alexandria ANDERSON",
+          "id": "14304791",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "11.02",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Blessing OKAGBARE",
+          "id": "14292330",
+          "nat": "NGR",
+          "birthYear": 1988,
+          "mark": "11.08",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Lauryn WILLIAMS",
+          "id": "14324318",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "11.15",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 800m - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kenia SINCLAIR",
+          "id": "14285911",
+          "nat": "JAM",
+          "birthYear": 1980,
+          "mark": "1:58.29",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Caster SEMENYA",
+          "id": "14330057",
+          "nat": "RSA",
+          "birthYear": 1991,
+          "mark": "1:58.88",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Janeth JEPKOSGEI",
+          "id": "14289031",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "1:59.15",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Alysia MONTAÑO",
+          "id": "14313660",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "1:59.40",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Yuliya STEPANOVA",
+          "id": "14299108",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "5.",
+          "athlete": "Geena GALL",
+          "id": "14310643",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "1:59.76",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Phoebe WRIGHT",
+          "id": "14324744",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "2:00.05",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Anna WILLARD",
+          "id": "14324194",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "2:00.19",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Maggie VESSEY",
+          "id": "14323367",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "2:00.39",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Jemma SIMPSON",
+          "id": "14276350",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "2:00.68",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Pamela JELIMO",
+          "id": "14289015",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "2:09.12",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Erica MOORE",
+          "id": "14317298",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 5000m - 03.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Vivian Jepkemoi CHERUIYOT",
+          "id": "14288971",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "14:33.96",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Linet Chepkwemoi MASAI",
+          "id": "14289264",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "14:35.44",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Mercy CHERONO",
+          "id": "14288952",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "14:37.01",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sally KIPYEGO",
+          "id": "14289173",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "14:39.71",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Pauline Chemning KORIKWIANG",
+          "id": "14289192",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "14:47.71",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Shalane FLANAGAN",
+          "id": "14310164",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "14:49.68",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Wude AYALEW",
+          "id": "14259920",
+          "nat": "ETH",
+          "birthYear": 1987,
+          "mark": "14:59.71",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Esther CHEMTAI",
+          "id": "14288856",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "15:00.08",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Kara GOUCHER",
+          "id": "14311212",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "15:11.47",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Lineth CHEPKURUI",
+          "id": "14326271",
+          "nat": "KEN",
+          "birthYear": 1987,
+          "mark": "15:15.15",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Megan WRIGHT",
+          "id": "14267519",
+          "nat": "CAN",
+          "birthYear": 1982,
+          "mark": "15:15.33",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Elizabeth MALOY",
+          "id": "14315930",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "15:40.20",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Eloise WELLINGS",
+          "id": "14271451",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "15:41.49",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Margaret Wangari MURIUKI",
+          "id": "14289494",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "15:48.22",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Amy YODER BEGLEY",
+          "id": "14324822",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "15:54.64",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Jackie ARESON",
+          "id": "14304978",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "16:09.51",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tirunesh DIBABA",
+          "id": "14259871",
+          "nat": "ETH",
+          "birthYear": 1985,
+          "mark": "DNS",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Korene HINDS",
+          "id": "14285733",
+          "nat": "JAM",
+          "birthYear": 1976,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tanya ZEFERJAHN",
+          "id": "14327357",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400mH - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Lashinda DEMUS",
+          "id": "14308886",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "53.31",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kaliese CARTER",
+          "id": "14285929",
+          "nat": "JAM",
+          "birthYear": 1987,
+          "mark": "53.45",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Melaine WALKER",
+          "id": "14285977",
+          "nat": "JAM",
+          "birthYear": 1983,
+          "mark": "53.56",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Zuzana HEJNOVÁ",
+          "id": "14263088",
+          "nat": "CZE",
+          "birthYear": 1986,
+          "mark": "54.26",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Perri SHAKES-DRAYTON",
+          "id": "14276312",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "55.36",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ajoke ODUMOSU",
+          "id": "14292468",
+          "nat": "NGR",
+          "birthYear": 1987,
+          "mark": "56.36",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Sheena JOHNSON-TOSTA",
+          "id": "14313803",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "57.42",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Josanne LUCAS",
+          "id": "14303021",
+          "nat": "TTO",
+          "birthYear": 1984,
+          "mark": "57.76",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Pole Vault - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Anna ROGOWSKA",
+          "id": "14294343",
+          "nat": "POL",
+          "birthYear": 1981,
+          "mark": "4.68",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Svetlana FEOFANOVA",
+          "id": "14297689",
+          "nat": "RUS",
+          "birthYear": 1980,
+          "mark": "4.58",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Fabiana MURER",
+          "id": "14269252",
+          "nat": "BRA",
+          "birthYear": 1981,
+          "mark": "4.48",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Lacy JANSON",
+          "id": "14313510",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "4.38",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Carolin HINGST",
+          "id": "14278051",
+          "nat": "GER",
+          "birthYear": 1980,
+          "mark": "4.38",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kylie HUTSON",
+          "id": "14313206",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "4.38",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Becky HOLLIDAY WARD",
+          "id": "14312793",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "4.28",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mary SAXER",
+          "id": "14320645",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "4.28",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Triple Jump - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Olha SALADUKHA",
+          "id": "14304115",
+          "nat": "UKR",
+          "birthYear": 1983,
+          "mark": "14.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Blessing UFODIAMA",
+          "id": "14323129",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "14.06",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Anna PYATYKH",
+          "id": "14299042",
+          "nat": "RUS",
+          "birthYear": 1981,
+          "mark": "13.98",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Nadezhda ALYOKHINA",
+          "id": "14297338",
+          "nat": "RUS",
+          "birthYear": 1978,
+          "mark": "13.94",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Anastasiya POTAPOVA",
+          "id": "14299520",
+          "nat": "RUS",
+          "birthYear": 1985,
+          "mark": "13.78",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Shakeema WALKER-WELSCH",
+          "id": "14323545",
+          "nat": "USA",
+          "birthYear": 1976,
+          "mark": "13.72",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Toni SMITH",
+          "id": "14321630",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "13.62",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Yekaterina KAYUKOVA-CHERNENKO",
+          "id": "14298053",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "13.44",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Shakeema WALKER-WELSCH",
+          "id": "14323545",
+          "nat": "USA",
+          "birthYear": 1976,
+          "mark": "13.48",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Shot Put - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": " - ",
+          "athlete": "Nadezhda OSTAPCHUK",
+          "id": "14269709",
+          "nat": "BLR",
+          "birthYear": 1980,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "1.",
+          "athlete": "Jillian CAMARENA-WILLIAMS",
+          "id": "14307086",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "19.76",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Cleopatra BOREL",
+          "id": "14302978",
+          "nat": "TTO",
+          "birthYear": 1979,
+          "mark": "18.85",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Anna AVDEYEVA",
+          "id": "14297286",
+          "nat": "RUS",
+          "birthYear": 1985,
+          "mark": "18.78",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Natalya MIKHNEVICH",
+          "id": "14269847",
+          "nat": "BLR",
+          "birthYear": 1982,
+          "mark": "18.48",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Michelle CARTER",
+          "id": "14307333",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "18.43",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sarah STEVENS-WALKER",
+          "id": "14322043",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "17.80",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Javelin Throw - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Christina OBERGFÖLL",
+          "id": "14279102",
+          "nat": "GER",
+          "birthYear": 1981,
+          "mark": "65.48",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Mariya ABAKUMOVA",
+          "id": "14297183",
+          "nat": "RUS",
+          "birthYear": 1986,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "2.",
+          "athlete": "Barbora ŠPOTÁKOVÁ",
+          "id": "14262671",
+          "nat": "CZE",
+          "birthYear": 1981,
+          "mark": "64.87",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Martina RATEJ",
+          "id": "14300230",
+          "nat": "SLO",
+          "birthYear": 1981,
+          "mark": "61.16",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sunette VILJOEN",
+          "id": "14297120",
+          "nat": "RSA",
+          "birthYear": 1983,
+          "mark": "60.09",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kara WINGER",
+          "id": "14318617",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "58.39",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Rachel BUCIARSKI",
+          "id": "14324890",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "56.39",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Madara PALAMEIKA",
+          "id": "14290055",
+          "nat": "LAT",
+          "birthYear": 1987,
+          "mark": "54.98",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's 2 Miles - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Bernard LAGAT",
+          "id": "14243507",
+          "nat": "USA",
+          "birthYear": 1974,
+          "mark": "8:13.62",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Edwin Cheruiyot SOI",
+          "id": "14209817",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "8:14.10",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Isiah Kiplangat KOECH",
+          "id": "14375779",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "8:14.16",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Tariku BEKELE",
+          "id": "14181358",
+          "nat": "ETH",
+          "birthYear": 1987,
+          "mark": "8:15.40",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Matt TEGENKAMP",
+          "id": "14252899",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "8:15.88",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Eliud KIPCHOGE",
+          "id": "14208194",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "8:16.74",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Collis BIRMINGHAM",
+          "id": "14180101",
+          "nat": "AUS",
+          "birthYear": 1984,
+          "mark": "8:17.91",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "David Kiprotich BETT",
+          "id": "14375789",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "8:18.72",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Will LEER",
+          "id": "14243863",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "8:19.11",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Andrew BUMBALOUGH",
+          "id": "14233770",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "8:21.65",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Lukas VERZBICAS",
+          "id": "14366227",
+          "nat": "LTU",
+          "birthYear": 1993,
+          "mark": "8:29.46",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Stephen HAAS",
+          "id": "14239584",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Taylor MILNE",
+          "id": "14173784",
+          "nat": "CAN",
+          "birthYear": 1981,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jordan MCNAMARA",
+          "id": "14245784",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 10,000m - 03.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mo FARAH",
+          "id": "14189197",
+          "nat": "GBR",
+          "birthYear": 1983,
+          "mark": "26:46.57",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Imane MERGA",
+          "id": "14181578",
+          "nat": "ETH",
+          "birthYear": 1988,
+          "mark": "26:48.35",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Josphat Kipkoech BETT",
+          "id": "14330102",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "26:48.99",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Paul Kipngetich TANUI",
+          "id": "14366690",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "26:50.63",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Zersenay TADESE",
+          "id": "14167401",
+          "nat": "ERI",
+          "birthYear": 1982,
+          "mark": "26:51.09",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sileshi SIHINE",
+          "id": "14181623",
+          "nat": "ETH",
+          "birthYear": 1983,
+          "mark": "26:52.84",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Mathew Kipkoech KISORIO",
+          "id": "14208580",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "26:54.25",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mark Kosgei KIPTOO",
+          "id": "14208497",
+          "nat": "KEN",
+          "birthYear": 1976,
+          "mark": "26:54.64",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Leonard Patrick KOMON",
+          "id": "14208682",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "26:55.29",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Geoffrey KAMWOROR",
+          "id": "14423680",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "27:06.35",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Moses Ndiema MASAI",
+          "id": "14209038",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "27:10.05",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Lucas Kimeli ROTICH",
+          "id": "14209671",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "27:12.24",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "John Kemboi CHERUIYOT",
+          "id": "14366694",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "27:22.09",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Abera KUMA",
+          "id": "14181547",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "27:22.54",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Kaan Kigen ÖZBILEN",
+          "id": "14208053",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "27:30.61",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Teklemariam MEDHIN",
+          "id": "14167386",
+          "nat": "ERI",
+          "birthYear": 1989,
+          "mark": "27:37.21",
+          "doping": ""
+        },
+        {
+          "place": "17.",
+          "athlete": "Ayele ABSHERO",
+          "id": "14181296",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "27:48.84",
+          "doping": ""
+        },
+        {
+          "place": "18.",
+          "athlete": "Dennis MASAI",
+          "id": "14424828",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "27:51.92",
+          "doping": ""
+        },
+        {
+          "place": "19.",
+          "athlete": "Daniel Lemashon SALEL",
+          "id": "14209734",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "28:04.63",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jacob KORIR",
+          "id": "14243282",
+          "nat": "KEN",
+          "birthYear": 1980,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Joseph EBUYA",
+          "id": "14207698",
+          "nat": "KEN",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Alistair Ian CRAGG",
+          "id": "14198809",
+          "nat": "IRL",
+          "birthYear": 1980,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Thomas Pkemei LONGOSIWA",
+          "id": "14208920",
+          "nat": "KEN",
+          "birthYear": 1982,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Galen RUPP",
+          "id": "14250207",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "DNS",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tim NELSON",
+          "id": "14247089",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Chris SOLINSKY",
+          "id": "14251830",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Kidane TADESSE",
+          "id": "14167421",
+          "nat": "ERI",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 30,000m - 03.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Moses MOSOP",
+          "id": "14209151",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "1:26:47.4h",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Abel KIRUI",
+          "id": "14208543",
+          "nat": "KEN",
+          "birthYear": 1982,
+          "mark": "1:30:00.1h",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hosea Mwok MACHARINYANG",
+          "id": "14208942",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "1:32:25.6h",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Joseph CHIRLEE",
+          "id": "14207677",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "1:34:12.7h",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Adil ENNANI",
+          "id": "14211828",
+          "nat": "MAR",
+          "birthYear": 1980,
+          "mark": "1:40:26.6h",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Ketema NIGUSSE TOLA",
+          "id": "14181592",
+          "nat": "ETH",
+          "birthYear": 1981,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Worku BEYI",
+          "id": "14181369",
+          "nat": "ETH",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Joel Kemboi KIMURER",
+          "id": "14208131",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Stephen KIBET",
+          "id": "14208013",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's Shot Put - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Reese HOFFA",
+          "id": "14240894",
+          "nat": "USA",
+          "birthYear": 1977,
+          "mark": "21.65",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Dylan ARMSTRONG",
+          "id": "14174674",
+          "nat": "CAN",
+          "birthYear": 1981,
+          "mark": "21.60",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Christian CANTWELL",
+          "id": "14234176",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "21.59",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Andrei MIKHNEVICH",
+          "id": "14176698",
+          "nat": "BLR",
+          "birthYear": 1976,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "4.",
+          "athlete": "Tomasz MAJEWSKI",
+          "id": "14217130",
+          "nat": "POL",
+          "birthYear": 1981,
+          "mark": "21.14",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ryan WHITING",
+          "id": "14254801",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "21.11",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Daniel TAYLOR",
+          "id": "14252811",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "17.91",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 400m - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Amantle MONTSHO",
+          "id": "14269474",
+          "nat": "BOT",
+          "birthYear": 1983,
+          "mark": "50.59",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Debbie DUNN",
+          "id": "14309386",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "51.37",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Allyson FELIX",
+          "id": "14309983",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "51.41",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sanya RICHARDS-ROSS",
+          "id": "14319838",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "51.78",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Natasha HASTINGS",
+          "id": "14312172",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "51.85",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Shericka WILLIAMS",
+          "id": "14286003",
+          "nat": "JAM",
+          "birthYear": 1985,
+          "mark": "52.16",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Tatyana FIROVA",
+          "id": "14297707",
+          "nat": "RUS",
+          "birthYear": 1982,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "7.",
+          "athlete": "Kseniya AKSYONOVA",
+          "id": "14299650",
+          "nat": "RUS",
+          "birthYear": 1988,
+          "mark": "54.05",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 1500m - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Gelete BURKA",
+          "id": "14259909",
+          "nat": "ETH",
+          "birthYear": 1986,
+          "mark": "4:04.63",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Maryam Yusuf JAMAL",
+          "id": "14268773",
+          "nat": "BRN",
+          "birthYear": 1984,
+          "mark": "4:05.44",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Morgan UCENY",
+          "id": "14323124",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "4:06.32",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Nuria FERNÁNDEZ",
+          "id": "14261624",
+          "nat": "ESP",
+          "birthYear": 1976,
+          "mark": "4:06.66",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Nancy Jebet LANGAT",
+          "id": "14289224",
+          "nat": "KEN",
+          "birthYear": 1981,
+          "mark": "4:07.04",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Nikki HAMBLIN",
+          "id": "14275215",
+          "nat": "NZL",
+          "birthYear": 1988,
+          "mark": "4:07.14",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Treniere MOSER",
+          "id": "14307753",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "4:07.57",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Nuhamin BOGALE",
+          "id": "14360655",
+          "nat": "ETH",
+          "birthYear": 1993,
+          "mark": "4:08.25",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Siham HILALI",
+          "id": "14290679",
+          "nat": "MAR",
+          "birthYear": 1986,
+          "mark": "4:08.33",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Christin WURTH-THOMAS",
+          "id": "14324759",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "4:08.55",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Zoe BUCKMAN",
+          "id": "14272380",
+          "nat": "AUS",
+          "birthYear": 1988,
+          "mark": "4:09.82",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Yelena SOBOLEVA",
+          "id": "14299411",
+          "nat": "RUS",
+          "birthYear": 1982,
+          "mark": "4:10.34",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Katie MACKEY",
+          "id": "14310264",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "4:10.52",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Sara HALL",
+          "id": "14305595",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "4:15.58",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sara VAUGHN",
+          "id": "14325833",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ],
+  "Split times": [
+    {
+      "title": "Men's 1500m - 04.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "",
+          "athlete": "Silas KIPLAGAT",
+          "id": "14369379",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:34.50",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mekonnen GEBREMEDHIN",
+          "id": "14181467",
+          "nat": "ETH",
+          "birthYear": 1988,
+          "mark": "3:34.62",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Haron KEITANY",
+          "id": "14207892",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "3:34.71",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Caleb Mwangangi NDIKU",
+          "id": "14372397",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "3:34.80",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Yenew ALAMIREW",
+          "id": "14423358",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "3:35.09",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Daniel Kipchirchir KOMEN",
+          "id": "14208668",
+          "nat": "KEN",
+          "birthYear": 1984,
+          "mark": "3:35.31",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mohamed MOUSTAOUI",
+          "id": "14212385",
+          "nat": "MAR",
+          "birthYear": 1985,
+          "mark": "3:35.44",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Asbel KIPROP",
+          "id": "14208403",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:35.49",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Nick WILLIS",
+          "id": "14215936",
+          "nat": "NZL",
+          "birthYear": 1983,
+          "mark": "3:36.04",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Russell BROWN",
+          "id": "14233587",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "3:36.27",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Gideon GATHIMBA",
+          "id": "14207742",
+          "nat": "KEN",
+          "birthYear": 1980,
+          "mark": "3:37.65",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Lopez LOMONG",
+          "id": "14244311",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "3:38.10",
+          "doping": ""
+        }
+      ],
+      "category": "Split times"
+    },
+    {
+      "title": "Men's 25,000m - 03.06.2011",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "",
+          "athlete": "Moses MOSOP",
+          "id": "14209151",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "1:12:25.4h",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Abel KIRUI",
+          "id": "14208543",
+          "nat": "KEN",
+          "birthYear": 1982,
+          "mark": "1:13:52.8h",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Joel Kemboi KIMURER",
+          "id": "14208131",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "1:14:54.6h",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Hosea Mwok MACHARINYANG",
+          "id": "14208942",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "1:16:03.4h",
+          "doping": ""
+        }
+      ],
+      "category": "Split times"
+    }
+  ]
+}

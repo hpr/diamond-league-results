@@ -1,0 +1,2777 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 13.07.2018",
+      "detail": "Final, wind: -0.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Christian COLEMAN",
+          "id": "14541956",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "9.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ronnie BAKER",
+          "id": "14498578",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "9.98",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Noah LYLES",
+          "id": "14536762",
+          "nat": "USA",
+          "birthYear": 1997,
+          "mark": "9.99",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Michael RODGERS",
+          "id": "14249856",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "10.01",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Reece PRESCOD",
+          "id": "14522622",
+          "nat": "GBR",
+          "birthYear": 1996,
+          "mark": "10.09",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Chijindu UJAH",
+          "id": "14410429",
+          "nat": "GBR",
+          "birthYear": 1994,
+          "mark": "10.19",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Yoshihide KIRYU",
+          "id": "14547456",
+          "nat": "JPN",
+          "birthYear": 1995,
+          "mark": "10.20",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Arthur CISSÉ",
+          "id": "14636943",
+          "nat": "CIV",
+          "birthYear": 1996,
+          "mark": "10.22",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Abdullah Abkar MOHAMMED",
+          "id": "14752176",
+          "nat": "KSA",
+          "birthYear": 1997,
+          "mark": "10.30",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Akeem BLOOMFIELD",
+          "id": "14629292",
+          "nat": "JAM",
+          "birthYear": 1997,
+          "mark": "44.33",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Abdalelah HAROUN",
+          "id": "14686631",
+          "nat": "QAT",
+          "birthYear": 1997,
+          "mark": "44.69",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Matthew HUDSON-SMITH",
+          "id": "14407278",
+          "nat": "GBR",
+          "birthYear": 1994,
+          "mark": "44.79",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Luguelín SANTOS",
+          "id": "14370985",
+          "nat": "DOM",
+          "birthYear": 1992,
+          "mark": "44.80",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Paul DEDEWO",
+          "id": "14406755",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "44.82",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Michael CHERRY",
+          "id": "14490322",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "45.40",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 1500m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Brahim KAAZOUZI",
+          "id": "14471387",
+          "nat": "MAR",
+          "birthYear": 1990,
+          "mark": "3:33.22",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Filip INGEBRIGTSEN",
+          "id": "14458705",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "3:33.40",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Ayanleh SOULEIMAN",
+          "id": "14375782",
+          "nat": "DJI",
+          "birthYear": 1992,
+          "mark": "3:33.42",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jakub HOLUŠA",
+          "id": "14168850",
+          "nat": "CZE",
+          "birthYear": 1988,
+          "mark": "3:33.80",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Charlie DA'VALL GRICE",
+          "id": "14379043",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "3:34.20",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ryan GREGSON",
+          "id": "14179609",
+          "nat": "AUS",
+          "birthYear": 1990,
+          "mark": "3:34.38",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Aman WOTE",
+          "id": "14429188",
+          "nat": "ETH",
+          "birthYear": 1984,
+          "mark": "3:34.39",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Charles Cheboi SIMOTWO",
+          "id": "14657162",
+          "nat": "KEN",
+          "birthYear": 1995,
+          "mark": "3:34.75",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Marcin LEWANDOWSKI",
+          "id": "14217081",
+          "nat": "POL",
+          "birthYear": 1987,
+          "mark": "3:35.06",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Matthew CENTROWITZ",
+          "id": "14234521",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "3:35.17",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Hicham OULADHA",
+          "id": "14590405",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "3:35.35",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Younéss ESSALHI",
+          "id": "14438634",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "3:36.28",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Taresa TOLOSA",
+          "id": "14751315",
+          "nat": "ETH",
+          "birthYear": 1998,
+          "mark": "3:38.53",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Ismael DEBJANI",
+          "id": "14423089",
+          "nat": "BEL",
+          "birthYear": 1990,
+          "mark": "3:39.27",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mounir AKBACHE",
+          "id": "14182819",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Fouad EL KAAM",
+          "id": "14212107",
+          "nat": "MAR",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Vincent KIBET",
+          "id": "14426307",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 3000m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Yomif KEJELCHA",
+          "id": "14594967",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "7:32.93",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Birhanu BALEW",
+          "id": "14695983",
+          "nat": "BRN",
+          "birthYear": 1996,
+          "mark": "7:34.26",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Stewart MCSWEYN",
+          "id": "14500488",
+          "nat": "AUS",
+          "birthYear": 1995,
+          "mark": "7:34.79",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Paul CHELIMO",
+          "id": "14454958",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "7:34.83",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Muktar EDRIS",
+          "id": "14464221",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "7:36.13",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hagos GEBRHIWET",
+          "id": "14477352",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "7:36.49",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ryan HILL",
+          "id": "14367867",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "7:36.81",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Eric JENKINS",
+          "id": "14406813",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "7:38.19",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Soufiyan BOUQANTAR",
+          "id": "14442147",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "7:39.42",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Cyrus RUTTO",
+          "id": "14425838",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "10.",
+          "athlete": "Bethwell BIRGEN",
+          "id": "14368362",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "7:42.72",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Abadi HADIS",
+          "id": "14751318",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "7:42.83",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Hicham AKANKAM",
+          "id": "14649305",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "7:51.09",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Mohcin OUTALHA",
+          "id": "14786886",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "7:51.55",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Stephen KISSA",
+          "id": "14677961",
+          "nat": "UGA",
+          "birthYear": 1988,
+          "mark": "7:54.32",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Mohammed ABID",
+          "id": "14441440",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "8:07.67",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Rabii DOUKKANA",
+          "id": "14211998",
+          "nat": "FRA",
+          "birthYear": 1987,
+          "mark": "DNS",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Vincent LETTING",
+          "id": "14424997",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Abdelaati IGUIDER",
+          "id": "14212221",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jesús GÓMEZ",
+          "id": "14684882",
+          "nat": "ESP",
+          "birthYear": 1991,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 3000mSC - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Benjamin KIGEN",
+          "id": "14590800",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "8:06.19",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Chala BEYO",
+          "id": "14660572",
+          "nat": "ETH",
+          "birthYear": 1996,
+          "mark": "8:07.27",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Soufiane EL BAKKALI",
+          "id": "14590424",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "8:09.58",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Hillary BOR",
+          "id": "14232976",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "8:12.20",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Matthew HUGHES",
+          "id": "14174102",
+          "nat": "CAN",
+          "birthYear": 1989,
+          "mark": "8:13.13",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Abraham KIBIWOT",
+          "id": "14657344",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "8:14.35",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ibrahim EZZAYDOUNI",
+          "id": "14374875",
+          "nat": "ESP",
+          "birthYear": 1991,
+          "mark": "8:14.62",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Nicholas Kiptonui BETT",
+          "id": "14590710",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "8:17.83",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Fernando CARRO",
+          "id": "14375772",
+          "nat": "ESP",
+          "birthYear": 1992,
+          "mark": "8:19.30",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Amos KIRUI",
+          "id": "14661596",
+          "nat": "KEN",
+          "birthYear": 1998,
+          "mark": "8:20.00",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Mohamed TINDOUFT",
+          "id": "14773269",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "8:21.13",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Conseslus KIPRUTO",
+          "id": "14479159",
+          "nat": "KEN",
+          "birthYear": 1994,
+          "mark": "8:27.36",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Cleophas Kandie MEYAN",
+          "id": "14695631",
+          "nat": "KEN",
+          "birthYear": 1900,
+          "mark": "8:27.57",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Abdelkarim BEN ZAHRA",
+          "id": "14707140",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "8:30.48",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Andrew BAYER",
+          "id": "14360463",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "8:35.69",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Yemane HAILESELASSIE",
+          "id": "14693560",
+          "nat": "ERI",
+          "birthYear": 1998,
+          "mark": "8:40.10",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mounaime SASSIOUI",
+          "id": "14646832",
+          "nat": "MAR",
+          "birthYear": 1995,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Lawrence Kemboi KIPSANG",
+          "id": "14479203",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Hicham SIGUENI",
+          "id": "14375781",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Pole Vault - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sam KENDRICKS",
+          "id": "14440868",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "5.86",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Paweł WOJCIECHOWSKI",
+          "id": "14217866",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "5.80",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Timur MORGUNOV",
+          "id": "14565215",
+          "nat": "ANA",
+          "birthYear": 1996,
+          "mark": "5.80",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Shawnacy BARBER",
+          "id": "14457604",
+          "nat": "CAN",
+          "birthYear": 1994,
+          "mark": "5.60",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Thiago BRAZ",
+          "id": "14377443",
+          "nat": "BRA",
+          "birthYear": 1993,
+          "mark": "5.60",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Konstantinos FILIPPIDIS",
+          "id": "14195089",
+          "nat": "GRE",
+          "birthYear": 1986,
+          "mark": "5.60",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Bokai HUANG",
+          "id": "14534938",
+          "nat": "CHN",
+          "birthYear": 1996,
+          "mark": "5.60",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Scott HOUSTON",
+          "id": "14241173",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "5.45",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kurtis MARSCHALL",
+          "id": "14565327",
+          "nat": "AUS",
+          "birthYear": 1997,
+          "mark": "5.45",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Renaud LAVILLENIE",
+          "id": "14185853",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "5.45",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Javelin Throw - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Magnus KIRT",
+          "id": "14181008",
+          "nat": "EST",
+          "birthYear": 1990,
+          "mark": "89.75",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Andreas HOFMANN",
+          "id": "14372011",
+          "nat": "GER",
+          "birthYear": 1991,
+          "mark": "88.58",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jakub VADLEJCH",
+          "id": "14168152",
+          "nat": "CZE",
+          "birthYear": 1990,
+          "mark": "85.31",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Thomas RÖHLER",
+          "id": "14379257",
+          "nat": "GER",
+          "birthYear": 1991,
+          "mark": "85.19",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Neeraj CHOPRA",
+          "id": "14549089",
+          "nat": "IND",
+          "birthYear": 1997,
+          "mark": "83.32",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ahmed Bader MAGOUR",
+          "id": "14709346",
+          "nat": "QAT",
+          "birthYear": 1996,
+          "mark": "83.30",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Keshorn WALCOTT",
+          "id": "14376122",
+          "nat": "TTO",
+          "birthYear": 1993,
+          "mark": "83.26",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Andrian MARDARE",
+          "id": "14512244",
+          "nat": "MDA",
+          "birthYear": 1995,
+          "mark": "81.28",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Rolands ŠTROBINDERS",
+          "id": "14420776",
+          "nat": "LAT",
+          "birthYear": 1992,
+          "mark": "78.96",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 200m - 13.07.2018",
+      "detail": "Final, wind: -0.5",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Shaunae MILLER-UIBO",
+          "id": "14368116",
+          "nat": "BAH",
+          "birthYear": 1994,
+          "mark": "22.29",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Dina ASHER-SMITH",
+          "id": "14378282",
+          "nat": "GBR",
+          "birthYear": 1995,
+          "mark": "22.40",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jenna PRANDINI",
+          "id": "14329068",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "22.60",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Gabrielle THOMAS",
+          "id": "14733520",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "22.70",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Murielle AHOURÉ-DEMPS",
+          "id": "14304569",
+          "nat": "CIV",
+          "birthYear": 1987,
+          "mark": "22.70",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jodie WILLIAMS",
+          "id": "14276757",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "23.26",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Blessing OKAGBARE",
+          "id": "14292330",
+          "nat": "NGR",
+          "birthYear": 1988,
+          "mark": "23.42",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Shashalee FORBES",
+          "id": "14574709",
+          "nat": "JAM",
+          "birthYear": 1996,
+          "mark": "23.51",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 800m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Francine NIYONSABA",
+          "id": "14532686",
+          "nat": "BDI",
+          "birthYear": 1993,
+          "mark": "1:57.90",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Natoya GOULE",
+          "id": "14285696",
+          "nat": "JAM",
+          "birthYear": 1991,
+          "mark": "1:58.33",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Rababe ARAFI",
+          "id": "14290578",
+          "nat": "MAR",
+          "birthYear": 1991,
+          "mark": "1:58.84",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Margaret Nyairera WAMBUI",
+          "id": "14656975",
+          "nat": "KEN",
+          "birthYear": 1995,
+          "mark": "1:59.09",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Emily Cherotich TUEI",
+          "id": "14289041",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "1:59.19",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Malika AKKAOUI",
+          "id": "14290566",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "1:59.27",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lynsey SHARP",
+          "id": "14276316",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "1:59.86",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Laura ROESLER",
+          "id": "14320153",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "2:00.56",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Eunice Jepkoech SUM",
+          "id": "14423891",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "2:03.51",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Bianka KÉRI",
+          "id": "14423257",
+          "nat": "HUN",
+          "birthYear": 1994,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 5000m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Hellen OBIRI",
+          "id": "14424921",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "14:21.75",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sifan HASSAN",
+          "id": "14489606",
+          "nat": "NED",
+          "birthYear": 1993,
+          "mark": "14:22.34",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Letesenbet GIDEY",
+          "id": "14654918",
+          "nat": "ETH",
+          "birthYear": 1998,
+          "mark": "14:23.14",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Senbere TEFERI",
+          "id": "14477329",
+          "nat": "ETH",
+          "birthYear": 1995,
+          "mark": "14:23.33",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Agnes Jebet TIROP",
+          "id": "14289007",
+          "nat": "KEN",
+          "birthYear": 1995,
+          "mark": "14:24.24",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Genzebe DIBABA",
+          "id": "14259874",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "14:42.98",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Eilish MCCOLGAN",
+          "id": "14275729",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "14:52.83",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Caroline Chepkoech KIPKIRUI",
+          "id": "14423904",
+          "nat": "KEN",
+          "birthYear": 1994,
+          "mark": "14:55.63",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Dominique SCOTT",
+          "id": "14941416",
+          "nat": "RSA",
+          "birthYear": 1992,
+          "mark": "15:11.65",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Molly HUDDLE",
+          "id": "14313054",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "15:21.24",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Rina KUSU",
+          "id": "14520154",
+          "nat": "JPN",
+          "birthYear": 1993,
+          "mark": "15:27.54",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Stephanie TWELL",
+          "id": "14276601",
+          "nat": "GBR",
+          "birthYear": 1989,
+          "mark": "15:36.45",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Kaoutar FARKOUSSI",
+          "id": "14590420",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "15:48.73",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Tamara TVERDOSTUP",
+          "id": "14304309",
+          "nat": "UKR",
+          "birthYear": 1979,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Eva CHERONO",
+          "id": "14472835",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Kalkidan FENTIE",
+          "id": "14672911",
+          "nat": "ETH",
+          "birthYear": 1998,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Gloria KITE",
+          "id": "14472836",
+          "nat": "KEN",
+          "birthYear": 1998,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Meraf BAHTA",
+          "id": "14262200",
+          "nat": "SWE",
+          "birthYear": 1989,
+          "mark": "DNF",
+          "doping": "DOP"
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100mH - 13.07.2018",
+      "detail": "Final, wind: +0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Brianna MCNEAL",
+          "id": "14320208",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "12.51",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sharika NELVIS",
+          "id": "14376876",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "12.58",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Christina CLEMONS",
+          "id": "14363368",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "12.72",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dawn HARPER-NELSON",
+          "id": "14311987",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "12.86",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Tobi AMUSAN",
+          "id": "14579526",
+          "nat": "NGR",
+          "birthYear": 1997,
+          "mark": "12.87",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Cindy ROLEDER",
+          "id": "14279423",
+          "nat": "GER",
+          "birthYear": 1989,
+          "mark": "12.87",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Pamela DUTKIEWICZ-EMMERICH",
+          "id": "14940414",
+          "nat": "GER",
+          "birthYear": 1991,
+          "mark": "12.89",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Yanique THOMPSON",
+          "id": "14469999",
+          "nat": "JAM",
+          "birthYear": 1996,
+          "mark": "12.93",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Eefje BOONS",
+          "id": "14451251",
+          "nat": "NED",
+          "birthYear": 1994,
+          "mark": "13.32",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's High Jump - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mirela DEMIREVA",
+          "id": "14268737",
+          "nat": "BUL",
+          "birthYear": 1989,
+          "mark": "1.94",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yuliia LEVCHENKO",
+          "id": "14594836",
+          "nat": "UKR",
+          "birthYear": 1997,
+          "mark": "1.94",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Mariya LASITSKENE",
+          "id": "14298324",
+          "nat": "ANA",
+          "birthYear": 1993,
+          "mark": "1.90",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kateryna TABASHNYK",
+          "id": "14426901",
+          "nat": "UKR",
+          "birthYear": 1994,
+          "mark": "1.90",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Morgan LAKE",
+          "id": "14409457",
+          "nat": "GBR",
+          "birthYear": 1997,
+          "mark": "1.90",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sofie SKOOG",
+          "id": "14373563",
+          "nat": "SWE",
+          "birthYear": 1990,
+          "mark": "1.90",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Marie-Laurence JUNGFLEISCH",
+          "id": "14278223",
+          "nat": "GER",
+          "birthYear": 1990,
+          "mark": "1.90",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Oksana OKUNEVA",
+          "id": "14303976",
+          "nat": "UKR",
+          "birthYear": 1990,
+          "mark": "1.90",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Levern SPENCER",
+          "id": "14290136",
+          "nat": "LCA",
+          "birthYear": 1984,
+          "mark": "1.90",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Triple Jump - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Caterine IBARGUEN",
+          "id": "14263994",
+          "nat": "COL",
+          "birthYear": 1984,
+          "mark": "14.96",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kimberly WILLIAMS",
+          "id": "14285998",
+          "nat": "JAM",
+          "birthYear": 1988,
+          "mark": "14.47",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Tori FRANKLIN",
+          "id": "14425445",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "14.42",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Gabriela PETROVA",
+          "id": "14268585",
+          "nat": "BUL",
+          "birthYear": 1992,
+          "mark": "14.40",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Nubia SOARES",
+          "id": "14530395",
+          "nat": "BRA",
+          "birthYear": 1996,
+          "mark": "14.30",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ana PELETEIRO",
+          "id": "14454805",
+          "nat": "ESP",
+          "birthYear": 1995,
+          "mark": "14.29",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Elena Andreea TALOȘ",
+          "id": "14408349",
+          "nat": "ROU",
+          "birthYear": 1995,
+          "mark": "14.15",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Olga RYPAKOVA",
+          "id": "14288693",
+          "nat": "KAZ",
+          "birthYear": 1984,
+          "mark": "13.83",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Rouguy DIALLO",
+          "id": "14410309",
+          "nat": "FRA",
+          "birthYear": 1995,
+          "mark": "13.66",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Shot Put - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Christina SCHWANITZ",
+          "id": "14279753",
+          "nat": "GER",
+          "birthYear": 1985,
+          "mark": "19.40",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Aliona DUBITSKAYA",
+          "id": "14269885",
+          "nat": "BLR",
+          "birthYear": 1990,
+          "mark": "19.21",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Valerie ADAMS",
+          "id": "14292861",
+          "nat": "NZL",
+          "birthYear": 1984,
+          "mark": "18.93",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Raven SAUNDERS",
+          "id": "14615321",
+          "nat": "USA",
+          "birthYear": 1996,
+          "mark": "18.51",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Brittany CREW",
+          "id": "14430758",
+          "nat": "CAN",
+          "birthYear": 1994,
+          "mark": "18.25",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jessica RAMSEY",
+          "id": "14439750",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "18.17",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Fanny ROOS",
+          "id": "14429853",
+          "nat": "SWE",
+          "birthYear": 1995,
+          "mark": "18.06",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Danniel THOMAS-DODD",
+          "id": "14468647",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "18.04",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's Long Jump - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Tajay GAYLE",
+          "id": "14631861",
+          "nat": "JAM",
+          "birthYear": 1996,
+          "mark": "8.09",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Marquis DENDY",
+          "id": "14374165",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "8.05",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jarrion LAWSON",
+          "id": "14443773",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "8.03",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Thobias MONTLER",
+          "id": "14487329",
+          "nat": "SWE",
+          "birthYear": 1996,
+          "mark": "7.85",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ignisious GAISAH",
+          "id": "14194908",
+          "nat": "NED",
+          "birthYear": 1983,
+          "mark": "7.81",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Zarck VISSER",
+          "id": "14221485",
+          "nat": "RSA",
+          "birthYear": 1989,
+          "mark": "7.79",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Yahya BERRABAH",
+          "id": "14211903",
+          "nat": "MAR",
+          "birthYear": 1981,
+          "mark": "7.78",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mouhcine KHOUA",
+          "id": "14652592",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "7.62",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 1000m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Caster SEMENYA",
+          "id": "14330057",
+          "nat": "RSA",
+          "birthYear": 1991,
+          "mark": "2:31.01",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ce'Aira BROWN",
+          "id": "14463544",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "2:35.85",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kaela EDWARDS",
+          "id": "14439579",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "2:36.13",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Winnie NANYONDO",
+          "id": "14534257",
+          "nat": "UGA",
+          "birthYear": 1993,
+          "mark": "2:36.13",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Nelly JEPKOSGEI",
+          "id": "14373314",
+          "nat": "BRN",
+          "birthYear": 1991,
+          "mark": "2:37.41",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sanne VERSTEGEN-WOLTERS",
+          "id": "14292246",
+          "nat": "NED",
+          "birthYear": 1985,
+          "mark": "2:37.49",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Winny CHEBET",
+          "id": "14288808",
+          "nat": "KEN",
+          "birthYear": 1990,
+          "mark": "2:37.82",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Esther GUERRERO",
+          "id": "14261358",
+          "nat": "ESP",
+          "birthYear": 1990,
+          "mark": "2:37.85",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Siham HILALI",
+          "id": "14290679",
+          "nat": "MAR",
+          "birthYear": 1986,
+          "mark": "2:41.17",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Eglay Nafuna NALYANYA",
+          "id": "14520779",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "2:41.19",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Khadija BENKASSEM",
+          "id": "14649286",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "2:46.39",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Chrishuna WILLIAMS",
+          "id": "14369842",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ],
+  "U18 Events": [
+    {
+      "title": "Men's 800m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mehdi SEFRANI",
+          "id": "14843146",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "1:55.90",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Hamza DAIR",
+          "id": "14843148",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "1:56.21",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Salahedine BOUSSAID",
+          "id": "14843150",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "1:56.52",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Achraf ELBAROUICH",
+          "id": "14851026",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "1:56.63",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Hamza BOUCHALLIKH",
+          "id": "14851027",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "1:57.34",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Mehdi BENHADDOU",
+          "id": "14851028",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "1:57.48",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Abdellah SALAM",
+          "id": "14851029",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "1:57.60",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Hamza ELBARJADI",
+          "id": "14851030",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "1:57.86",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Men's 1500m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Fouad MASSOUADI",
+          "id": "14851023",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "3:57.21",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Zakariyaa HMIROUCH",
+          "id": "14844192",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "3:57.27",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Othmane EL GHARISSI",
+          "id": "14844191",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "3:57.27",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mohamed JAOUHARI",
+          "id": "14849002",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "3:59.67",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Yassine LAARJ",
+          "id": "14848938",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "3:59.98",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hamid OUTAZOLT",
+          "id": "14842142",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:00.23",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Youssef ASSLOUJ",
+          "id": "14843960",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:02.41",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mustapha AKEROU",
+          "id": "14848935",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:02.55",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Ayoub ASSEBAN",
+          "id": "14851025",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:02.64",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Mohamed BAGHATI",
+          "id": "14843158",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "4:04.37",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Women's 800m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Imane KERROUM",
+          "id": "14843951",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "2:15.21",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ouamaima BELHARCHA",
+          "id": "14851022",
+          "nat": "MAR",
+          "birthYear": 1903,
+          "mark": "2:16.50",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hajar EL JAAFARI",
+          "id": "14795236",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "2:17.79",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Oumaima MESSHABI",
+          "id": "14795239",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "2:18.51",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Hind CHIBAN",
+          "id": "14806128",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "2:19.80",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lamyae MAMNI",
+          "id": "14851021",
+          "nat": "MAR",
+          "birthYear": 1903,
+          "mark": "2:20.08",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Houda RAMI",
+          "id": "14843953",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "2:21.51",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Manal LAHMIDI",
+          "id": "14851020",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "2:22.56",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Women's 1500m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Khadija RAKKOU",
+          "id": "14793940",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:37.27",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nouhayla RABII",
+          "id": "14843954",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "4:38.32",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Zainab HACHLAF",
+          "id": "14793941",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:40.07",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Dounia SOUHAIL",
+          "id": "14851018",
+          "nat": "MAR",
+          "birthYear": 1904,
+          "mark": "4:46.01",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Asmae Dakhmira LAMRINI",
+          "id": "14851019",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:46.01",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hasnaa TISKART",
+          "id": "14843174",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:46.50",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ahlam BARGHOUT",
+          "id": "14843175",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "4:46.92",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Soukaina ELHAJI",
+          "id": "14842141",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "4:49.55",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Malika BOULJAHL",
+          "id": "14848990",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "4:52.28",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Rajae BENHADDOUCH",
+          "id": "14843176",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "4:53.08",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Fatima EL ALALI",
+          "id": "14849000",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:55.07",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Oumnya EL AZZOUZI",
+          "id": "14848999",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "4:57.07",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Hasnae MAADOUR",
+          "id": "14843177",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "5:03.28",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    }
+  ],
+  "U20 Events": [
+    {
+      "title": "Men's 100m - 13.07.2018",
+      "detail": "Final, wind: -0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Soufiane ZAKOUR",
+          "id": "14753877",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "11.01",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Amine AIT ELHADJ",
+          "id": "14843134",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "11.02",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Anouar ELAOUFI",
+          "id": "14753879",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "11.06",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mounir HAZAL",
+          "id": "14753881",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "11.14",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Oussama FRINDI",
+          "id": "14795305",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "11.18",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hamza MOUDCHI",
+          "id": "14842137",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "11.24",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Mohamed Amine DAGDAGUI",
+          "id": "14842136",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "11.25",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    },
+    {
+      "title": "Women's 100m - 13.07.2018",
+      "detail": "Final, wind: 0.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Hajar EDDOU",
+          "id": "14652569",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "12.35",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Imane MAKRAZI",
+          "id": "14795281",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "12.48",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Aicha SAROUKH",
+          "id": "14795315",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "12.65",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Aouatif DERRAGUE",
+          "id": "14806114",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "12.68",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Asmae MEKRAZI",
+          "id": "14806115",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "12.68",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Oumaima HILALI",
+          "id": "14851017",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "12.72",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lamiyae AZIB",
+          "id": "14806116",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "12.92",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Hajar TISS",
+          "id": "14795285",
+          "nat": "MAR",
+          "birthYear": 1902,
+          "mark": "12.95",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Chaimae ABOUCHE",
+          "id": "14753885",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "14.35",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    }
+  ],
+  "U23 Events": [
+    {
+      "title": "Men's 800m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Achraf EL MALIKY",
+          "id": "14649293",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:51.04",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Abdellatif SADIKI",
+          "id": "14795292",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:51.38",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Youness BENECHRAK",
+          "id": "14795289",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:52.29",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Mohamed Amine ELGADI",
+          "id": "14793937",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:52.76",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Abdelmjid BOUMRINE",
+          "id": "14789960",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:53.11",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Elhassane MOUJAHID",
+          "id": "14843131",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:53.25",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Hamza BELKALFI",
+          "id": "14649292",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:53.39",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Hamza OUMOLOUD HADDOU",
+          "id": "14843941",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:53.48",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Yassine OUALILI",
+          "id": "14795242",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:53.67",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Achraf EL GHAROUS",
+          "id": "14753893",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "1:53.89",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Hamza MELLAS",
+          "id": "14789962",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:54.02",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Zakaria ZEROUAL",
+          "id": "14806122",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:54.05",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Ayoub AIT HADDOU",
+          "id": "14806123",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:54.42",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Mounir ELHASSANI",
+          "id": "14793935",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:55.02",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Abdellah MOUZLIB",
+          "id": "14793915",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:00.41",
+          "doping": ""
+        }
+      ],
+      "category": "U23 Events"
+    },
+    {
+      "title": "Men's 1500m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jamal OUSSAMA",
+          "id": "14843113",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:52.83",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Youssef CHEDDANI",
+          "id": "14773266",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "3:53.22",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hafid RIZQY",
+          "id": "14842130",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:53.29",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Anass MGHARI",
+          "id": "14649294",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "3:53.43",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Abdelilah ZAHIR",
+          "id": "14805621",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:54.75",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Abdellah LATAM",
+          "id": "14843946",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:55.20",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Youssef AOULATA",
+          "id": "14773573",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "3:55.69",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Yahya MAZOUZ",
+          "id": "14849001",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:56.23",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Hamid CHAIB",
+          "id": "14851034",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:56.36",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Hicham BOULKAIL",
+          "id": "14843945",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:56.80",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Abdellah EL HAJJAJI",
+          "id": "14851036",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "3:56.89",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Riad ELJADANI",
+          "id": "14851037",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "3:56.96",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Said IBISSOU",
+          "id": "14793936",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "3:57.17",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Anouar OUZINE",
+          "id": "14773574",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "3:57.43",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Ilyas RAJI",
+          "id": "14763204",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "3:57.77",
+          "doping": ""
+        },
+        {
+          "place": "16.",
+          "athlete": "Achraf AMOUR",
+          "id": "14851035",
+          "nat": "MAR",
+          "birthYear": 1905,
+          "mark": "3:59.97",
+          "doping": ""
+        },
+        {
+          "place": "17.",
+          "athlete": "Ilyas AKZIZ",
+          "id": "14848741",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "4:02.06",
+          "doping": ""
+        },
+        {
+          "place": "18.",
+          "athlete": "Rachid AIT OURKIA",
+          "id": "14848932",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "4:06.41",
+          "doping": ""
+        }
+      ],
+      "category": "U23 Events"
+    },
+    {
+      "title": "Women's 800m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Wafa ZAROUAL",
+          "id": "14649285",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "2:08.13",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yassmine BIDKANE",
+          "id": "14793919",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "2:11.81",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Chaimae ISMAILI",
+          "id": "14702266",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:12.21",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Khadija ENNAI",
+          "id": "14806120",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:12.60",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Aya BOUGHIDA",
+          "id": "14843952",
+          "nat": "MAR",
+          "birthYear": 1901,
+          "mark": "2:13.35",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Kaoutar BENTBIB",
+          "id": "14753888",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:16.07",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Souhaila BAHTAR",
+          "id": "14752084",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:18.63",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Sara EL HACHIMI",
+          "id": "14753883",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:20.68",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Hajar EL AZZIOUI",
+          "id": "14851016",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "2:24.73",
+          "doping": ""
+        }
+      ],
+      "category": "U23 Events"
+    },
+    {
+      "title": "Women's 1500m - 13.07.2018",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Imane EL BOUHALI",
+          "id": "14649298",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "4:26.40",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Fatima Zehra MAAJI",
+          "id": "14806127",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:33.36",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Houda AHETTIOU",
+          "id": "14795307",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:35.85",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Chaymae AKABLI",
+          "id": "14843140",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:41.01",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Widad NOUSSIL",
+          "id": "14795308",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:43.13",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Souad GZAOUI",
+          "id": "14851031",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:49.04",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Leila NACIRI",
+          "id": "14851032",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "4:52.94",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Itto BOUTAHAR",
+          "id": "14843136",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:53.11",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Chaymae BENSONA",
+          "id": "14851033",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:54.12",
+          "doping": ""
+        }
+      ],
+      "category": "U23 Events"
+    }
+  ]
+}

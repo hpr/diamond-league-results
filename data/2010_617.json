@@ -1,0 +1,455 @@
+{
+  "National Events": [
+    {
+      "title": "Men's 800m - 06.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Rabii DOUKKANA",
+          "id": "14211998",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "1:49.69",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Mohamed SAIKOUK",
+          "id": "14335539",
+          "nat": "MAR",
+          "birthYear": 1990,
+          "mark": "1:50.00",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Mohamed LAALOU",
+          "id": "14378530",
+          "nat": "MAR",
+          "birthYear": 1990,
+          "mark": "1:50.04",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Abdelmajid AZAMI",
+          "id": "14423142",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:50.25",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Mohammed MAINY",
+          "id": "14375506",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "1:50.53",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Abdelkrim KHOUDRI",
+          "id": "14212274",
+          "nat": "MAR",
+          "birthYear": 1977,
+          "mark": "1:50.55",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Marouane HABTI",
+          "id": "14423144",
+          "nat": "MAR",
+          "birthYear": 1994,
+          "mark": "1:50.55",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Abdellatif DRAA",
+          "id": "14212000",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:50.76",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Brahim KERBAB",
+          "id": "14420166",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:50.87",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Rachid HACHLAF",
+          "id": "14212178",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:51.00",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Seddik MIKHO",
+          "id": "14423145",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:51.28",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Abdelaati ABOUHIND",
+          "id": "14423146",
+          "nat": "MAR",
+          "birthYear": 1990,
+          "mark": "1:53.83",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "title": "Men's 1500m - 06.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jawad SOUIGRA",
+          "id": "14335553",
+          "nat": "MAR",
+          "birthYear": 1988,
+          "mark": "3:42.66",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Faiçal NEJJARI",
+          "id": "14423155",
+          "nat": "MAR",
+          "birthYear": 1986,
+          "mark": "3:42.78",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Otmane LAAROUSSI",
+          "id": "14375931",
+          "nat": "MAR",
+          "birthYear": 1992,
+          "mark": "3:42.90",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Lahcen BOURZAK",
+          "id": "14211943",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:43.40",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Abdelhadi LABÄLI",
+          "id": "14413329",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "3:43.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Soufiyan BOUQANTAR",
+          "id": "14442147",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "3:43.78",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Med HAZAB",
+          "id": "14212207",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:44.21",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Aziz LAHBABI",
+          "id": "14212293",
+          "nat": "MAR",
+          "birthYear": 1991,
+          "mark": "3:44.48",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Hassan KHALLOUKI",
+          "id": "14185623",
+          "nat": "FRA",
+          "birthYear": 1979,
+          "mark": "3:45.29",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Ahmed MAINY",
+          "id": "14375242",
+          "nat": "MAR",
+          "birthYear": 1986,
+          "mark": "3:45.40",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Azeddine GUERTI",
+          "id": "14423157",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "3:47.23",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Hamza SAHLI",
+          "id": "14212196",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "3:49.71",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Jamal HITRANE",
+          "id": "14423154",
+          "nat": "MAR",
+          "birthYear": 1989,
+          "mark": "3:49.75",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Adil BRIAMI",
+          "id": "14211905",
+          "nat": "MAR",
+          "birthYear": 1983,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Badr LAKHAL",
+          "id": "14335388",
+          "nat": "MAR",
+          "birthYear": 1992,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Adil OULAD LIDAME",
+          "id": "14212417",
+          "nat": "MAR",
+          "birthYear": 1982,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Taher BELKORCHI",
+          "id": "14211876",
+          "nat": "MAR",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "title": "Women's 1500m - 06.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Hanane QALLOUJ",
+          "id": "14374485",
+          "nat": "MAR",
+          "birthYear": 1992,
+          "mark": "4:23.80",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Manal EBAHRAOUI",
+          "id": "14431568",
+          "nat": "MAR",
+          "birthYear": 1994,
+          "mark": "4:32.01",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Hayat BENHIMA",
+          "id": "14388436",
+          "nat": "MAR",
+          "birthYear": 1992,
+          "mark": "4:33.80",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Imane LAAROUSSI",
+          "id": "14423148",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:36.62",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Hanane TABITI",
+          "id": "14423149",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:37.11",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hanane BAHYOUNE",
+          "id": "14423150",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:39.28",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Tourya NAZIH",
+          "id": "14420185",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:41.79",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Fatima AOUDA",
+          "id": "14290577",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:43.71",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "title": "Women's 3000m - 06.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Fatiha BENCHATKI",
+          "id": "14290603",
+          "nat": "MAR",
+          "birthYear": 1982,
+          "mark": "9:17.64",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sara BOUASRIA",
+          "id": "14423138",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "9:18.06",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Salima EL OUALI ALAMI",
+          "id": "14366662",
+          "nat": "MAR",
+          "birthYear": 1983,
+          "mark": "9:18.37",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ikram ZOUGLALI",
+          "id": "14290796",
+          "nat": "MAR",
+          "birthYear": 1988,
+          "mark": "9:21.09",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Zhor EL KAMCH",
+          "id": "14290653",
+          "nat": "MAR",
+          "birthYear": 1973,
+          "mark": "9:41.85",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hayat ALLAOUI",
+          "id": "14420196",
+          "nat": "MAR",
+          "birthYear": 1992,
+          "mark": "9:51.25",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Fadoua SIDIMADAN",
+          "id": "14423139",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "9:52.07",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Amina TAHIRI",
+          "id": "14375437",
+          "nat": "MAR",
+          "birthYear": 1992,
+          "mark": "9:53.78",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Soukaina ITNANE",
+          "id": "14423140",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "9:58.74",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Fatiha ASMID",
+          "id": "14423141",
+          "nat": "MAR",
+          "birthYear": 1992,
+          "mark": "10:04.85",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    }
+  ]
+}

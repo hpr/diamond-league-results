@@ -1,0 +1,329 @@
+{
+  "U20 Events": [
+    {
+      "title": "Men's 800m - 14.06.2015",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Younes SNIBA",
+          "id": "14707133",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "1:52.52",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Achraf EL MALIKY",
+          "id": "14649293",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "1:53.64",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Zouhair ANNAKI",
+          "id": "14649308",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "1:53.89",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Anass MGHARI",
+          "id": "14649294",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "1:54.61",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Moad ZAHAFI",
+          "id": "14707135",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "1:57.42",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Adil TARZI",
+          "id": "14652584",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    },
+    {
+      "title": "Men's 1500m - 14.06.2015",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mohammed BYBAT",
+          "id": "14646842",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "3:53.34",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Amine ZAHAF",
+          "id": "14643679",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:53.50",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Abdelkarim BEN ZAHRA",
+          "id": "14707140",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "3:53.58",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Hicham AKANKAM",
+          "id": "14649305",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "3:54.52",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Fahd EL HALFI",
+          "id": "14707141",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:54.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Hicham EL KHIARI",
+          "id": "14752088",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "3:56.06",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    },
+    {
+      "title": "Women's 800m - 14.06.2015",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Soukaina HAJJI",
+          "id": "14579514",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "2:10.36",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Majda LAKRAFLI",
+          "id": "14590417",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:13.40",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Fatima Zahra GHIZLANE",
+          "id": "14707127",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "2:13.83",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Oumaima OUBBA",
+          "id": "14707128",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:14.96",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Khadija BENKASSEM",
+          "id": "14649286",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "2:16.06",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Assia NOURI",
+          "id": "14702283",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "2:16.19",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Fatima Zahra HISSISSOU",
+          "id": "14707129",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:16.56",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Imane ABDELAADIM",
+          "id": "14707130",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "2:16.77",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Soukaina JABAH",
+          "id": "14707131",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:17.78",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Fadwa MAKHOUKH",
+          "id": "14707132",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "2:18.40",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Nezha EL GHALI",
+          "id": "14690317",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    },
+    {
+      "title": "Women's 1500m - 14.06.2015",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kaoutar FARKOUSSI",
+          "id": "14590420",
+          "nat": "MAR",
+          "birthYear": 1996,
+          "mark": "4:35.32",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Imane EL BOUHALI",
+          "id": "14649298",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "4:36.94",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Khadija GUARIB",
+          "id": "14707136",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "4:38.00",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Chaimae ISMAILI",
+          "id": "14702266",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:41.74",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kaoutar SAMAMA",
+          "id": "14702268",
+          "nat": "MAR",
+          "birthYear": 1998,
+          "mark": "4:42.58",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Nadia EL HAKOUNI",
+          "id": "14580152",
+          "nat": "MAR",
+          "birthYear": 1997,
+          "mark": "4:44.89",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Meryem KAMRI",
+          "id": "14707137",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:46.35",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kahoutar ABIDA",
+          "id": "14707138",
+          "nat": "MAR",
+          "birthYear": 1999,
+          "mark": "4:48.58",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Fatima Zohra IZARIFANE",
+          "id": "14702265",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "4:49.40",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Khadija GHAZAL",
+          "id": "14707139",
+          "nat": "MAR",
+          "birthYear": 1900,
+          "mark": "",
+          "doping": "DOP"
+        }
+      ],
+      "category": "U20 Events"
+    }
+  ]
+}

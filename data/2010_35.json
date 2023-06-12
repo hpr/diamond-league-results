@@ -1,0 +1,2433 @@
+{
+  "Combined Events": [
+    {
+      "title": "Women's 100mH - 12.06.2010",
+      "detail": "Combined, wind: +1.3",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jessica ENNIS-HILL",
+          "id": "14274988",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "12.85",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Hyleas FOUNTAIN",
+          "id": "14310374",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "12.93",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Bettie WADE",
+          "id": "14323455",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "13.84",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kasey HILL",
+          "id": "14312598",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "13.87",
+          "doping": ""
+        }
+      ],
+      "category": "Combined Events"
+    },
+    {
+      "title": "Women's Long Jump - 12.06.2010",
+      "detail": "Combined",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Hyleas FOUNTAIN",
+          "id": "14310374",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "6.65",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jessica ENNIS-HILL",
+          "id": "14274988",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "6.51",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Bettie WADE",
+          "id": "14323455",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "6.28",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kasey HILL",
+          "id": "14312598",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "5.94",
+          "doping": ""
+        }
+      ],
+      "category": "Combined Events"
+    },
+    {
+      "title": "Women's Shot Put - 12.06.2010",
+      "detail": "Combined",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jessica ENNIS-HILL",
+          "id": "14274988",
+          "nat": "GBR",
+          "birthYear": 1986,
+          "mark": "13.61",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Hyleas FOUNTAIN",
+          "id": "14310374",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "13.47",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kasey HILL",
+          "id": "14312598",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "12.98",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Bettie WADE",
+          "id": "14323455",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "12.35",
+          "doping": ""
+        }
+      ],
+      "category": "Combined Events"
+    }
+  ],
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 12.06.2010",
+      "detail": "Final 1, wind: +2.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Richard THOMPSON",
+          "id": "14229106",
+          "nat": "TTO",
+          "birthYear": 1985,
+          "mark": "9.89",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Yohan BLAKE",
+          "id": "14201842",
+          "nat": "JAM",
+          "birthYear": 1989,
+          "mark": "9.91",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Daniel BAILEY",
+          "id": "14180555",
+          "nat": "ANT",
+          "birthYear": 1986,
+          "mark": "9.92",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Trell KIMMONS",
+          "id": "14242966",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "9.92",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ivory WILLIAMS",
+          "id": "14255019",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "9.98",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Michael RODGERS",
+          "id": "14249856",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "9.99",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Churandy MARTINA",
+          "id": "14180965",
+          "nat": "AHO",
+          "birthYear": 1984,
+          "mark": "10.07",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Travis PADGETT",
+          "id": "14247846",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "10.07",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Ryan BAILEY",
+          "id": "14231808",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "10.14",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 800m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mbulaeni MULAUDZI",
+          "id": "14220770",
+          "nat": "RSA",
+          "birthYear": 1980,
+          "mark": "1:44.38",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nick SYMMONDS",
+          "id": "14252687",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "1:45.05",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Alfred Kirwa YEGO",
+          "id": "14209993",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "1:45.46",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Khadevis ROBINSON",
+          "id": "14249779",
+          "nat": "USA",
+          "birthYear": 1976,
+          "mark": "1:45.77",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Karjuan WILLIAMS",
+          "id": "14255054",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "1:46.59",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Asbel KIPROP",
+          "id": "14208403",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "1:47.12",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jacob HERNANDEZ",
+          "id": "14240580",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "1:47.51",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Gilbert KIPCHOGE",
+          "id": "14208195",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "1:47.98",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Christian SMITH",
+          "id": "14251566",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "1:49.81",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Moise JOSEPH",
+          "id": "14195812",
+          "nat": "HAI",
+          "birthYear": 1981,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400mH - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kerron CLEMENT",
+          "id": "14234898",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "47.86",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Bershawn JACKSON",
+          "id": "14241618",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "47.94",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Javier CULSON",
+          "id": "14218778",
+          "nat": "PUR",
+          "birthYear": 1984,
+          "mark": "48.47",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Félix SÁNCHEZ",
+          "id": "14167679",
+          "nat": "DOM",
+          "birthYear": 1977,
+          "mark": "48.69",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Isa PHILLIPS",
+          "id": "14202168",
+          "nat": "JAM",
+          "birthYear": 1984,
+          "mark": "48.98",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Michael TINSLEY",
+          "id": "14253267",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "49.52",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "LJ VAN ZYL",
+          "id": "14221443",
+          "nat": "RSA",
+          "birthYear": 1985,
+          "mark": "49.79",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jehue GORDON",
+          "id": "14326172",
+          "nat": "TTO",
+          "birthYear": 1991,
+          "mark": "49.96",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 3000mSC - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Paul Kipsiele KOECH",
+          "id": "14208637",
+          "nat": "KEN",
+          "birthYear": 1981,
+          "mark": "8:10.43",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Tarik Langat AKDAG",
+          "id": "14208848",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "8:15.52",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Brimin Kiprop KIPRUTO",
+          "id": "14208442",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "8:18.92",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Daniel HULING",
+          "id": "14241342",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "8:21.68",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Steve SLATTERY",
+          "id": "14251455",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "8:25.81",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ben BRUCE",
+          "id": "14233625",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "8:26.23",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Anthony FAMIGLIETTI",
+          "id": "14237511",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "8:30.84",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Brian OLINGER",
+          "id": "14247604",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "8:34.38",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Kyle ALCORN",
+          "id": "14231108",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "8:49.22",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Krijn VAN KOOLWIJK",
+          "id": "14177228",
+          "nat": "BEL",
+          "birthYear": 1981,
+          "mark": "8:50.19",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "William NELSON",
+          "id": "14247058",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "8:50.75",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Scott MACPHERSON",
+          "id": "14244672",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "8:54.20",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Haron LAGAT",
+          "id": "14208829",
+          "nat": "KEN",
+          "birthYear": 1983,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's High Jump - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Linus THÖRNBLAD",
+          "id": "14228146",
+          "nat": "SWE",
+          "birthYear": 1985,
+          "mark": "2.30",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jesse WILLIAMS",
+          "id": "14255037",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "2.30",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Samson ONI",
+          "id": "14190351",
+          "nat": "GBR",
+          "birthYear": 1981,
+          "mark": "2.27",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jaroslav BÁBA",
+          "id": "14169119",
+          "nat": "CZE",
+          "birthYear": 1984,
+          "mark": "2.27",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Donald THOMAS",
+          "id": "14177939",
+          "nat": "BAH",
+          "birthYear": 1984,
+          "mark": "2.27",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Dusty JONAS",
+          "id": "14242273",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "2.24",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sylwester BEDNAREK",
+          "id": "14216359",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "2.24",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Andra MANSON",
+          "id": "14244860",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "2.24",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Tom PARSONS",
+          "id": "14190416",
+          "nat": "GBR",
+          "birthYear": 1984,
+          "mark": "2.24",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Alessandro TALOTTI",
+          "id": "14201544",
+          "nat": "ITA",
+          "birthYear": 1980,
+          "mark": "2.20",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Martin GÜNTHER",
+          "id": "14192337",
+          "nat": "GER",
+          "birthYear": 1986,
+          "mark": "2.20",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Pole Vault - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Renaud LAVILLENIE",
+          "id": "14185853",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "5.85",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Steven HOOKER",
+          "id": "14179504",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "5.80",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Przemysław CZERWIŃSKI",
+          "id": "14216520",
+          "nat": "POL",
+          "birthYear": 1983,
+          "mark": "5.60",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Giuseppe GIBILISCO",
+          "id": "14200460",
+          "nat": "ITA",
+          "birthYear": 1979,
+          "mark": "5.60",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Derek MILES",
+          "id": "14246081",
+          "nat": "USA",
+          "birthYear": 1972,
+          "mark": "5.40",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Malte MOHR",
+          "id": "14193417",
+          "nat": "GER",
+          "birthYear": 1986,
+          "mark": "5.40",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Michal BALNER",
+          "id": "14169131",
+          "nat": "CZE",
+          "birthYear": 1982,
+          "mark": "5.40",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jeremy SCOTT",
+          "id": "14250826",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "5.20",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Timothy MACK",
+          "id": "14244649",
+          "nat": "USA",
+          "birthYear": 1972,
+          "mark": "NH",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Triple Jump - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Teddy TAMGHO",
+          "id": "14187757",
+          "nat": "FRA",
+          "birthYear": 1989,
+          "mark": "17.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Christian OLSSON",
+          "id": "14227931",
+          "nat": "SWE",
+          "birthYear": 1980,
+          "mark": "17.62",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Phillips IDOWU",
+          "id": "14189691",
+          "nat": "GBR",
+          "birthYear": 1978,
+          "mark": "17.31",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Leevan SANDS",
+          "id": "14177958",
+          "nat": "BAH",
+          "birthYear": 1981,
+          "mark": "16.80",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Randy LEWIS",
+          "id": "14195667",
+          "nat": "GRN",
+          "birthYear": 1978,
+          "mark": "16.76",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Samyr LAINE",
+          "id": "14243516",
+          "nat": "HAI",
+          "birthYear": 1984,
+          "mark": "16.60",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Kenta BELL",
+          "id": "14232341",
+          "nat": "USA",
+          "birthYear": 1977,
+          "mark": "16.46",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Brandon ROULHAC",
+          "id": "14250099",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "16.01",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Christian OLSSON",
+          "id": "14227931",
+          "nat": "SWE",
+          "birthYear": 1980,
+          "mark": "17.21",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Samyr LAINE",
+          "id": "14243516",
+          "nat": "HAI",
+          "birthYear": 1984,
+          "mark": "16.55",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Javelin Throw - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Andreas THORKILDSEN",
+          "id": "14215526",
+          "nat": "NOR",
+          "birthYear": 1982,
+          "mark": "87.02",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Petr FRYDRYCH",
+          "id": "14168938",
+          "nat": "CZE",
+          "birthYear": 1988,
+          "mark": "85.04",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Tero PITKÄMÄKI",
+          "id": "14182408",
+          "nat": "FIN",
+          "birthYear": 1982,
+          "mark": "82.57",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Antti RUUSKANEN",
+          "id": "14182495",
+          "nat": "FIN",
+          "birthYear": 1984,
+          "mark": "81.34",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Vadims VASIĻEVSKIS",
+          "id": "14211112",
+          "nat": "LAT",
+          "birthYear": 1982,
+          "mark": "77.48",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Chris HILL",
+          "id": "14240720",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "73.48",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Corey WHITE",
+          "id": "14254716",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "66.01",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Bobby SMITH",
+          "id": "14251538",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "65.02",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 200m - 12.06.2010",
+      "detail": "Final, wind: +1.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Veronica CAMPBELL-BROWN",
+          "id": "14285598",
+          "nat": "JAM",
+          "birthYear": 1982,
+          "mark": "21.98",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Allyson FELIX",
+          "id": "14309983",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "22.03",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Bianca KNIGHT",
+          "id": "14314587",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "22.59",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kelly-Ann BAPTISTE",
+          "id": "14302975",
+          "nat": "TTO",
+          "birthYear": 1986,
+          "mark": "22.82",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ashlee KIDD",
+          "id": "14314376",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "23.16",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Emily FREEMAN",
+          "id": "14275081",
+          "nat": "GBR",
+          "birthYear": 1980,
+          "mark": "23.37",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Charonda WILLIAMS",
+          "id": "14324253",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "23.41",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 1500m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Nancy Jebet LANGAT",
+          "id": "14289224",
+          "nat": "KEN",
+          "birthYear": 1981,
+          "mark": "4:01.60",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Meseret DEFAR",
+          "id": "14259882",
+          "nat": "ETH",
+          "birthYear": 1983,
+          "mark": "4:02.00",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Gelete BURKA",
+          "id": "14259909",
+          "nat": "ETH",
+          "birthYear": 1986,
+          "mark": "4:03.35",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jenny SIMPSON",
+          "id": "14305392",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "4:03.63",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Shannon ROWBURY",
+          "id": "14320310",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "4:04.00",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Morgan UCENY",
+          "id": "14323124",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "4:04.01",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Christin WURTH-THOMAS",
+          "id": "14324759",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "4:05.56",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Anna WILLARD",
+          "id": "14324194",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "4:05.96",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Shalane FLANAGAN",
+          "id": "14310164",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "4:06.44",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Renata PLIŚ",
+          "id": "14294279",
+          "nat": "POL",
+          "birthYear": 1985,
+          "mark": "4:06.94",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Erin DONOHUE",
+          "id": "14309170",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "4:07.22",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Treniere MOSER",
+          "id": "14307753",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "4:07.49",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Hilary STELLINGWERFF",
+          "id": "14268056",
+          "nat": "CAN",
+          "birthYear": 1981,
+          "mark": "4:07.76",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Sara HALL",
+          "id": "14305595",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "4:10.11",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Lindsey GALLO",
+          "id": "14310661",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "4:15.07",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Karen SHINKINS",
+          "id": "14283380",
+          "nat": "IRL",
+          "birthYear": 1976,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mardrea HYMAN",
+          "id": "14285740",
+          "nat": "JAM",
+          "birthYear": 1972,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 5000m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Tirunesh DIBABA",
+          "id": "14259871",
+          "nat": "ETH",
+          "birthYear": 1985,
+          "mark": "15:11.34",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sentayehu EJIGU",
+          "id": "14259868",
+          "nat": "ETH",
+          "birthYear": 1985,
+          "mark": "15:12.99",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sule UTURA",
+          "id": "14259706",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "15:16.61",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sally KIPYEGO",
+          "id": "14289173",
+          "nat": "KEN",
+          "birthYear": 1985,
+          "mark": "15:18.46",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Amy YODER BEGLEY",
+          "id": "14324822",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "15:18.96",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Megan WRIGHT",
+          "id": "14267519",
+          "nat": "CAN",
+          "birthYear": 1982,
+          "mark": "15:19.33",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Pauline Chemning KORIKWIANG",
+          "id": "14289192",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "15:23.82",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Aheza KIROS",
+          "id": "14259796",
+          "nat": "ETH",
+          "birthYear": 1985,
+          "mark": "15:29.18",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Desiree LINDEN",
+          "id": "14308638",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "15:49.39",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Jennifer RHINES",
+          "id": "14319792",
+          "nat": "USA",
+          "birthYear": 1974,
+          "mark": "16:01.77",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Eloise WELLINGS",
+          "id": "14271451",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "16:11.61",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Sylwia EJDYS",
+          "id": "14293602",
+          "nat": "POL",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Renee BAILLIE",
+          "id": "14316908",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Marina MUNĆAN",
+          "id": "14300389",
+          "nat": "SRB",
+          "birthYear": 1982,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100mH - 12.06.2010",
+      "detail": "Final, wind: +2.0",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Lolo JONES",
+          "id": "14313962",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "12.55",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Perdita FELICIEN",
+          "id": "14268017",
+          "nat": "CAN",
+          "birthYear": 1980,
+          "mark": "12.58",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Virginia CRAWFORD",
+          "id": "14319237",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "12.63",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Priscilla SCHLIEP",
+          "id": "14267653",
+          "nat": "CAN",
+          "birthYear": 1982,
+          "mark": "12.67",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Delloreen ENNIS",
+          "id": "14285669",
+          "nat": "JAM",
+          "birthYear": 1975,
+          "mark": "12.71",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Vonette DIXON",
+          "id": "14285655",
+          "nat": "JAM",
+          "birthYear": 1975,
+          "mark": "12.75",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Susanna KALLUR",
+          "id": "14302070",
+          "nat": "SWE",
+          "birthYear": 1981,
+          "mark": "12.78",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Sally PEARSON",
+          "id": "14271668",
+          "nat": "AUS",
+          "birthYear": 1986,
+          "mark": "12.83",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Tiffany PORTER",
+          "id": "14318196",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "13.09",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Long Jump - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Brianna GLENN",
+          "id": "14311039",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "6.78",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ruky ABDULAI",
+          "id": "14280433",
+          "nat": "CAN",
+          "birthYear": 1982,
+          "mark": "6.66",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Funmi JIMOH",
+          "id": "14313632",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "6.65",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Ksenija BALTA",
+          "id": "14260199",
+          "nat": "EST",
+          "birthYear": 1986,
+          "mark": "6.59",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Akiba MCKINNEY",
+          "id": "14316649",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "6.43",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Karin MEY MELIS",
+          "id": "14296628",
+          "nat": "TUR",
+          "birthYear": 1983,
+          "mark": "6.42",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Keila COSTA",
+          "id": "14269284",
+          "nat": "BRA",
+          "birthYear": 1983,
+          "mark": "6.27",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Tianna MADISON",
+          "id": "14315831",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "6.27",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Ruky ABDULAI",
+          "id": "14280433",
+          "nat": "CAN",
+          "birthYear": 1982,
+          "mark": "6.59",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Funmi JIMOH",
+          "id": "14313632",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "6.50",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Brianna GLENN",
+          "id": "14311039",
+          "nat": "USA",
+          "birthYear": 1980,
+          "mark": "6.38",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Carolina KLÜFT",
+          "id": "14302090",
+          "nat": "SWE",
+          "birthYear": 1983,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Shot Put - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Valerie ADAMS",
+          "id": "14292861",
+          "nat": "NZL",
+          "birthYear": 1984,
+          "mark": "19.93",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Natalya MIKHNEVICH",
+          "id": "14269847",
+          "nat": "BLR",
+          "birthYear": 1982,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "2.",
+          "athlete": "Jillian CAMARENA-WILLIAMS",
+          "id": "14307086",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "18.99",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Petra LAMMERT",
+          "id": "14278609",
+          "nat": "GER",
+          "birthYear": 1984,
+          "mark": "18.36",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Cleopatra BOREL",
+          "id": "14302978",
+          "nat": "TTO",
+          "birthYear": 1979,
+          "mark": "17.88",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Michelle CARTER",
+          "id": "14307333",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "17.83",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sarah STEVENS-WALKER",
+          "id": "14322043",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "17.81",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Kristin HEASTON",
+          "id": "14312274",
+          "nat": "USA",
+          "birthYear": 1975,
+          "mark": "15.75",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Discus Throw - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sandra PERKOVIĆ",
+          "id": "14263753",
+          "nat": "CRO",
+          "birthYear": 1990,
+          "mark": "61.96",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Aretha D. THURMOND",
+          "id": "14322809",
+          "nat": "USA",
+          "birthYear": 1976,
+          "mark": "61.19",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Věra POSPÍŠILOVÁ-CECHLOVÁ",
+          "id": "14262808",
+          "nat": "CZE",
+          "birthYear": 1978,
+          "mark": "60.71",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Gia LEWIS-SMALLWOOD",
+          "id": "14315338",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "59.70",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Becky BREISCH",
+          "id": "14306370",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "59.55",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Summer PIERSON",
+          "id": "14319010",
+          "nat": "USA",
+          "birthYear": 1978,
+          "mark": "58.75",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Anna JELMINI",
+          "id": "14313556",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "58.67",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Stephanie BROWN-TRAFTON",
+          "id": "14306659",
+          "nat": "USA",
+          "birthYear": 1979,
+          "mark": "55.67",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "High School Events": [
+    {
+      "title": "Men's Mile - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Lukas VERZBICAS",
+          "id": "14366227",
+          "nat": "LTU",
+          "birthYear": 1993,
+          "mark": "4:04.38",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jake HURYSZ",
+          "id": "14416877",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:06.18",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Jim ROSA",
+          "id": "14411427",
+          "nat": "PUR",
+          "birthYear": 1993,
+          "mark": "4:07.70",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Isaac PRESSON",
+          "id": "14416876",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:08.46",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Joe ROSA",
+          "id": "14423959",
+          "nat": "PUR",
+          "birthYear": 1993,
+          "mark": "4:08.65",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Colby ALEXANDER",
+          "id": "14411422",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "4:09.35",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ammar MOUSSA",
+          "id": "14405432",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "4:10.10",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Francis HERNANDEZ",
+          "id": "14403923",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "4:13.65",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Kenny KROTZER",
+          "id": "14401450",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:15.30",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Cole WATSON",
+          "id": "14373268",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "4:17.69",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Kirubel ERASSA",
+          "id": "14411421",
+          "nat": "ETH",
+          "birthYear": 1993,
+          "mark": "4:28.57",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Greg CALDWELL",
+          "id": "14478102",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Patrick SCHELLBERG",
+          "id": "14403921",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "High School Events"
+    },
+    {
+      "title": "Men's 4x400m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Trinidad and Tobago U20",
+          "id": "",
+          "nat": "TTO",
+          "birthYear": 1900,
+          "mark": "3:14.35",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Teaneck",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:15.61",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Pennsylvania",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:15.62",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Bergen",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:17.29",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Wolmers",
+          "id": "",
+          "nat": "JAM",
+          "birthYear": 1900,
+          "mark": "3:19.17",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sparta",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:19.21",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Vere Tech U20",
+          "id": "",
+          "nat": "JAM",
+          "birthYear": 1900,
+          "mark": "3:20.96",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Camperdown",
+          "id": "",
+          "nat": "JAM",
+          "birthYear": 1900,
+          "mark": "DQ",
+          "doping": ""
+        }
+      ],
+      "category": "High School Events"
+    },
+    {
+      "title": "Women's Mile - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Madeleine MEYERS",
+          "id": "14404593",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "4:41.93",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Shelby HAYES",
+          "id": "14405079",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:43.00",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kelsey MARGEY",
+          "id": "14403920",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "4:43.91",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Emily SISSON",
+          "id": "14321386",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "4:44.02",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Katie FLOOD",
+          "id": "14310211",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:44.51",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Eleanor FULTON",
+          "id": "14375260",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "4:45.56",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Claudia DISOMMA",
+          "id": "14411337",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "4:47.04",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kathleen STEVENS",
+          "id": "14366345",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:47.36",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Alli BILLMEYER",
+          "id": "14417017",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "4:48.01",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Marielle HALL",
+          "id": "14366610",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:50.52",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Joanna STEVENS",
+          "id": "14366355",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "4:57.77",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Cory Ann MCGEE",
+          "id": "14316538",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "5:05.52",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Ajee WILSON",
+          "id": "14411176",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "5:17.82",
+          "doping": ""
+        }
+      ],
+      "category": "High School Events"
+    },
+    {
+      "title": "Women's 4x400m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Queens",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:40.85",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "New Jersey",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:42.37",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Team Bickle",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:42.86",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Holmwood Technical",
+          "id": "",
+          "nat": "JAM",
+          "birthYear": 1900,
+          "mark": "3:48.66",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Brooklyn",
+          "id": "",
+          "nat": "USA",
+          "birthYear": 1900,
+          "mark": "3:52.26",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "St. Jago U20",
+          "id": "",
+          "nat": "JAM",
+          "birthYear": 1900,
+          "mark": "3:53.96",
+          "doping": ""
+        }
+      ],
+      "category": "High School Events"
+    }
+  ],
+  "National Events": [
+    {
+      "title": "Women's 800m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Laura JANUSZEWSKI",
+          "id": "14402373",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "2:03.39",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Geena GALL",
+          "id": "14310643",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "2:03.59",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Heather KAMPF",
+          "id": "14309194",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "2:03.83",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Heidi DAHL",
+          "id": "14360522",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "2:03.98",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Rebecca JOHNSTONE",
+          "id": "14267788",
+          "nat": "CAN",
+          "birthYear": 1984,
+          "mark": "2:04.02",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sarah BROWN",
+          "id": "14306246",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "2:04.20",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Nikeya GREEN",
+          "id": "14311378",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "2:04.48",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Lauren PAQUETTE",
+          "id": "14311688",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "2:04.98",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's 100m - 12.06.2010",
+      "detail": "Final 2, wind: +1.4",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Rae Monzavous EDWARDS",
+          "id": "14237108",
+          "nat": "USA",
+          "birthYear": 1981,
+          "mark": "10.00",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Keston BLEDMAN",
+          "id": "14228969",
+          "nat": "TTO",
+          "birthYear": 1988,
+          "mark": "10.01",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Marc BURNS",
+          "id": "14228976",
+          "nat": "TTO",
+          "birthYear": 1983,
+          "mark": "10.11",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "J-Mee SAMUELS",
+          "id": "14250385",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "10.26",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Nickel ASHMEADE",
+          "id": "14201803",
+          "nat": "JAM",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Men's 1500m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Nicholas Kiptanui KEMBOI",
+          "id": "14207924",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:33.29",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Deresse MEKONNEN",
+          "id": "14181678",
+          "nat": "ETH",
+          "birthYear": 1987,
+          "mark": "3:33.85",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Leonel MANZANO",
+          "id": "14244872",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "3:33.92",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Demma Daba BIKILA",
+          "id": "14181372",
+          "nat": "ETH",
+          "birthYear": 1989,
+          "mark": "3:34.06",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Bernard LAGAT",
+          "id": "14243507",
+          "nat": "USA",
+          "birthYear": 1974,
+          "mark": "3:34.36",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lopez LOMONG",
+          "id": "14244311",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "3:35.77",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "David TORRENCE",
+          "id": "14253359",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "3:35.81",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Matt TEGENKAMP",
+          "id": "14252899",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "3:36.12",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Peter VAN DER WESTHUIZEN",
+          "id": "14221374",
+          "nat": "RSA",
+          "birthYear": 1984,
+          "mark": "3:37.34",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Markos GENETI",
+          "id": "14181483",
+          "nat": "ETH",
+          "birthYear": 1984,
+          "mark": "3:37.67",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Evan JAGER",
+          "id": "14241750",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "3:38.53",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Alistair Ian CRAGG",
+          "id": "14198809",
+          "nat": "IRL",
+          "birthYear": 1980,
+          "mark": "3:39.43",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Will LEER",
+          "id": "14243863",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "3:45.20",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Dorian ULREY",
+          "id": "14253650",
+          "nat": "USA",
+          "birthYear": 1987,
+          "mark": "3:47.53",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "David KRUMMENACKER",
+          "id": "14243399",
+          "nat": "USA",
+          "birthYear": 1975,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Adam PERKINS",
+          "id": "14248244",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 400m - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Amantle MONTSHO",
+          "id": "14269474",
+          "nat": "BOT",
+          "birthYear": 1983,
+          "mark": "50.79",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Shericka WILLIAMS",
+          "id": "14286003",
+          "nat": "JAM",
+          "birthYear": 1985,
+          "mark": "51.24",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Shereefa LLOYD",
+          "id": "14285774",
+          "nat": "JAM",
+          "birthYear": 1982,
+          "mark": "51.64",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Rose-Marie WHYTE-ROBINSON",
+          "id": "14285988",
+          "nat": "JAM",
+          "birthYear": 1986,
+          "mark": "51.70",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Monica HARGROVE",
+          "id": "14311954",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "52.04",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "DeeDee TROTTER",
+          "id": "14322997",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "52.53",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Shana COX",
+          "id": "14308212",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "52.70",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Melocia CLARKE",
+          "id": "14285613",
+          "nat": "JAM",
+          "birthYear": 1979,
+          "mark": "53.60",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's Pole Vault - 12.06.2010",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Jillian SCHWARTZ",
+          "id": "14320878",
+          "nat": "ISR",
+          "birthYear": 1979,
+          "mark": "4.60",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jennifer SUHR",
+          "id": "14322231",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "4.50",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Chelsea JOHNSON",
+          "id": "14313690",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "4.40",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kristina GADSCHIEW",
+          "id": "14277659",
+          "nat": "GER",
+          "birthYear": 1984,
+          "mark": "4.40",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Lacy JANSON",
+          "id": "14313510",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "4.40",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Shuying GAO",
+          "id": "14266445",
+          "nat": "CHN",
+          "birthYear": 1979,
+          "mark": "4.20",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ]
+}

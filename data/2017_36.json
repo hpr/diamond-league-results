@@ -1,0 +1,2793 @@
+{
+  "Diamond Discipline": [
+    {
+      "title": "Men's 100m - 06.07.2017",
+      "detail": "Final, wind: +0.2",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Justin GATLIN",
+          "id": "14238562",
+          "nat": "USA",
+          "birthYear": 1982,
+          "mark": "9.96",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Ben Youssef MEITÉ",
+          "id": "14170297",
+          "nat": "CIV",
+          "birthYear": 1986,
+          "mark": "9.98",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Akani SIMBINE",
+          "id": "14417763",
+          "nat": "RSA",
+          "birthYear": 1993,
+          "mark": "9.99",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Isiah YOUNG",
+          "id": "14360879",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "10.00",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "James DASAOLU",
+          "id": "14188983",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "10.12",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Henricho BRUINTJIES",
+          "id": "14413736",
+          "nat": "RSA",
+          "birthYear": 1993,
+          "mark": "10.15",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Alex WILSON",
+          "id": "14329085",
+          "nat": "SUI",
+          "birthYear": 1990,
+          "mark": "10.17",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kim COLLINS",
+          "id": "14224942",
+          "nat": "SKN",
+          "birthYear": 1976,
+          "mark": "10.77",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 400m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Wayde VAN NIEKERK",
+          "id": "14417677",
+          "nat": "RSA",
+          "birthYear": 1992,
+          "mark": "43.62",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Baboloki THEBE",
+          "id": "14643508",
+          "nat": "BOT",
+          "birthYear": 1997,
+          "mark": "44.02",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Isaac MAKWALA",
+          "id": "14176330",
+          "nat": "BOT",
+          "birthYear": 1985,
+          "mark": "44.08",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Vernon NORWOOD",
+          "id": "14490237",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "44.47",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Michael CHERRY",
+          "id": "14490322",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "44.66",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Tony MCQUAY",
+          "id": "14371133",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "45.28",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Liemarvin BONEVACIA",
+          "id": "14427350",
+          "nat": "NED",
+          "birthYear": 1989,
+          "mark": "45.61",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Machel CEDENIO",
+          "id": "14434527",
+          "nat": "TTO",
+          "birthYear": 1995,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 1500m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Aman WOTE",
+          "id": "14429188",
+          "nat": "ETH",
+          "birthYear": 1984,
+          "mark": "3:32.20",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Charles Cheboi SIMOTWO",
+          "id": "14657162",
+          "nat": "KEN",
+          "birthYear": 1995,
+          "mark": "3:32.59",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Silas KIPLAGAT",
+          "id": "14369379",
+          "nat": "KEN",
+          "birthYear": 1989,
+          "mark": "3:32.96",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Vincent KIBET",
+          "id": "14426307",
+          "nat": "KEN",
+          "birthYear": 1991,
+          "mark": "3:33.34",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Filip INGEBRIGTSEN",
+          "id": "14458705",
+          "nat": "NOR",
+          "birthYear": 1993,
+          "mark": "3:34.38",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ayanleh SOULEIMAN",
+          "id": "14375782",
+          "nat": "DJI",
+          "birthYear": 1992,
+          "mark": "3:34.70",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Matthew CENTROWITZ",
+          "id": "14234521",
+          "nat": "USA",
+          "birthYear": 1989,
+          "mark": "3:34.83",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Bethwell BIRGEN",
+          "id": "14368362",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "3:35.22",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Robert BIWOTT",
+          "id": "14479188",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "3:36.31",
+          "doping": ""
+        },
+        {
+          "place": " - ",
+          "athlete": "Sadik MIKHOU",
+          "id": "14441458",
+          "nat": "BRN",
+          "birthYear": 1990,
+          "mark": "",
+          "doping": "DOP"
+        },
+        {
+          "place": "10.",
+          "athlete": "Andrew BAYER",
+          "id": "14360463",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "3:36.85",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Taresa TOLOSA",
+          "id": "14751315",
+          "nat": "ETH",
+          "birthYear": 1998,
+          "mark": "3:38.60",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Andrew Kiptoo ROTICH",
+          "id": "14380412",
+          "nat": "KEN",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Elijah Kipchirchir KIPTOO",
+          "id": "14472837",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's 5000m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Muktar EDRIS",
+          "id": "14464221",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "12:55.23",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Selemon BAREGA",
+          "id": "14751317",
+          "nat": "ETH",
+          "birthYear": 1900,
+          "mark": "12:55.58",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Joshua CHEPTEGEI",
+          "id": "14645612",
+          "nat": "UGA",
+          "birthYear": 1996,
+          "mark": "12:59.83",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Yenew ALAMIREW",
+          "id": "14423358",
+          "nat": "ETH",
+          "birthYear": 1990,
+          "mark": "13:06.81",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Birhanu LEGESE",
+          "id": "14554061",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "13:26.40",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ben TRUE",
+          "id": "14253490",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "13:28.29",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Dawit WOLDE",
+          "id": "14181700",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "13:34.44",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Solomon BERIHU",
+          "id": "14756430",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "13:37.63",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Frederick Kipkosgei KIPTOO",
+          "id": "14657360",
+          "nat": "KEN",
+          "birthYear": 1996,
+          "mark": "13:41.09",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Sylvester KIPCHIRCHIR",
+          "id": "14481113",
+          "nat": "KEN",
+          "birthYear": 1986,
+          "mark": "13:46.22",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Cyrus RUTTO",
+          "id": "14425838",
+          "nat": "KEN",
+          "birthYear": 1992,
+          "mark": "13:48.67",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Stephen KISSA",
+          "id": "14677961",
+          "nat": "UGA",
+          "birthYear": 1988,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Collins CHEBOI",
+          "id": "14207477",
+          "nat": "KEN",
+          "birthYear": 1987,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Julien WANDERS",
+          "id": "14527440",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Cornelius KANGOGO",
+          "id": "14526586",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Yemaneberhan CRIPPA",
+          "id": "14513998",
+          "nat": "ITA",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Dejen GEBREMESKEL",
+          "id": "14181470",
+          "nat": "ETH",
+          "birthYear": 1989,
+          "mark": "DNS",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Pole Vault - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sam KENDRICKS",
+          "id": "14440868",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "5.93",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Paweł WOJCIECHOWSKI",
+          "id": "14217866",
+          "nat": "POL",
+          "birthYear": 1989,
+          "mark": "5.93",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Renaud LAVILLENIE",
+          "id": "14185853",
+          "nat": "FRA",
+          "birthYear": 1986,
+          "mark": "5.87",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kévin MÉNALDO",
+          "id": "14362302",
+          "nat": "FRA",
+          "birthYear": 1992,
+          "mark": "5.73",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kurtis MARSCHALL",
+          "id": "14565327",
+          "nat": "AUS",
+          "birthYear": 1997,
+          "mark": "5.73",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Piotr LISEK",
+          "id": "14426447",
+          "nat": "POL",
+          "birthYear": 1992,
+          "mark": "5.73",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Armand DUPLANTIS",
+          "id": "14679502",
+          "nat": "SWE",
+          "birthYear": 1999,
+          "mark": "5.73",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Shawnacy BARBER",
+          "id": "14457604",
+          "nat": "CAN",
+          "birthYear": 1994,
+          "mark": "5.63",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Valentin LAVILLENIE",
+          "id": "14378885",
+          "nat": "FRA",
+          "birthYear": 1991,
+          "mark": "5.63",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Raphael HOLZDEPPE",
+          "id": "14192581",
+          "nat": "GER",
+          "birthYear": 1989,
+          "mark": "5.53",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Michal BALNER",
+          "id": "14169131",
+          "nat": "CZE",
+          "birthYear": 1982,
+          "mark": "5.38",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Dominik ALBERTO",
+          "id": "14373257",
+          "nat": "SUI",
+          "birthYear": 1992,
+          "mark": "5.38",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Triple Jump - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Pedro PICHARDO",
+          "id": "14412588",
+          "nat": "CUB",
+          "birthYear": 1993,
+          "mark": "17.60",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Christian TAYLOR",
+          "id": "14252807",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "17.49",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Will CLAYE",
+          "id": "14234882",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "17.12",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Alexis COPELLO",
+          "id": "14169626",
+          "nat": "AZE",
+          "birthYear": 1985,
+          "mark": "16.98",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Chris BENARD",
+          "id": "14410419",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "16.93",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Jean-Marc PONTVIANNE",
+          "id": "14461451",
+          "nat": "FRA",
+          "birthYear": 1994,
+          "mark": "16.84",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Jhon MURILLO",
+          "id": "14170052",
+          "nat": "COL",
+          "birthYear": 1984,
+          "mark": "16.47",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Bin DONG",
+          "id": "14172734",
+          "nat": "CHN",
+          "birthYear": 1988,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Men's Shot Put - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ryan CROUSER",
+          "id": "14369211",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "22.39",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Tom WALSH",
+          "id": "14413007",
+          "nat": "NZL",
+          "birthYear": 1992,
+          "mark": "21.97",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Tomáš STANĚK",
+          "id": "14379859",
+          "nat": "CZE",
+          "birthYear": 1991,
+          "mark": "21.36",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Stipe ŽUNIĆ",
+          "id": "14169719",
+          "nat": "CRO",
+          "birthYear": 1990,
+          "mark": "21.17",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "David STORL",
+          "id": "14194393",
+          "nat": "GER",
+          "birthYear": 1990,
+          "mark": "21.17",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Konrad BUKOWIECKI",
+          "id": "14500229",
+          "nat": "POL",
+          "birthYear": 1997,
+          "mark": "21.03",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Tsanko ARNAUDOV",
+          "id": "14428121",
+          "nat": "POR",
+          "birthYear": 1992,
+          "mark": "20.80",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jacko GILL",
+          "id": "14382701",
+          "nat": "NZL",
+          "birthYear": 1994,
+          "mark": "20.70",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Franck ELEMBA",
+          "id": "14381771",
+          "nat": "CGO",
+          "birthYear": 1990,
+          "mark": "20.29",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Darlan ROMANI",
+          "id": "14377465",
+          "nat": "BRA",
+          "birthYear": 1991,
+          "mark": "20.07",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 200m - 06.07.2017",
+      "detail": "Final, wind: -0.5",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Dafne SCHIPPERS",
+          "id": "14291986",
+          "nat": "NED",
+          "birthYear": 1992,
+          "mark": "22.10",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Marie-Josée TA LOU",
+          "id": "14415994",
+          "nat": "CIV",
+          "birthYear": 1988,
+          "mark": "22.16",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kyra JEFFERSON",
+          "id": "14411312",
+          "nat": "USA",
+          "birthYear": 1994,
+          "mark": "22.34",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jenna PRANDINI",
+          "id": "14329068",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "22.65",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kimberlyn DUNCAN",
+          "id": "14309365",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "22.67",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Mujinga KAMBUNDJI",
+          "id": "14300897",
+          "nat": "SUI",
+          "birthYear": 1992,
+          "mark": "22.82",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Bianca WILLIAMS",
+          "id": "14401125",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "22.94",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Sarah ATCHO",
+          "id": "14450880",
+          "nat": "SUI",
+          "birthYear": 1995,
+          "mark": "23.04",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 800m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Francine NIYONSABA",
+          "id": "14532686",
+          "nat": "BDI",
+          "birthYear": 1993,
+          "mark": "1:56.82",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Charlene LIPSEY",
+          "id": "14326493",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "1:57.38",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Eunice Jepkoech SUM",
+          "id": "14423891",
+          "nat": "KEN",
+          "birthYear": 1988,
+          "mark": "1:57.78",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sifan HASSAN",
+          "id": "14489606",
+          "nat": "NED",
+          "birthYear": 1993,
+          "mark": "1:58.13",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Laura MUIR",
+          "id": "14422111",
+          "nat": "GBR",
+          "birthYear": 1993,
+          "mark": "1:58.69",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lovisa LINDH",
+          "id": "14302145",
+          "nat": "SWE",
+          "birthYear": 1991,
+          "mark": "1:58.77",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lynsey SHARP",
+          "id": "14276316",
+          "nat": "GBR",
+          "birthYear": 1990,
+          "mark": "1:58.80",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Natalіia KROL",
+          "id": "14426885",
+          "nat": "UKR",
+          "birthYear": 1994,
+          "mark": "1:58.82",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Habitam ALEMU",
+          "id": "14730994",
+          "nat": "ETH",
+          "birthYear": 1997,
+          "mark": "1:59.66",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Selina RUTZ-BÜCHEL",
+          "id": "14300684",
+          "nat": "SUI",
+          "birthYear": 1991,
+          "mark": "1:59.77",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Ilona USOVICH",
+          "id": "14269565",
+          "nat": "BLR",
+          "birthYear": 1982,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 100mH - 06.07.2017",
+      "detail": "Final, wind: -0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sharika NELVIS",
+          "id": "14376876",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "12.53",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jasmin STOWERS",
+          "id": "14322163",
+          "nat": "USA",
+          "birthYear": 1991,
+          "mark": "12.57",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Christina CLEMONS",
+          "id": "14363368",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "12.58",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Nia ALI",
+          "id": "14304647",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "12.61",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Kristi CASTLIN",
+          "id": "14307379",
+          "nat": "USA",
+          "birthYear": 1988,
+          "mark": "12.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Dawn HARPER-NELSON",
+          "id": "14311987",
+          "nat": "USA",
+          "birthYear": 1984,
+          "mark": "12.75",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Eefje BOONS",
+          "id": "14451251",
+          "nat": "NED",
+          "birthYear": 1994,
+          "mark": "12.98",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Noemi ZBÄREN",
+          "id": "14362224",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "15.85",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's 400mH - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ashley SPENCER",
+          "id": "14476234",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "53.90",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Lea SPRUNGER",
+          "id": "14301240",
+          "nat": "SUI",
+          "birthYear": 1990,
+          "mark": "54.29",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Eilidh DOYLE",
+          "id": "14274691",
+          "nat": "GBR",
+          "birthYear": 1987,
+          "mark": "54.36",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sara Slott PETERSEN",
+          "id": "14262456",
+          "nat": "DEN",
+          "birthYear": 1987,
+          "mark": "54.49",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Zuzana HEJNOVÁ",
+          "id": "14263088",
+          "nat": "CZE",
+          "birthYear": 1986,
+          "mark": "54.69",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Shamier LITTLE",
+          "id": "14443767",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "55.10",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Ristananna TRACEY",
+          "id": "14367593",
+          "nat": "JAM",
+          "birthYear": 1992,
+          "mark": "56.23",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Dalilah MUHAMMAD",
+          "id": "14317560",
+          "nat": "USA",
+          "birthYear": 1990,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's High Jump - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Mariya LASITSKENE",
+          "id": "14298324",
+          "nat": "ANA",
+          "birthYear": 1993,
+          "mark": "2.06",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Kamila LIĆWINKO",
+          "id": "14294474",
+          "nat": "POL",
+          "birthYear": 1986,
+          "mark": "1.93",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Sofie SKOOG",
+          "id": "14373563",
+          "nat": "SWE",
+          "birthYear": 1990,
+          "mark": "1.93",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Morgan LAKE",
+          "id": "14409457",
+          "nat": "GBR",
+          "birthYear": 1997,
+          "mark": "1.93",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Alessia TROST",
+          "id": "14361143",
+          "nat": "ITA",
+          "birthYear": 1993,
+          "mark": "1.93",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ruth BEITIA",
+          "id": "14261980",
+          "nat": "ESP",
+          "birthYear": 1979,
+          "mark": "1.90",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Mirela DEMIREVA",
+          "id": "14268737",
+          "nat": "BUL",
+          "birthYear": 1989,
+          "mark": "1.87",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Airinė PALŠYTĖ",
+          "id": "14290340",
+          "nat": "LTU",
+          "birthYear": 1992,
+          "mark": "DNS",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Long Jump - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ivana VULETA",
+          "id": "14300421",
+          "nat": "SRB",
+          "birthYear": 1990,
+          "mark": "6.79",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sha'keela SAUNDERS",
+          "id": "14320623",
+          "nat": "USA",
+          "birthYear": 1993,
+          "mark": "6.68",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Tianna MADISON",
+          "id": "14315831",
+          "nat": "USA",
+          "birthYear": 1985,
+          "mark": "6.65",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Darya KLISHINA",
+          "id": "14298140",
+          "nat": "ANA",
+          "birthYear": 1991,
+          "mark": "6.64",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Lorraine UGEN",
+          "id": "14360085",
+          "nat": "GBR",
+          "birthYear": 1991,
+          "mark": "6.61",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Laura STRATI",
+          "id": "14285329",
+          "nat": "ITA",
+          "birthYear": 1990,
+          "mark": "6.49",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Concepción MONTANER",
+          "id": "14260960",
+          "nat": "ESP",
+          "birthYear": 1981,
+          "mark": "6.27",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Shara PROCTOR",
+          "id": "14272929",
+          "nat": "GBR",
+          "birthYear": 1988,
+          "mark": "NM",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    },
+    {
+      "title": "Women's Javelin Throw - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sara KOLAK",
+          "id": "14380461",
+          "nat": "CRO",
+          "birthYear": 1995,
+          "mark": "68.43",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Barbora ŠPOTÁKOVÁ",
+          "id": "14262671",
+          "nat": "CZE",
+          "birthYear": 1981,
+          "mark": "67.40",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Kathryn MITCHELL",
+          "id": "14271632",
+          "nat": "AUS",
+          "birthYear": 1982,
+          "mark": "66.12",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Kelsey-Lee BARBER",
+          "id": "14336705",
+          "nat": "AUS",
+          "birthYear": 1991,
+          "mark": "64.06",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Tatsiana KHALADOVICH",
+          "id": "14269852",
+          "nat": "BLR",
+          "birthYear": 1991,
+          "mark": "62.29",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sunette VILJOEN",
+          "id": "14297120",
+          "nat": "RSA",
+          "birthYear": 1983,
+          "mark": "61.38",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Madara PALAMEIKA",
+          "id": "14290055",
+          "nat": "LAT",
+          "birthYear": 1987,
+          "mark": "60.35",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Kara WINGER",
+          "id": "14318617",
+          "nat": "USA",
+          "birthYear": 1986,
+          "mark": "59.19",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Liina LAASMA",
+          "id": "14372661",
+          "nat": "EST",
+          "birthYear": 1992,
+          "mark": "57.35",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Katharina MOLITOR",
+          "id": "14278931",
+          "nat": "GER",
+          "birthYear": 1983,
+          "mark": "57.03",
+          "doping": ""
+        }
+      ],
+      "category": "Diamond Discipline"
+    }
+  ],
+  "National Events": [
+    {
+      "title": "Men's 100m - 06.07.2017",
+      "detail": "Final, wind: +0.1",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Alex WILSON",
+          "id": "14329085",
+          "nat": "SUI",
+          "birthYear": 1990,
+          "mark": "10.25",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Pascal MANCINI",
+          "id": "14226262",
+          "nat": "SUI",
+          "birthYear": 1989,
+          "mark": "10.25",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Silvan WICKI",
+          "id": "14457521",
+          "nat": "SUI",
+          "birthYear": 1995,
+          "mark": "10.47",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Florian CLIVAZ",
+          "id": "14544652",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "10.49",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Bastien MOUTHON",
+          "id": "14450431",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "10.51",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Sylvain CHUARD",
+          "id": "14508596",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "10.57",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Pascal MÜLLER",
+          "id": "14226329",
+          "nat": "SUI",
+          "birthYear": 1988,
+          "mark": "10.71",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "William REAIS",
+          "id": "14740317",
+          "nat": "SUI",
+          "birthYear": 1999,
+          "mark": "10.72",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "title": "Men's 400m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Joel BURGUNDER",
+          "id": "14376154",
+          "nat": "SUI",
+          "birthYear": 1991,
+          "mark": "46.57",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Silvan LUTZ",
+          "id": "14363753",
+          "nat": "SUI",
+          "birthYear": 1990,
+          "mark": "46.86",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Daniele ANGELELLA",
+          "id": "14333689",
+          "nat": "SUI",
+          "birthYear": 1991,
+          "mark": "46.88",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Luca FLÜCK",
+          "id": "14524747",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "47.06",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ricky PETRUCCIANI",
+          "id": "14742772",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "47.36",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Charles DEVANTAY",
+          "id": "14701580",
+          "nat": "SUI",
+          "birthYear": 1998,
+          "mark": "47.36",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Vincent NOTZ",
+          "id": "14597794",
+          "nat": "SUI",
+          "birthYear": 1997,
+          "mark": "47.67",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Jérôme BELLON",
+          "id": "14407875",
+          "nat": "SUI",
+          "birthYear": 1993,
+          "mark": "47.93",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "title": "Men's 800m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Pascal FURTWÄNGLER",
+          "id": "14486372",
+          "nat": "SUI",
+          "birthYear": 1993,
+          "mark": "1:50.01",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Guillaume LAURENT",
+          "id": "14383806",
+          "nat": "SUI",
+          "birthYear": 1990,
+          "mark": "1:50.72",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Michael CURTI",
+          "id": "14450437",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "1:50.74",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Pietro CALAMAI",
+          "id": "14524870",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "1:51.16",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Diego MENZI",
+          "id": "14226293",
+          "nat": "SUI",
+          "birthYear": 1985,
+          "mark": "1:51.88",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Arnaud DUPRÉ",
+          "id": "14586375",
+          "nat": "SUI",
+          "birthYear": 1997,
+          "mark": "1:51.95",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Timo ROTH",
+          "id": "14461835",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "1:51.98",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Tim MEICHTRY",
+          "id": "14702610",
+          "nat": "SUI",
+          "birthYear": 1998,
+          "mark": "1:52.29",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Roland CHRISTEN",
+          "id": "14225890",
+          "nat": "SUI",
+          "birthYear": 1991,
+          "mark": "1:52.50",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Joaquim JÄGER",
+          "id": "14527441",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "1:53.67",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Nicolas SALVADÉ",
+          "id": "14584777",
+          "nat": "SUI",
+          "birthYear": 1995,
+          "mark": "1:54.51",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Mouhcine OUAHMAN",
+          "id": "14421637",
+          "nat": "MAR",
+          "birthYear": 1986,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jonas SCHÖPFER",
+          "id": "14531013",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "title": "Women's 100m - 06.07.2017",
+      "detail": "Final 1, wind: +0.2",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Sharlene MAWDSLEY",
+          "id": "14589082",
+          "nat": "IRL",
+          "birthYear": 1998,
+          "mark": "11.80",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Fanette HUMAIR",
+          "id": "14379226",
+          "nat": "SUI",
+          "birthYear": 1991,
+          "mark": "11.87",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Lynn MANTINGH",
+          "id": "14660664",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "11.93",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Riccarda DIETSCHE",
+          "id": "14461867",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "11.94",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Lara GOMEZ",
+          "id": "14462445",
+          "nat": "ESP",
+          "birthYear": 1997,
+          "mark": "11.98",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Coralie AMBROSINI",
+          "id": "14568098",
+          "nat": "SUI",
+          "birthYear": 1997,
+          "mark": "12.02",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Muswama KAMBUNDJI",
+          "id": "14457533",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "12.06",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Marine EGGER",
+          "id": "14679605",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "12.08",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    },
+    {
+      "detail": "Final 2, wind: +0.6",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Ajla DEL PONTE",
+          "id": "14487463",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "11.44",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Cornelia HALBHEER",
+          "id": "14366147",
+          "nat": "SUI",
+          "birthYear": 1992,
+          "mark": "11.45",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Niamh WHELAN",
+          "id": "14283403",
+          "nat": "IRL",
+          "birthYear": 1990,
+          "mark": "11.64",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Judith GOLL",
+          "id": "14603833",
+          "nat": "SUI",
+          "birthYear": 1999,
+          "mark": "11.66",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Samantha DAGRY",
+          "id": "14366150",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "11.72",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Géraldine FREY",
+          "id": "14510629",
+          "nat": "SUI",
+          "birthYear": 1997,
+          "mark": "11.95",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Cynthia REINLE",
+          "id": "14689303",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "12.06",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Veronica VANCARDO",
+          "id": "14584794",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "12.25",
+          "doping": ""
+        }
+      ],
+      "title": "Women's 100m - 06.07.2017",
+      "category": "National Events"
+    },
+    {
+      "detail": "Final 3, wind: +0.2",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Rosângela SANTOS",
+          "id": "14268928",
+          "nat": "BRA",
+          "birthYear": 1990,
+          "mark": "11.21",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Naomi SEDNEY",
+          "id": "14401525",
+          "nat": "NED",
+          "birthYear": 1994,
+          "mark": "11.28",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Salomé KORA",
+          "id": "14509523",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "11.36",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Jamile SAMUEL",
+          "id": "14291975",
+          "nat": "NED",
+          "birthYear": 1992,
+          "mark": "11.41",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Ana Claudia LEMOS",
+          "id": "14269001",
+          "nat": "BRA",
+          "birthYear": 1988,
+          "mark": "11.48",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Estela GARCÍA",
+          "id": "14261539",
+          "nat": "ESP",
+          "birthYear": 1989,
+          "mark": "11.50",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Anna BONGIORNI",
+          "id": "14361484",
+          "nat": "ITA",
+          "birthYear": 1993,
+          "mark": "11.51",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Irene SIRAGUSA",
+          "id": "14361469",
+          "nat": "ITA",
+          "birthYear": 1993,
+          "mark": "11.60",
+          "doping": ""
+        }
+      ],
+      "title": "Women's 100m - 06.07.2017",
+      "category": "National Events"
+    },
+    {
+      "title": "Women's 800m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Lore HOFFMANN",
+          "id": "14457538",
+          "nat": "FRA",
+          "birthYear": 1996,
+          "mark": "2:06.70",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Sonja ANDENMATTEN",
+          "id": "14573921",
+          "nat": "SUI",
+          "birthYear": 1999,
+          "mark": "2:08.38",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Alexandra BOSSHARD",
+          "id": "14421617",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "2:08.42",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Sina SPRECHER",
+          "id": "14652496",
+          "nat": "SUI",
+          "birthYear": 1989,
+          "mark": "2:09.23",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Noemi JAKOBER",
+          "id": "14603830",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "2:10.75",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Lisa STÖCKLI",
+          "id": "14427660",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "2:11.40",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Kerstin RUBIN",
+          "id": "14535812",
+          "nat": "SUI",
+          "birthYear": 1997,
+          "mark": "2:12.59",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Sabine BONVIN",
+          "id": "14450415",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "2:13.44",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Fiona KIERDORF",
+          "id": "14468190",
+          "nat": "LUX",
+          "birthYear": 1992,
+          "mark": "2:13.66",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Corinne MUFF",
+          "id": "14421616",
+          "nat": "SUI",
+          "birthYear": 1992,
+          "mark": "2:14.08",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Pauline ROSAT",
+          "id": "14740382",
+          "nat": "SUI",
+          "birthYear": 1999,
+          "mark": "2:14.44",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Alana VANNAY",
+          "id": "14682462",
+          "nat": "SUI",
+          "birthYear": 1999,
+          "mark": "2:14.69",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Natacha Séverine SAVIOZ",
+          "id": "14600321",
+          "nat": "SUI",
+          "birthYear": 1994,
+          "mark": "2:16.21",
+          "doping": ""
+        }
+      ],
+      "category": "National Events"
+    }
+  ],
+  "Promotional Events": [
+    {
+      "title": "Men's 400mH - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Kariem HUSSEIN",
+          "id": "14376156",
+          "nat": "SUI",
+          "birthYear": 1989,
+          "mark": "48.79",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Byron ROBINSON",
+          "id": "14491508",
+          "nat": "USA",
+          "birthYear": 1995,
+          "mark": "48.88",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Rasmus MÄGI",
+          "id": "14373195",
+          "nat": "EST",
+          "birthYear": 1992,
+          "mark": "48.94",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Bershawn JACKSON",
+          "id": "14241618",
+          "nat": "USA",
+          "birthYear": 1983,
+          "mark": "49.04",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Cornel FREDERICKS",
+          "id": "14220044",
+          "nat": "RSA",
+          "birthYear": 1990,
+          "mark": "49.32",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Michael STIGLER",
+          "id": "14442930",
+          "nat": "USA",
+          "birthYear": 1992,
+          "mark": "49.86",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "LJ VAN ZYL",
+          "id": "14221443",
+          "nat": "RSA",
+          "birthYear": 1985,
+          "mark": "50.04",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Alain-Hervé MFOMKPA",
+          "id": "14453259",
+          "nat": "SUI",
+          "birthYear": 1996,
+          "mark": "51.45",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's Mile - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Genzebe DIBABA",
+          "id": "14259874",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "4:16.05",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Nelly JEPKOSGEI",
+          "id": "14373314",
+          "nat": "BRN",
+          "birthYear": 1991,
+          "mark": "4:25.15",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Claudia Mihaela BOBOCEA",
+          "id": "14377909",
+          "nat": "ROU",
+          "birthYear": 1992,
+          "mark": "4:25.89",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Malika AKKAOUI",
+          "id": "14290566",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "4:26.42",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Margherita MAGNANI",
+          "id": "14284658",
+          "nat": "ITA",
+          "birthYear": 1987,
+          "mark": "4:27.51",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Caroline CHEPKEMOI",
+          "id": "14330377",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "4:27.79",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Axumawit EMBAYE",
+          "id": "14534819",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "4:28.14",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Esther CHEBET",
+          "id": "14677914",
+          "nat": "UGA",
+          "birthYear": 1997,
+          "mark": "4:28.16",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Linden HALL",
+          "id": "14272002",
+          "nat": "AUS",
+          "birthYear": 1991,
+          "mark": "4:28.21",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Jenny BLUNDELL",
+          "id": "14272435",
+          "nat": "AUS",
+          "birthYear": 1994,
+          "mark": "4:28.82",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Blanca FERNÁNDEZ",
+          "id": "14375878",
+          "nat": "ESP",
+          "birthYear": 1992,
+          "mark": "4:30.06",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Anna DIBABA",
+          "id": "14758201",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "4:41.05",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Gesa Felicitas KRAUSE",
+          "id": "14329341",
+          "nat": "GER",
+          "birthYear": 1992,
+          "mark": "DNS",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Halimah NAKAAYI",
+          "id": "14431159",
+          "nat": "UGA",
+          "birthYear": 1994,
+          "mark": "DNF",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jennifer MEADOWS",
+          "id": "14275784",
+          "nat": "GBR",
+          "birthYear": 1981,
+          "mark": "DNF",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    },
+    {
+      "title": "Women's 4x100m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Switzerland",
+          "id": "",
+          "nat": "SUI",
+          "birthYear": null,
+          "mark": "42.53",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Brazil",
+          "id": "",
+          "nat": "BRA",
+          "birthYear": null,
+          "mark": "42.97",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Netherlands",
+          "id": "",
+          "nat": "NED",
+          "birthYear": null,
+          "mark": "43.07",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Italy",
+          "id": "",
+          "nat": "ITA",
+          "birthYear": null,
+          "mark": "43.21",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Spain",
+          "id": "",
+          "nat": "ESP",
+          "birthYear": null,
+          "mark": "43.88",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Ireland",
+          "id": "",
+          "nat": "IRL",
+          "birthYear": null,
+          "mark": "44.31",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Czech Republic",
+          "id": "",
+          "nat": "CZE",
+          "birthYear": null,
+          "mark": "44.59",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Switzerland U20",
+          "id": "",
+          "nat": "SUI",
+          "birthYear": null,
+          "mark": "44.69",
+          "doping": ""
+        }
+      ],
+      "category": "Promotional Events"
+    }
+  ],
+  "Split times": [
+    {
+      "title": "Women's 1500m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "",
+          "athlete": "Genzebe DIBABA",
+          "id": "14259874",
+          "nat": "ETH",
+          "birthYear": 1991,
+          "mark": "3:57.82",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Nelly JEPKOSGEI",
+          "id": "14373314",
+          "nat": "BRN",
+          "birthYear": 1991,
+          "mark": "4:07.98",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Malika AKKAOUI",
+          "id": "14290566",
+          "nat": "MAR",
+          "birthYear": 1987,
+          "mark": "4:08.38",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Claudia Mihaela BOBOCEA",
+          "id": "14377909",
+          "nat": "ROU",
+          "birthYear": 1992,
+          "mark": "4:08.75",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Axumawit EMBAYE",
+          "id": "14534819",
+          "nat": "ETH",
+          "birthYear": 1994,
+          "mark": "4:09.17",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Jenny BLUNDELL",
+          "id": "14272435",
+          "nat": "AUS",
+          "birthYear": 1994,
+          "mark": "4:09.43",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Blanca FERNÁNDEZ",
+          "id": "14375878",
+          "nat": "ESP",
+          "birthYear": 1992,
+          "mark": "4:09.45",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Margherita MAGNANI",
+          "id": "14284658",
+          "nat": "ITA",
+          "birthYear": 1987,
+          "mark": "4:09.65",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Caroline CHEPKEMOI",
+          "id": "14330377",
+          "nat": "KEN",
+          "birthYear": 1993,
+          "mark": "4:09.99",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Linden HALL",
+          "id": "14272002",
+          "nat": "AUS",
+          "birthYear": 1991,
+          "mark": "4:10.19",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Esther CHEBET",
+          "id": "14677914",
+          "nat": "UGA",
+          "birthYear": 1997,
+          "mark": "4:10.30",
+          "doping": ""
+        },
+        {
+          "place": "",
+          "athlete": "Anna DIBABA",
+          "id": "14758201",
+          "nat": "ETH",
+          "birthYear": 1999,
+          "mark": "4:21.01",
+          "doping": ""
+        }
+      ],
+      "category": "Split times"
+    }
+  ],
+  "U18 Events": [
+    {
+      "title": "Men's 1500m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Nicolas PRACHT",
+          "id": "14742773",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:05.70",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Julien STALHANDSKE",
+          "id": "14763783",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:06.09",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Derek BUCCASSI",
+          "id": "14797556",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "4:07.32",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Gabriel MATOS",
+          "id": "14804776",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "4:09.10",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Jonas GÜNTER",
+          "id": "14804777",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:14.22",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Célien MELLY",
+          "id": "14804778",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:14.72",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Manuel AMREIN",
+          "id": "14762737",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:18.54",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Samuel DUSS",
+          "id": "14804779",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:18.92",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Igor HUNGERBÜHLER",
+          "id": "14804780",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:19.42",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Enea RATTI",
+          "id": "14762740",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:19.42",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Nils ARNI",
+          "id": "14804781",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "4:19.45",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Clément GILLIÉRON",
+          "id": "14804782",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "4:20.05",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Mattia VERZAROLI",
+          "id": "14804783",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "4:20.71",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Marc ROTZETTER",
+          "id": "14804784",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:26.34",
+          "doping": ""
+        },
+        {
+          "place": "15.",
+          "athlete": "Erik SCHEGG",
+          "id": "14804785",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:28.45",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    },
+    {
+      "title": "Women's 1500m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Nora GMÜR",
+          "id": "14613452",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "4:47.09",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Marie-Claude VAN ALLMEN",
+          "id": "14717771",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "4:50.98",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Samira ACHOUMI",
+          "id": "14753395",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:51.35",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Thayna HORNER",
+          "id": "14740381",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:52.50",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Stephanie GERBER",
+          "id": "14802941",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:57.16",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Aita AMMANN",
+          "id": "14717773",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:58.90",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Lavignia LOVATO",
+          "id": "14799521",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "5:00.16",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Rachele BOTTI",
+          "id": "14804772",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "5:02.23",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Sandra MÜLLER",
+          "id": "14754858",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "5:02.57",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Jana ABEL",
+          "id": "14752198",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "5:02.58",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Carla WÜTHRICH",
+          "id": "14804773",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "5:08.63",
+          "doping": ""
+        },
+        {
+          "place": "12.",
+          "athlete": "Melanie STAUBLI",
+          "id": "14804774",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "5:09.92",
+          "doping": ""
+        },
+        {
+          "place": "13.",
+          "athlete": "Amy LEIBUNDGUT",
+          "id": "14762735",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "5:10.61",
+          "doping": ""
+        },
+        {
+          "place": "14.",
+          "athlete": "Joana SEILER",
+          "id": "14804775",
+          "nat": "SUI",
+          "birthYear": 1901,
+          "mark": "5:15.60",
+          "doping": ""
+        }
+      ],
+      "category": "U18 Events"
+    }
+  ],
+  "U20 Events": [
+    {
+      "title": "Women's 1500m - 06.07.2017",
+      "detail": "Final",
+      "data": [
+        {
+          "place": "1.",
+          "athlete": "Delia SCLABAS",
+          "id": "14525403",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:12.00",
+          "doping": ""
+        },
+        {
+          "place": "2.",
+          "athlete": "Jemma REEKIE",
+          "id": "14533469",
+          "nat": "GBR",
+          "birthYear": 1998,
+          "mark": "4:16.65",
+          "doping": ""
+        },
+        {
+          "place": "3.",
+          "athlete": "Amelia QUIRK",
+          "id": "14649327",
+          "nat": "GBR",
+          "birthYear": 1999,
+          "mark": "4:18.82",
+          "doping": ""
+        },
+        {
+          "place": "4.",
+          "athlete": "Joana STAUB",
+          "id": "14624455",
+          "nat": "GER",
+          "birthYear": 1998,
+          "mark": "4:20.26",
+          "doping": ""
+        },
+        {
+          "place": "5.",
+          "athlete": "Gaia SABBATINI",
+          "id": "14682711",
+          "nat": "ITA",
+          "birthYear": 1999,
+          "mark": "4:22.46",
+          "doping": ""
+        },
+        {
+          "place": "6.",
+          "athlete": "Martina TOZZI",
+          "id": "14654168",
+          "nat": "ITA",
+          "birthYear": 1999,
+          "mark": "4:23.30",
+          "doping": ""
+        },
+        {
+          "place": "7.",
+          "athlete": "Leila HADJI",
+          "id": "14701929",
+          "nat": "FRA",
+          "birthYear": 1998,
+          "mark": "4:23.58",
+          "doping": ""
+        },
+        {
+          "place": "8.",
+          "athlete": "Mathilde SÉNÉCHAL",
+          "id": "14592077",
+          "nat": "FRA",
+          "birthYear": 1998,
+          "mark": "4:25.78",
+          "doping": ""
+        },
+        {
+          "place": "9.",
+          "athlete": "Sibylle HÄRING",
+          "id": "14702400",
+          "nat": "SUI",
+          "birthYear": 1900,
+          "mark": "4:30.51",
+          "doping": ""
+        },
+        {
+          "place": "10.",
+          "athlete": "Lara ALEMANNI",
+          "id": "14535813",
+          "nat": "SUI",
+          "birthYear": 1998,
+          "mark": "4:30.71",
+          "doping": ""
+        },
+        {
+          "place": "11.",
+          "athlete": "Laura GIUDICE",
+          "id": "14646468",
+          "nat": "SUI",
+          "birthYear": 1902,
+          "mark": "4:30.85",
+          "doping": ""
+        }
+      ],
+      "category": "U20 Events"
+    }
+  ]
+}
