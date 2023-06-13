@@ -20,4 +20,4 @@ export type Heat = {
   data: Result[];
 };
 export type Events = { [k: string]: Heat[] };
-export type TopScore = { title: string; mark: string; score: number };
+export type TopScore = { title: string; mark: string; detail: string; score: number };

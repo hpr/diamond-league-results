@@ -80,7 +80,9 @@ for (const id in meetingIds) {
     const fname = `data/${year}_${id}`;
     const evts: Events = read(fname);
     const topScores: TopScore[] = [];
-    for (const { title, data, category } of Object.values(evts).flat()) {
+    for (const { title, detail, data, category } of Object.values(evts).flat()) {
+      const wind = detail.match(/wind: [+-]?([\d\.]+)$/)?.[1];
+      if (wind && +wind > 2.0) continue;
       if (category === "Split times") continue;
       const [sexWord, ...rest] = title.split(" ");
       const gender: string = sexWordToCode[sexWord];
@@ -102,7 +104,7 @@ for (const id in meetingIds) {
       });
       const mark = data.find((res) => !res.doping)?.mark ?? "0";
       const score = calc.evaluate(+markToSecs(mark));
-      topScores.push({ title, mark, score });
+      topScores.push({ title, mark, detail, score });
     }
     topScores.sort((a, b) => b.score - a.score);
     const top3 =
