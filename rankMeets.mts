@@ -107,5 +107,5 @@ for (const id in meetingIds) {
     rankedMeets.push({ name: meetingIds[id], year, top3, topScores });
   }
 }
-rankedMeets.sort((a, b) => b.top3 - a.top3);
+rankedMeets.filter(meet => meet.top3).sort((a, b) => b.top3 - a.top3);
 write('rankedMeets', rankedMeets);
