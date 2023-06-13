@@ -73,6 +73,7 @@ const rankedMeets: {
   name: string;
   year: number;
   top3: number;
+  top4: number;
   topScores: TopScore[];
 }[] = [];
 for (const id in meetingIds) {
@@ -80,7 +81,9 @@ for (const id in meetingIds) {
     const fname = `data/${year}_${id}`;
     const evts: Events = read(fname);
     const topScores: TopScore[] = [];
-    for (const { title, detail, data, category } of Object.values(evts).flat()) {
+    for (const { title, detail, data, category } of Object.values(
+      evts
+    ).flat()) {
       const wind = detail.match(/wind: [+-]?([\d\.]+)$/)?.[1];
       if (wind && +wind > 2.0) continue;
       if (category === "Split times") continue;
@@ -111,7 +114,11 @@ for (const id in meetingIds) {
       topScores.length >= 3
         ? topScores.slice(0, 3).reduce((acc, x) => acc + x.score, 0)
         : 0;
-    if (top3) rankedMeets.push({ name: meetingIds[id], year, top3, topScores });
+    const top4 =
+      topScores.length >= 4
+        ? topScores.slice(0, 4).reduce((acc, x) => acc + x.score, 0)
+        : 0;
+    if (top3) rankedMeets.push({ name: meetingIds[id], year, top3, top4, topScores });
   }
 }
 rankedMeets.sort((a, b) => b.top3 - a.top3);
