@@ -1,6 +1,6 @@
 import { JSDOM } from "jsdom";
 import { read, write, range, exists } from "./util.mjs";
-import { Heat, MeetOption, Result } from "./types.mjs";
+import { Events, Heat, MeetOption, Result } from "./types.mjs";
 import { initialUrl, FN_NAME, MEET_SELECTOR, DL_START } from "./const.mjs";
 
 let meetingIds: { [k: number]: string } | null = read("meetingIds");
@@ -58,7 +58,7 @@ const getDlResults = async () => {
       const headers = [...document.querySelectorAll("h2")].filter(
         (h2) => h2.nextElementSibling?.tagName === "H2"
       );
-      const evts: { [k: string]: Heat[] } = {};
+      const evts: Events = {};
       for (const hdr of headers) {
         const hdrText = hdr.textContent ?? "";
         evts[hdrText] = [];

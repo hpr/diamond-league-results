@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc --module nodenext --outDir build dlresults.mts && node build/dlresults.mjs"
+    "start": "tsc --module nodenext --outDir build dlresults.mts && node build/dlresults.mjs",
+    "rankMeets": "tsc --module nodenext --outDir build rankMeets.mts && node build/rankMeets.mjs"
   },
   "keywords": [],
   "author": "",

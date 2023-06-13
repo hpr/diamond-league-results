@@ -19,3 +19,5 @@ export type Heat = {
   detail: string;
   data: Result[];
 };
+export type Events = { [k: string]: Heat[] };
+export type TopScore = { title: string; mark: string; score: number };
