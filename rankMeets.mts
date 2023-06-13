@@ -2,6 +2,8 @@ import { WaCalculator } from "@glaivepro/wa-calculator";
 import { markToSecs, range, read, write } from "./util.mjs";
 import { DL_START } from "./const.mjs";
 import { Events, TopScore } from "./types.mjs";
+import { stringify } from "csv-stringify/sync";
+import fs from "fs";
 
 // write(
 //   "disciplines",
@@ -73,13 +75,14 @@ const rankedMeets: {
   name: string;
   year: number;
   top3: number;
-  top4: number;
+  top8: number;
   topScores: TopScore[];
 }[] = [];
 for (const id in meetingIds) {
   for (const year of range(DL_START, new Date().getFullYear())) {
     const fname = `data/${year}_${id}`;
     const evts: Events = read(fname);
+    if (!evts["Diamond Discipline"]) continue;
     const topScores: TopScore[] = [];
     for (const { title, detail, data, category } of Object.values(
       evts
@@ -114,12 +117,35 @@ for (const id in meetingIds) {
       topScores.length >= 3
         ? topScores.slice(0, 3).reduce((acc, x) => acc + x.score, 0)
         : 0;
-    const top4 =
-      topScores.length >= 4
-        ? topScores.slice(0, 4).reduce((acc, x) => acc + x.score, 0)
+    const top8 =
+      topScores.length >= 8
+        ? topScores.slice(0, 8).reduce((acc, x) => acc + x.score, 0)
         : 0;
-    if (top3) rankedMeets.push({ name: meetingIds[id], year, top3, top4, topScores });
+    if (top3)
+      rankedMeets.push({ name: meetingIds[id], year, top3, top8, topScores });
   }
 }
 rankedMeets.sort((a, b) => b.top3 - a.top3);
 write("rankedMeets", rankedMeets);
+const csvRankedMeets = rankedMeets.map(
+  ({ name, year, top3, top8, topScores }) => {
+    const result = {
+      name,
+      year,
+      top3,
+      top8,
+    };
+    for (let i = 0; i < 3; i++) {
+      const id = i + 1;
+      const { title, mark, score } = topScores[i];
+      result["evt" + id] = title.split(" - ")[0];
+      result["mark" + id] = mark;
+      result["score" + id] = score;
+    }
+    return result;
+  }
+);
+fs.writeFileSync(
+  "rankedMeets.csv",
+  stringify(csvRankedMeets, { header: true })
+);

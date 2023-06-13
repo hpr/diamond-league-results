@@ -3,7 +3,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2021,
     "top3": 3908,
-    "top4": 5169,
+    "top8": 10163,
     "topScores": [
       {
         "title": "Men's Shot Put - 21.08.2021",
@@ -113,7 +113,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2011,
     "top3": 3899,
-    "top4": 5152,
+    "top8": 10082,
     "topScores": [
       {
         "title": "Men's 200m - 16.09.2011",
@@ -271,7 +271,7 @@
     "name": "Monaco Herculis",
     "year": 2022,
     "top3": 3874,
-    "top4": 5139,
+    "top8": 10084,
     "topScores": [
       {
         "title": "Men's 200m - 10.08.2022",
@@ -369,7 +369,7 @@
     "name": "Meeting de Paris",
     "year": 2023,
     "top3": 3871,
-    "top4": 5129,
+    "top8": 10083,
     "topScores": [
       {
         "title": "Men's 2 Miles - 09.06.2023",
@@ -557,7 +557,7 @@
     "name": "Lausanne Athletissima",
     "year": 2012,
     "top3": 3870,
-    "top4": 5130,
+    "top8": 10059,
     "topScores": [
       {
         "title": "Men's 100m - 23.08.2012",
@@ -709,7 +709,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2022,
     "top3": 3865,
-    "top4": 5113,
+    "top8": 10062,
     "topScores": [
       {
         "title": "Men's Pole Vault - 30.06.2022",
@@ -849,7 +849,7 @@
     "name": "Monaco Herculis",
     "year": 2015,
     "top3": 3862,
-    "top4": 5136,
+    "top8": 10113,
     "topScores": [
       {
         "title": "Men's 1500m - 17.07.2015",
@@ -971,7 +971,7 @@
     "name": "Lausanne Athletissima",
     "year": 2021,
     "top3": 3856,
-    "top4": 5090,
+    "top8": 9952,
     "topScores": [
       {
         "title": "Men's Shot Put - 26.08.2021",
@@ -1117,7 +1117,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2022,
     "top3": 3853,
-    "top4": 5119,
+    "top8": 10103,
     "topScores": [
       {
         "title": "Men's Shot Put - 28.05.2022",
@@ -1212,102 +1212,10 @@
     ]
   },
   {
-    "name": "Roma Golden Gala",
-    "year": 2020,
-    "top3": 3849,
-    "top4": 5082,
-    "topScores": [
-      {
-        "title": "Men's Pole Vault - 17.09.2020",
-        "mark": "6.15",
-        "detail": "Final",
-        "score": 1308
-      },
-      {
-        "title": "Men's 400mH - 17.09.2020",
-        "mark": "47.07",
-        "detail": "Final",
-        "score": 1280
-      },
-      {
-        "title": "Men's 3000m - 17.09.2020",
-        "mark": "7:26.64",
-        "detail": "Final",
-        "score": 1261
-      },
-      {
-        "title": "Women's 100m - 17.09.2020",
-        "mark": "10.85",
-        "detail": "Final, wind: +0.2",
-        "score": 1233
-      },
-      {
-        "title": "Men's 110mH - 17.09.2020",
-        "mark": "13.15",
-        "detail": "Final, wind: +0.1",
-        "score": 1225
-      },
-      {
-        "title": "Men's 100m - 17.09.2020",
-        "mark": "9.96",
-        "detail": "Final, wind: +0.3",
-        "score": 1220
-      },
-      {
-        "title": "Women's 400mH - 17.09.2020",
-        "mark": "53.90",
-        "detail": "Final",
-        "score": 1207
-      },
-      {
-        "title": "Women's High Jump - 17.09.2020",
-        "mark": "1.98",
-        "detail": "Final",
-        "score": 1200
-      },
-      {
-        "title": "Women's 100mH - 17.09.2020",
-        "mark": "12.72",
-        "detail": "Final, wind: +0.1",
-        "score": 1188
-      },
-      {
-        "title": "Men's Shot Put - 17.09.2020",
-        "mark": "21.09",
-        "detail": "Final",
-        "score": 1186
-      },
-      {
-        "title": "Men's High Jump - 17.09.2020",
-        "mark": "2.30",
-        "detail": "Final",
-        "score": 1179
-      },
-      {
-        "title": "Women's 800m - 17.09.2020",
-        "mark": "1:59.76",
-        "detail": "Final",
-        "score": 1167
-      },
-      {
-        "title": "Women's 400m - 17.09.2020",
-        "mark": "50.98",
-        "detail": "Final",
-        "score": 1166
-      },
-      {
-        "title": "Men's 400m - 17.09.2020",
-        "mark": "45.21",
-        "detail": "Final",
-        "score": 1165
-      }
-    ]
-  },
-  {
     "name": "Brussels AG Memorial Van Damme",
     "year": 2014,
     "top3": 3849,
-    "top4": 5114,
+    "top8": 10080,
     "topScores": [
       {
         "title": "Men's High Jump - 05.09.2014",
@@ -1483,7 +1391,7 @@
     "name": "Roma Golden Gala",
     "year": 2012,
     "top3": 3848,
-    "top4": 5087,
+    "top8": 9972,
     "topScores": [
       {
         "title": "Men's 100m - 31.05.2012",
@@ -1614,102 +1522,10 @@
     ]
   },
   {
-    "name": "Monaco Herculis",
-    "year": 2020,
-    "top3": 3848,
-    "top4": 5115,
-    "topScores": [
-      {
-        "title": "Men's 5000m - 14.08.2020",
-        "mark": "12:35.36",
-        "detail": "Final",
-        "score": 1302
-      },
-      {
-        "title": "Men's 400mH - 14.08.2020",
-        "mark": "47.10",
-        "detail": "Final",
-        "score": 1279
-      },
-      {
-        "title": "Men's 1500m - 14.08.2020",
-        "mark": "3:28.45",
-        "detail": "Final",
-        "score": 1267
-      },
-      {
-        "title": "Men's Pole Vault - 14.08.2020",
-        "mark": "6.00",
-        "detail": "Final",
-        "score": 1267
-      },
-      {
-        "title": "Men's 200m - 14.08.2020",
-        "mark": "19.76",
-        "detail": "Final, wind: +0.7",
-        "score": 1258
-      },
-      {
-        "title": "Women's 1000m - 14.08.2020",
-        "mark": "2:29.15",
-        "detail": "Final",
-        "score": 1249
-      },
-      {
-        "title": "Women's 5000m - 14.08.2020",
-        "mark": "14:22.12",
-        "detail": "Final",
-        "score": 1238
-      },
-      {
-        "title": "Men's 110mH - 14.08.2020",
-        "mark": "13.11",
-        "detail": "Final, wind: +0.8",
-        "score": 1233
-      },
-      {
-        "title": "Men's 800m - 14.08.2020",
-        "mark": "1:43.15",
-        "detail": "Final",
-        "score": 1231
-      },
-      {
-        "title": "Men's 3000mSC - 14.08.2020",
-        "mark": "8:08.04",
-        "detail": "Final",
-        "score": 1221
-      },
-      {
-        "title": "Women's High Jump - 14.08.2020",
-        "mark": "1.98",
-        "detail": "Final",
-        "score": 1200
-      },
-      {
-        "title": "Women's 400m - 14.08.2020",
-        "mark": "50.50",
-        "detail": "Final",
-        "score": 1185
-      },
-      {
-        "title": "Women's 100m - 14.08.2020",
-        "mark": "11.16",
-        "detail": "Final, wind: +0.4",
-        "score": 1165
-      },
-      {
-        "title": "Women's Triple Jump - 14.08.2020",
-        "mark": "14.27",
-        "detail": "Final",
-        "score": 1145
-      }
-    ]
-  },
-  {
     "name": "Brussels AG Memorial Van Damme",
     "year": 2012,
     "top3": 3842,
-    "top4": 5086,
+    "top8": 9981,
     "topScores": [
       {
         "title": "Men's 110mH - 07.09.2012",
@@ -1855,7 +1671,7 @@
     "name": "Zürich Weltklasse",
     "year": 2021,
     "top3": 3841,
-    "top4": 5115,
+    "top8": 10187,
     "topScores": [
       {
         "title": "Men's Pole Vault - 09.09.2021",
@@ -2067,7 +1883,7 @@
     "name": "Zürich Weltklasse",
     "year": 2019,
     "top3": 3833,
-    "top4": 5080,
+    "top8": 10037,
     "topScores": [
       {
         "title": "Men's 400mH - 29.08.2019",
@@ -2219,7 +2035,7 @@
     "name": "Oslo Bislett Games",
     "year": 2021,
     "top3": 3833,
-    "top4": 5062,
+    "top8": 9950,
     "topScores": [
       {
         "title": "Men's 400mH - 01.07.2021",
@@ -2311,7 +2127,7 @@
     "name": "Lausanne Athletissima",
     "year": 2019,
     "top3": 3832,
-    "top4": 5089,
+    "top8": 10046,
     "topScores": [
       {
         "title": "Men's 200m - 05.07.2019",
@@ -2487,7 +2303,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2022,
     "top3": 3831,
-    "top4": 5071,
+    "top8": 9873,
     "topScores": [
       {
         "title": "Men's Javelin Throw - 13.05.2022",
@@ -2585,7 +2401,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2015,
     "top3": 3830,
-    "top4": 5084,
+    "top8": 10073,
     "topScores": [
       {
         "title": "Men's Pole Vault - 30.05.2015",
@@ -2767,7 +2583,7 @@
     "name": "Monaco Herculis",
     "year": 2018,
     "top3": 3828,
-    "top4": 5095,
+    "top8": 10122,
     "topScores": [
       {
         "title": "Women's 3000mSC - 20.07.2018",
@@ -2871,7 +2687,7 @@
     "name": "Lausanne Athletissima",
     "year": 2022,
     "top3": 3827,
-    "top4": 5083,
+    "top8": 10061,
     "topScores": [
       {
         "title": "Men's 200m - 26.08.2022",
@@ -3017,7 +2833,7 @@
     "name": "Monaco Herculis",
     "year": 2021,
     "top3": 3827,
-    "top4": 5066,
+    "top8": 9999,
     "topScores": [
       {
         "title": "Men's 400mH - 09.07.2021",
@@ -3109,7 +2925,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2019,
     "top3": 3825,
-    "top4": 5084,
+    "top8": 10076,
     "topScores": [
       {
         "title": "Men's Shot Put - 30.06.2019",
@@ -3225,7 +3041,7 @@
     "name": "Meeting de Paris",
     "year": 2019,
     "top3": 3824,
-    "top4": 5091,
+    "top8": 10060,
     "topScores": [
       {
         "title": "Men's Triple Jump - 24.08.2019",
@@ -3437,7 +3253,7 @@
     "name": "Lausanne Athletissima",
     "year": 2015,
     "top3": 3824,
-    "top4": 5073,
+    "top8": 9997,
     "topScores": [
       {
         "title": "Men's 100m - 09.07.2015",
@@ -3589,7 +3405,7 @@
     "name": "Zürich Weltklasse",
     "year": 2012,
     "top3": 3823,
-    "top4": 5073,
+    "top8": 9958,
     "topScores": [
       {
         "title": "Men's 100m - 30.08.2012",
@@ -3747,7 +3563,7 @@
     "name": "Lausanne Athletissima",
     "year": 2017,
     "top3": 3821,
-    "top4": 5068,
+    "top8": 9985,
     "topScores": [
       {
         "title": "Women's High Jump - 06.07.2017",
@@ -3917,7 +3733,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2018,
     "top3": 3820,
-    "top4": 5055,
+    "top8": 9968,
     "topScores": [
       {
         "title": "Men's Long Jump - 10.06.2018",
@@ -4105,7 +3921,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2018,
     "top3": 3820,
-    "top4": 5086,
+    "top8": 10080,
     "topScores": [
       {
         "title": "Women's Discus Throw - 04.05.2018",
@@ -4203,7 +4019,7 @@
     "name": "Monaco Herculis",
     "year": 2014,
     "top3": 3819,
-    "top4": 5083,
+    "top8": 10074,
     "topScores": [
       {
         "title": "Men's 1500m - 18.07.2014",
@@ -4313,7 +4129,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2015,
     "top3": 3816,
-    "top4": 5055,
+    "top8": 9943,
     "topScores": [
       {
         "title": "Men's 100m - 15.05.2015",
@@ -4423,7 +4239,7 @@
     "name": "Lausanne Athletissima",
     "year": 2014,
     "top3": 3814,
-    "top4": 5059,
+    "top8": 10010,
     "topScores": [
       {
         "title": "Men's 100m - 03.07.2014",
@@ -4605,7 +4421,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2018,
     "top3": 3813,
-    "top4": 5070,
+    "top8": 9995,
     "topScores": [
       {
         "title": "Men's 100m - 31.08.2018",
@@ -4733,7 +4549,7 @@
     "name": "Zürich Weltklasse",
     "year": 2018,
     "top3": 3812,
-    "top4": 5060,
+    "top8": 10000,
     "topScores": [
       {
         "title": "Men's Shot Put - 30.08.2018",
@@ -4891,7 +4707,7 @@
     "name": "Meeting de Paris",
     "year": 2018,
     "top3": 3811,
-    "top4": 5067,
+    "top8": 10055,
     "topScores": [
       {
         "title": "Men's 400mH - 30.06.2018",
@@ -5073,7 +4889,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2017,
     "top3": 3811,
-    "top4": 5064,
+    "top8": 10019,
     "topScores": [
       {
         "title": "Men's Triple Jump - 27.05.2017",
@@ -5213,7 +5029,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2022,
     "top3": 3809,
-    "top4": 5068,
+    "top8": 10054,
     "topScores": [
       {
         "title": "Men's Shot Put - 01.09.2022",
@@ -5371,7 +5187,7 @@
     "name": "Roma Golden Gala",
     "year": 2015,
     "top3": 3803,
-    "top4": 5028,
+    "top8": 9900,
     "topScores": [
       {
         "title": "Men's 100m - 04.06.2015",
@@ -5511,7 +5327,7 @@
     "name": "Meeting de Paris",
     "year": 2015,
     "top3": 3803,
-    "top4": 5060,
+    "top8": 10049,
     "topScores": [
       {
         "title": "Men's 100m - 04.07.2015",
@@ -5681,7 +5497,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2010,
     "top3": 3803,
-    "top4": 5051,
+    "top8": 9952,
     "topScores": [
       {
         "title": "Men's 110mH - 03.07.2010",
@@ -5800,114 +5616,10 @@
     ]
   },
   {
-    "name": "Stockholm BAUHAUS Galan",
-    "year": 2020,
-    "top3": 3802,
-    "top4": 5031,
-    "topScores": [
-      {
-        "title": "Men's 400mH - 23.08.2020",
-        "mark": "46.87",
-        "detail": "Final",
-        "score": 1291
-      },
-      {
-        "title": "Men's Pole Vault - 23.08.2020",
-        "mark": "6.01",
-        "detail": "Final",
-        "score": 1270
-      },
-      {
-        "title": "Men's 1500m - 23.08.2020",
-        "mark": "3:30.25",
-        "detail": "Final",
-        "score": 1241
-      },
-      {
-        "title": "Men's Discus Throw - 23.08.2020",
-        "mark": "69.17",
-        "detail": "Final",
-        "score": 1229
-      },
-      {
-        "title": "Women's 1500m - 23.08.2020",
-        "mark": "3:57.86",
-        "detail": "Final",
-        "score": 1223
-      },
-      {
-        "title": "Women's High Jump - 23.08.2020",
-        "mark": "2.00",
-        "detail": "Final",
-        "score": 1219
-      },
-      {
-        "title": "Men's 800m - 23.08.2020",
-        "mark": "1:43.76",
-        "detail": "Final",
-        "score": 1212
-      },
-      {
-        "title": "Women's Long Jump - 23.08.2020",
-        "mark": "6.85",
-        "detail": "Final",
-        "score": 1185
-      },
-      {
-        "title": "Women's 400mH - 23.08.2020",
-        "mark": "54.68",
-        "detail": "Final",
-        "score": 1183
-      },
-      {
-        "title": "Men's 400m - 23.08.2020",
-        "mark": "45.05",
-        "detail": "Final",
-        "score": 1176
-      },
-      {
-        "title": "Women's Pole Vault - 23.08.2020",
-        "mark": "4.69",
-        "detail": "Final",
-        "score": 1173
-      },
-      {
-        "title": "Women's 800m - 23.08.2020",
-        "mark": "1:59.68",
-        "detail": "Final",
-        "score": 1168
-      },
-      {
-        "title": "Women's 100mH - 23.08.2020",
-        "mark": "12.88",
-        "detail": "Final, wind: +1.4",
-        "score": 1166
-      },
-      {
-        "title": "Men's Long Jump - 23.08.2020",
-        "mark": "8.09",
-        "detail": "Final",
-        "score": 1157
-      },
-      {
-        "title": "Women's 100m - 23.08.2020",
-        "mark": "11.20",
-        "detail": "Final, wind: +1.3",
-        "score": 1157
-      },
-      {
-        "title": "Women's 400m - 23.08.2020",
-        "mark": "51.94",
-        "detail": "Final",
-        "score": 1129
-      }
-    ]
-  },
-  {
     "name": "Monaco Herculis",
     "year": 2017,
     "top3": 3801,
-    "top4": 5053,
+    "top8": 9997,
     "topScores": [
       {
         "title": "Men's 400m - 21.07.2017",
@@ -6011,7 +5723,7 @@
     "name": "Roma Golden Gala",
     "year": 2023,
     "top3": 3796,
-    "top4": 5041,
+    "top8": 9986,
     "topScores": [
       {
         "title": "Women's 1500m - 02.06.2023",
@@ -6109,7 +5821,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2021,
     "top3": 3796,
-    "top4": 5052,
+    "top8": 9991,
     "topScores": [
       {
         "title": "Men's Pole Vault - 04.07.2021",
@@ -6249,7 +5961,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2013,
     "top3": 3795,
-    "top4": 5046,
+    "top8": 10025,
     "topScores": [
       {
         "title": "Men's Pole Vault - 27.07.2013",
@@ -6455,7 +6167,7 @@
     "name": "Lausanne Athletissima",
     "year": 2018,
     "top3": 3795,
-    "top4": 5037,
+    "top8": 9954,
     "topScores": [
       {
         "title": "Men's 200m - 05.07.2018",
@@ -6643,7 +6355,7 @@
     "name": "Meeting de Paris",
     "year": 2012,
     "top3": 3794,
-    "top4": 5037,
+    "top8": 9911,
     "topScores": [
       {
         "title": "Men's 800m - 06.07.2012",
@@ -6777,7 +6489,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2013,
     "top3": 3794,
-    "top4": 5049,
+    "top8": 9940,
     "topScores": [
       {
         "title": "Men's 100m - 06.09.2013",
@@ -6953,7 +6665,7 @@
     "name": "Monaco Herculis",
     "year": 2019,
     "top3": 3794,
-    "top4": 5044,
+    "top8": 9991,
     "topScores": [
       {
         "title": "Men's Pole Vault - 12.07.2019",
@@ -7051,7 +6763,7 @@
     "name": "Meeting de Paris",
     "year": 2010,
     "top3": 3792,
-    "top4": 5034,
+    "top8": 9943,
     "topScores": [
       {
         "title": "Men's 110mH - 16.07.2010",
@@ -7155,7 +6867,7 @@
     "name": "Monaco Herculis",
     "year": 2013,
     "top3": 3792,
-    "top4": 5034,
+    "top8": 9959,
     "topScores": [
       {
         "title": "Men's 1500m - 19.07.2013",
@@ -7271,7 +6983,7 @@
     "name": "Oslo Bislett Games",
     "year": 2022,
     "top3": 3791,
-    "top4": 5038,
+    "top8": 9907,
     "topScores": [
       {
         "title": "Men's Pole Vault - 16.06.2022",
@@ -7441,7 +7153,7 @@
     "name": "Zürich Weltklasse",
     "year": 2010,
     "top3": 3790,
-    "top4": 5040,
+    "top8": 9968,
     "topScores": [
       {
         "title": "Men's 4x100m - 19.08.2010",
@@ -7605,7 +7317,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2017,
     "top3": 3790,
-    "top4": 5023,
+    "top8": 9884,
     "topScores": [
       {
         "title": "Men's Javelin Throw - 05.05.2017",
@@ -7697,7 +7409,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2018,
     "top3": 3789,
-    "top4": 5045,
+    "top8": 10035,
     "topScores": [
       {
         "title": "Men's 800m - 22.07.2018",
@@ -7897,7 +7609,7 @@
     "name": "Monaco Herculis",
     "year": 2011,
     "top3": 3789,
-    "top4": 5036,
+    "top8": 9981,
     "topScores": [
       {
         "title": "Men's 3000mSC - 22.07.2011",
@@ -8007,7 +7719,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2023,
     "top3": 3787,
-    "top4": 5040,
+    "top8": 9974,
     "topScores": [
       {
         "title": "Men's 3000m - 05.05.2023",
@@ -8123,7 +7835,7 @@
     "name": "Meeting de Paris",
     "year": 2021,
     "top3": 3785,
-    "top4": 5034,
+    "top8": 9930,
     "topScores": [
       {
         "title": "Men's Pole Vault - 28.08.2021",
@@ -8251,7 +7963,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2021,
     "top3": 3784,
-    "top4": 5023,
+    "top8": 9945,
     "topScores": [
       {
         "title": "Men's Pole Vault - 03.09.2021",
@@ -8391,7 +8103,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2018,
     "top3": 3784,
-    "top4": 5026,
+    "top8": 9949,
     "topScores": [
       {
         "title": "Men's Shot Put - 26.05.2018",
@@ -8519,7 +8231,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2019,
     "top3": 3782,
-    "top4": 5026,
+    "top8": 9968,
     "topScores": [
       {
         "title": "Men's 400mH - 20.07.2019",
@@ -8713,7 +8425,7 @@
     "name": "Roma Golden Gala",
     "year": 2022,
     "top3": 3780,
-    "top4": 5027,
+    "top8": 9964,
     "topScores": [
       {
         "title": "Men's 3000mSC - 09.06.2022",
@@ -8823,7 +8535,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2011,
     "top3": 3780,
-    "top4": 5007,
+    "top8": 9889,
     "topScores": [
       {
         "title": "Men's 110mH - 04.06.2011",
@@ -8963,7 +8675,7 @@
     "name": "Meeting de Paris",
     "year": 2013,
     "top3": 3779,
-    "top4": 5025,
+    "top8": 9971,
     "topScores": [
       {
         "title": "Men's 200m - 06.07.2013",
@@ -9115,7 +8827,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2015,
     "top3": 3779,
-    "top4": 5006,
+    "top8": 9885,
     "topScores": [
       {
         "title": "Men's Pole Vault - 25.07.2015",
@@ -9327,7 +9039,7 @@
     "name": "Zürich Weltklasse",
     "year": 2011,
     "top3": 3778,
-    "top4": 5017,
+    "top8": 9911,
     "topScores": [
       {
         "title": "Men's 100m - 08.09.2011",
@@ -9491,7 +9203,7 @@
     "name": "Rabat Meeting Mohammed VI d'Athletisme",
     "year": 2023,
     "top3": 3778,
-    "top4": 5018,
+    "top8": 9921,
     "topScores": [
       {
         "title": "Men's 3000mSC - 28.05.2023",
@@ -9625,7 +9337,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2016,
     "top3": 3777,
-    "top4": 5020,
+    "top8": 9951,
     "topScores": [
       {
         "title": "Women's Pole Vault - 09.09.2016",
@@ -9813,7 +9525,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2010,
     "top3": 3776,
-    "top4": 5018,
+    "top8": 9922,
     "topScores": [
       {
         "title": "Men's 100m - 27.08.2010",
@@ -9953,7 +9665,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2012,
     "top3": 3776,
-    "top4": 5013,
+    "top8": 9916,
     "topScores": [
       {
         "title": "Men's 3000mSC - 11.05.2012",
@@ -10087,7 +9799,7 @@
     "name": "Lausanne Athletissima",
     "year": 2011,
     "top3": 3776,
-    "top4": 5006,
+    "top8": 9867,
     "topScores": [
       {
         "title": "Men's 100m - 30.06.2011",
@@ -10251,7 +9963,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2019,
     "top3": 3775,
-    "top4": 5017,
+    "top8": 9930,
     "topScores": [
       {
         "title": "Men's 200m - 06.09.2019",
@@ -10421,7 +10133,7 @@
     "name": "Meeting de Paris",
     "year": 2022,
     "top3": 3774,
-    "top4": 5009,
+    "top8": 9936,
     "topScores": [
       {
         "title": "Women's 100m - 18.06.2022",
@@ -10561,7 +10273,7 @@
     "name": "Lausanne Athletissima",
     "year": 2010,
     "top3": 3773,
-    "top4": 5024,
+    "top8": 9941,
     "topScores": [
       {
         "title": "Men's 100m - 08.07.2010",
@@ -10737,7 +10449,7 @@
     "name": "New York adidas Grand Prix",
     "year": 2012,
     "top3": 3772,
-    "top4": 5013,
+    "top8": 9922,
     "topScores": [
       {
         "title": "Men's 800m - 09.06.2012",
@@ -10901,7 +10613,7 @@
     "name": "New York adidas Grand Prix",
     "year": 2014,
     "top3": 3772,
-    "top4": 5002,
+    "top8": 9846,
     "topScores": [
       {
         "title": "Men's High Jump - 14.06.2014",
@@ -11059,7 +10771,7 @@
     "name": "Monaco Herculis",
     "year": 2010,
     "top3": 3772,
-    "top4": 5015,
+    "top8": 9953,
     "topScores": [
       {
         "title": "Men's 200m - 22.07.2010",
@@ -11175,7 +10887,7 @@
     "name": "Monaco Herculis",
     "year": 2012,
     "top3": 3771,
-    "top4": 5010,
+    "top8": 9883,
     "topScores": [
       {
         "title": "Men's 110mH - 20.07.2012",
@@ -11291,7 +11003,7 @@
     "name": "Oslo Bislett Games",
     "year": 2019,
     "top3": 3767,
-    "top4": 5002,
+    "top8": 9854,
     "topScores": [
       {
         "title": "Men's 400mH - 13.06.2019",
@@ -11461,7 +11173,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2013,
     "top3": 3767,
-    "top4": 5008,
+    "top8": 9920,
     "topScores": [
       {
         "title": "Men's High Jump - 01.06.2013",
@@ -11601,7 +11313,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2013,
     "top3": 3767,
-    "top4": 5000,
+    "top8": 9886,
     "topScores": [
       {
         "title": "Women's Long Jump - 10.05.2013",
@@ -11705,7 +11417,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2016,
     "top3": 3764,
-    "top4": 5007,
+    "top8": 9958,
     "topScores": [
       {
         "title": "Women's 100mH - 22.07.2016",
@@ -11923,7 +11635,7 @@
     "name": "Shanghai Diamond League",
     "year": 2016,
     "top3": 3764,
-    "top4": 4995,
+    "top8": 9864,
     "topScores": [
       {
         "title": "Women's Discus Throw - 14.05.2016",
@@ -12075,7 +11787,7 @@
     "name": "Lausanne Athletissima",
     "year": 2013,
     "top3": 3764,
-    "top4": 4997,
+    "top8": 9893,
     "topScores": [
       {
         "title": "Men's High Jump - 04.07.2013",
@@ -12227,7 +11939,7 @@
     "name": "Roma Golden Gala",
     "year": 2018,
     "top3": 3763,
-    "top4": 4999,
+    "top8": 9916,
     "topScores": [
       {
         "title": "Men's Long Jump - 31.05.2018",
@@ -12355,7 +12067,7 @@
     "name": "Roma Golden Gala",
     "year": 2021,
     "top3": 3762,
-    "top4": 5004,
+    "top8": 9917,
     "topScores": [
       {
         "title": "Women's 1500m - 10.06.2021",
@@ -12447,7 +12159,7 @@
     "name": "Meeting de Paris",
     "year": 2016,
     "top3": 3761,
-    "top4": 5005,
+    "top8": 9942,
     "topScores": [
       {
         "title": "Women's 3000mSC - 27.08.2016",
@@ -12593,7 +12305,7 @@
     "name": "Zürich Weltklasse",
     "year": 2017,
     "top3": 3760,
-    "top4": 5005,
+    "top8": 9937,
     "topScores": [
       {
         "title": "Women's 3000mSC - 24.08.2017",
@@ -12751,7 +12463,7 @@
     "name": "Roma Golden Gala",
     "year": 2019,
     "top3": 3760,
-    "top4": 4996,
+    "top8": 9918,
     "topScores": [
       {
         "title": "Men's 200m - 06.06.2019",
@@ -12855,7 +12567,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2010,
     "top3": 3758,
-    "top4": 4997,
+    "top8": 9843,
     "topScores": [
       {
         "title": "Men's 100m - 06.08.2010",
@@ -13085,7 +12797,7 @@
     "name": "Shanghai Diamond League",
     "year": 2019,
     "top3": 3758,
-    "top4": 4989,
+    "top8": 9809,
     "topScores": [
       {
         "title": "Men's 400mH - 18.05.2019",
@@ -13189,7 +12901,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2019,
     "top3": 3757,
-    "top4": 4982,
+    "top8": 9858,
     "topScores": [
       {
         "title": "Men's Discus Throw - 03.05.2019",
@@ -13299,7 +13011,7 @@
     "name": "Zürich Weltklasse",
     "year": 2016,
     "top3": 3756,
-    "top4": 4995,
+    "top8": 9912,
     "topScores": [
       {
         "title": "Women's 200m - 01.09.2016",
@@ -13463,7 +13175,7 @@
     "name": "Shanghai Diamond League",
     "year": 2017,
     "top3": 3756,
-    "top4": 4993,
+    "top8": 9910,
     "topScores": [
       {
         "title": "Men's Long Jump - 13.05.2017",
@@ -13567,7 +13279,7 @@
     "name": "Zürich Weltklasse",
     "year": 2013,
     "top3": 3755,
-    "top4": 4996,
+    "top8": 9934,
     "topScores": [
       {
         "title": "Women's Shot Put indoor - 28.08.2013",
@@ -13725,7 +13437,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2010,
     "top3": 3755,
-    "top4": 4980,
+    "top8": 9824,
     "topScores": [
       {
         "title": "Men's 100m - 13.08.2010",
@@ -13991,7 +13703,7 @@
     "name": "Roma Golden Gala",
     "year": 2014,
     "top3": 3754,
-    "top4": 4983,
+    "top8": 9839,
     "topScores": [
       {
         "title": "Men's High Jump - 05.06.2014",
@@ -14119,7 +13831,7 @@
     "name": "Monaco Herculis",
     "year": 2016,
     "top3": 3754,
-    "top4": 4996,
+    "top8": 9899,
     "topScores": [
       {
         "title": "Men's High Jump - 15.07.2016",
@@ -14229,7 +13941,7 @@
     "name": "Shanghai Diamond League",
     "year": 2010,
     "top3": 3753,
-    "top4": 4978,
+    "top8": 9824,
     "topScores": [
       {
         "title": "Men's 200m - 23.05.2010",
@@ -14333,7 +14045,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2016,
     "top3": 3753,
-    "top4": 4987,
+    "top8": 9889,
     "topScores": [
       {
         "title": "Men's 3000mSC - 05.06.2016",
@@ -14473,7 +14185,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2016,
     "top3": 3749,
-    "top4": 4993,
+    "top8": 9953,
     "topScores": [
       {
         "title": "Women's 100mH - 28.05.2016",
@@ -14637,7 +14349,7 @@
     "name": "New York adidas Grand Prix",
     "year": 2010,
     "top3": 3748,
-    "top4": 4973,
+    "top8": 9803,
     "topScores": [
       {
         "title": "Men's Triple Jump - 12.06.2010",
@@ -14801,7 +14513,7 @@
     "name": "Oslo Bislett Games",
     "year": 2018,
     "top3": 3746,
-    "top4": 4979,
+    "top8": 9863,
     "topScores": [
       {
         "title": "Men's Shot Put - 07.06.2018",
@@ -14983,7 +14695,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2014,
     "top3": 3746,
-    "top4": 4982,
+    "top8": 9904,
     "topScores": [
       {
         "title": "Men's 400m - 31.05.2014",
@@ -15129,7 +14841,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2021,
     "top3": 3746,
-    "top4": 4984,
+    "top8": 9906,
     "topScores": [
       {
         "title": "Men's 400mH - 28.05.2021",
@@ -15251,7 +14963,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2012,
     "top3": 3746,
-    "top4": 4957,
+    "top8": 9750,
     "topScores": [
       {
         "title": "Men's 110mH - 26.08.2012",
@@ -15403,7 +15115,7 @@
     "name": "Roma Golden Gala",
     "year": 2016,
     "top3": 3745,
-    "top4": 4973,
+    "top8": 9828,
     "topScores": [
       {
         "title": "Women's 5000m - 02.06.2016",
@@ -15549,7 +15261,7 @@
     "name": "Shanghai Diamond League",
     "year": 2014,
     "top3": 3745,
-    "top4": 4977,
+    "top8": 9827,
     "topScores": [
       {
         "title": "Women's Discus Throw - 18.05.2014",
@@ -15653,7 +15365,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2022,
     "top3": 3743,
-    "top4": 4959,
+    "top8": 9743,
     "topScores": [
       {
         "title": "Men's Discus Throw - 21.05.2022",
@@ -15811,7 +15523,7 @@
     "name": "Lausanne Athletissima",
     "year": 2016,
     "top3": 3743,
-    "top4": 4976,
+    "top8": 9865,
     "topScores": [
       {
         "title": "Men's 200m - 25.08.2016",
@@ -15993,7 +15705,7 @@
     "name": "Oslo Bislett Games",
     "year": 2012,
     "top3": 3742,
-    "top4": 4962,
+    "top8": 9828,
     "topScores": [
       {
         "title": "Men's 100m - 07.06.2012",
@@ -16169,7 +15881,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2017,
     "top3": 3742,
-    "top4": 4976,
+    "top8": 9889,
     "topScores": [
       {
         "title": "Men's Shot Put - 31.08.2017",
@@ -16327,7 +16039,7 @@
     "name": "Shanghai Diamond League",
     "year": 2018,
     "top3": 3742,
-    "top4": 4968,
+    "top8": 9847,
     "topScores": [
       {
         "title": "Men's Long Jump - 12.05.2018",
@@ -16443,7 +16155,7 @@
     "name": "Rabat Meeting Mohammed VI d'Athletisme",
     "year": 2022,
     "top3": 3742,
-    "top4": 4969,
+    "top8": 9793,
     "topScores": [
       {
         "title": "Men's 3000mSC - 05.06.2022",
@@ -16583,7 +16295,7 @@
     "name": "Meeting de Paris",
     "year": 2011,
     "top3": 3741,
-    "top4": 4968,
+    "top8": 9863,
     "topScores": [
       {
         "title": "Women's Shot Put - 08.07.2011",
@@ -16696,84 +16408,10 @@
     ]
   },
   {
-    "name": "Brussels AG Memorial Van Damme",
-    "year": 2020,
-    "top3": 3740,
-    "top4": 4938,
-    "topScores": [
-      {
-        "title": "Men's Pole Vault - 04.09.2020",
-        "mark": "6.00",
-        "detail": "Final",
-        "score": 1267
-      },
-      {
-        "title": "Women's 1000m - 04.09.2020",
-        "mark": "2:29.92",
-        "detail": "Final",
-        "score": 1238
-      },
-      {
-        "title": "Men's 1500m - 04.09.2020",
-        "mark": "3:30.69",
-        "detail": "Final",
-        "score": 1235
-      },
-      {
-        "title": "Men's 20,000m - 04.09.2020",
-        "mark": "56:20.02",
-        "detail": "Final",
-        "score": 1198
-      },
-      {
-        "title": "Men's 200m - 04.09.2020",
-        "mark": "20.39",
-        "detail": "Final, wind: +0.1",
-        "score": 1159
-      },
-      {
-        "title": "Women's High Jump - 04.09.2020",
-        "mark": "1.91",
-        "detail": "Final",
-        "score": 1131
-      },
-      {
-        "title": "Women's 400m - 04.09.2020",
-        "mark": "52.13",
-        "detail": "Final",
-        "score": 1121
-      },
-      {
-        "title": "Women's 100mH - 04.09.2020",
-        "mark": "13.21",
-        "detail": "Final, wind: -0.2",
-        "score": 1121
-      },
-      {
-        "title": "Women's 100m - 04.09.2020",
-        "mark": "11.43",
-        "detail": "Final, wind: +0.2",
-        "score": 1108
-      },
-      {
-        "title": "Men's 1 Hour - 04.09.2020",
-        "mark": "21330",
-        "detail": "Final",
-        "score": null
-      },
-      {
-        "title": "Women's 1 Hour - 04.09.2020",
-        "mark": "18930",
-        "detail": "Final",
-        "score": null
-      }
-    ]
-  },
-  {
     "name": "Stockholm BAUHAUS Galan",
     "year": 2011,
     "top3": 3739,
-    "top4": 4970,
+    "top8": 9855,
     "topScores": [
       {
         "title": "Men's Long Jump - 29.07.2011",
@@ -16943,7 +16581,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2014,
     "top3": 3739,
-    "top4": 4978,
+    "top8": 9827,
     "topScores": [
       {
         "title": "Men's 1500m - 09.05.2014",
@@ -17071,7 +16709,7 @@
     "name": "Shanghai Diamond League",
     "year": 2015,
     "top3": 3737,
-    "top4": 4959,
+    "top8": 9792,
     "topScores": [
       {
         "title": "Women's 5000m - 17.05.2015",
@@ -17175,7 +16813,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2015,
     "top3": 3737,
-    "top4": 4954,
+    "top8": 9798,
     "topScores": [
       {
         "title": "Men's Javelin Throw - 07.06.2015",
@@ -17315,7 +16953,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2018,
     "top3": 3737,
-    "top4": 4976,
+    "top8": 9840,
     "topScores": [
       {
         "title": "Men's Long Jump - 18.08.2018",
@@ -17455,7 +17093,7 @@
     "name": "Roma Golden Gala",
     "year": 2010,
     "top3": 3733,
-    "top4": 4972,
+    "top8": 9871,
     "topScores": [
       {
         "title": "Women's High Jump - 10.06.2010",
@@ -17571,7 +17209,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2016,
     "top3": 3733,
-    "top4": 4967,
+    "top8": 9862,
     "topScores": [
       {
         "title": "Men's 110mH - 06.05.2016",
@@ -17687,7 +17325,7 @@
     "name": "Rabat Meeting Mohammed VI d'Athletisme",
     "year": 2019,
     "top3": 3732,
-    "top4": 4962,
+    "top8": 9812,
     "topScores": [
       {
         "title": "Men's Discus Throw - 16.06.2019",
@@ -17821,7 +17459,7 @@
     "name": "Rabat Meeting Mohammed VI d'Athletisme",
     "year": 2017,
     "top3": 3731,
-    "top4": 4956,
+    "top8": 9812,
     "topScores": [
       {
         "title": "Men's Shot Put - 16.07.2017",
@@ -17967,7 +17605,7 @@
     "name": "Roma Golden Gala",
     "year": 2017,
     "top3": 3727,
-    "top4": 4963,
+    "top8": 9853,
     "topScores": [
       {
         "title": "Men's Javelin Throw - 08.06.2017",
@@ -18083,7 +17721,7 @@
     "name": "Oslo Bislett Games",
     "year": 2010,
     "top3": 3726,
-    "top4": 4951,
+    "top8": 9781,
     "topScores": [
       {
         "title": "Men's 800m - 04.06.2010",
@@ -18235,7 +17873,7 @@
     "name": "Rabat Meeting Mohammed VI d'Athletisme",
     "year": 2016,
     "top3": 3725,
-    "top4": 4948,
+    "top8": 9772,
     "topScores": [
       {
         "title": "Women's 5000m - 22.05.2016",
@@ -18387,7 +18025,7 @@
     "name": "Meeting de Paris",
     "year": 2014,
     "top3": 3724,
-    "top4": 4951,
+    "top8": 9828,
     "topScores": [
       {
         "title": "Men's 110mH - 05.07.2014",
@@ -18545,7 +18183,7 @@
     "name": "Oslo Bislett Games",
     "year": 2011,
     "top3": 3723,
-    "top4": 4947,
+    "top8": 9749,
     "topScores": [
       {
         "title": "Men's 3000mSC - 09.06.2011",
@@ -18703,7 +18341,7 @@
     "name": "Meeting de Paris",
     "year": 2017,
     "top3": 3722,
-    "top4": 4951,
+    "top8": 9854,
     "topScores": [
       {
         "title": "Men's 110mH - 01.07.2017",
@@ -18873,7 +18511,7 @@
     "name": "Shanghai Diamond League",
     "year": 2011,
     "top3": 3722,
-    "top4": 4947,
+    "top8": 9810,
     "topScores": [
       {
         "title": "Men's 3000mSC - 15.05.2011",
@@ -18977,7 +18615,7 @@
     "name": "Shanghai Diamond League",
     "year": 2013,
     "top3": 3722,
-    "top4": 4937,
+    "top8": 9781,
     "topScores": [
       {
         "title": "Men's 3000mSC - 18.05.2013",
@@ -19093,7 +18731,7 @@
     "name": "Zürich Weltklasse",
     "year": 2015,
     "top3": 3720,
-    "top4": 4955,
+    "top8": 9834,
     "topScores": [
       {
         "title": "Men's Pole Vault indoor - 02.09.2015",
@@ -19251,7 +18889,7 @@
     "name": "Oslo Bislett Games",
     "year": 2016,
     "top3": 3720,
-    "top4": 4940,
+    "top8": 9770,
     "topScores": [
       {
         "title": "Women's 200m - 09.06.2016",
@@ -19409,7 +19047,7 @@
     "name": "Oslo Bislett Games",
     "year": 2013,
     "top3": 3718,
-    "top4": 4935,
+    "top8": 9738,
     "topScores": [
       {
         "title": "Men's 200m - 13.06.2013",
@@ -19573,7 +19211,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2011,
     "top3": 3718,
-    "top4": 4942,
+    "top8": 9798,
     "topScores": [
       {
         "title": "Women's 400mH - 05.08.2011",
@@ -19761,7 +19399,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2019,
     "top3": 3718,
-    "top4": 4937,
+    "top8": 9767,
     "topScores": [
       {
         "title": "Men's 10,000m - 30.05.2019",
@@ -19985,7 +19623,7 @@
     "name": "Brussels AG Memorial Van Damme",
     "year": 2015,
     "top3": 3716,
-    "top4": 4945,
+    "top8": 9840,
     "topScores": [
       {
         "title": "Men's Pole Vault - 11.09.2015",
@@ -20137,7 +19775,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2017,
     "top3": 3714,
-    "top4": 4927,
+    "top8": 9753,
     "topScores": [
       {
         "title": "Men's High Jump - 20.08.2017",
@@ -20283,7 +19921,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2010,
     "top3": 3707,
-    "top4": 4936,
+    "top8": 9764,
     "topScores": [
       {
         "title": "Men's 5000m - 14.05.2010",
@@ -20363,7 +20001,7 @@
     "name": "Rabat Meeting Mohammed VI d'Athletisme",
     "year": 2018,
     "top3": 3707,
-    "top4": 4935,
+    "top8": 9823,
     "topScores": [
       {
         "title": "Men's Javelin Throw - 13.07.2018",
@@ -20527,7 +20165,7 @@
     "name": "Shanghai Diamond League",
     "year": 2012,
     "top3": 3706,
-    "top4": 4912,
+    "top8": 9686,
     "topScores": [
       {
         "title": "Men's 110mH - 19.05.2012",
@@ -20655,7 +20293,7 @@
     "name": "Roma Golden Gala",
     "year": 2011,
     "top3": 3705,
-    "top4": 4933,
+    "top8": 9791,
     "topScores": [
       {
         "title": "Men's 100m - 26.05.2011",
@@ -20789,7 +20427,7 @@
     "name": "Oslo Bislett Games",
     "year": 2015,
     "top3": 3704,
-    "top4": 4920,
+    "top8": 9719,
     "topScores": [
       {
         "title": "Women's 5000m - 11.06.2015",
@@ -20959,7 +20597,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2017,
     "top3": 3702,
-    "top4": 4932,
+    "top8": 9825,
     "topScores": [
       {
         "title": "Men's 110mH - 09.07.2017",
@@ -21135,7 +20773,7 @@
     "name": "Doha IAAF Diamond League",
     "year": 2011,
     "top3": 3702,
-    "top4": 4919,
+    "top8": 9757,
     "topScores": [
       {
         "title": "Men's 3000m - 06.05.2011",
@@ -21245,7 +20883,7 @@
     "name": "Oslo Bislett Games",
     "year": 2014,
     "top3": 3700,
-    "top4": 4908,
+    "top8": 9726,
     "topScores": [
       {
         "title": "Men's 3000mSC - 11.06.2014",
@@ -21427,7 +21065,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2021,
     "top3": 3700,
-    "top4": 4913,
+    "top8": 9718,
     "topScores": [
       {
         "title": "Men's 3000m - 13.07.2021",
@@ -21561,7 +21199,7 @@
     "name": "Eugene Prefontaine Classic",
     "year": 2012,
     "top3": 3700,
-    "top4": 4929,
+    "top8": 9812,
     "topScores": [
       {
         "title": "Women's High Jump - 02.06.2012",
@@ -21689,7 +21327,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2012,
     "top3": 3700,
-    "top4": 4924,
+    "top8": 9789,
     "topScores": [
       {
         "title": "Men's 3000m - 17.08.2012",
@@ -21856,114 +21494,10 @@
     ]
   },
   {
-    "name": "Doha IAAF Diamond League",
-    "year": 2020,
-    "top3": 3700,
-    "top4": 4925,
-    "topScores": [
-      {
-        "title": "Men's 1500m - 25.09.2020",
-        "mark": "3:30.51",
-        "detail": "Final 1",
-        "score": 1237
-      },
-      {
-        "title": "Women's 3000m - 25.09.2020",
-        "mark": "8:22.54",
-        "detail": "Final",
-        "score": 1235
-      },
-      {
-        "title": "Women's 100m - 25.09.2020",
-        "mark": "10.87",
-        "detail": "Final, wind: 0.0",
-        "score": 1228
-      },
-      {
-        "title": "Men's 110mH - 25.09.2020",
-        "mark": "13.15",
-        "detail": "Final, wind: +0.3",
-        "score": 1225
-      },
-      {
-        "title": "Men's Pole Vault - 25.09.2020",
-        "mark": "5.82",
-        "detail": "Final",
-        "score": 1217
-      },
-      {
-        "title": "Women's 800m - 25.09.2020",
-        "mark": "1:57.68",
-        "detail": "Final",
-        "score": 1204
-      },
-      {
-        "title": "Men's 800m - 25.09.2020",
-        "mark": "1:44.16",
-        "detail": "Final",
-        "score": 1199
-      },
-      {
-        "title": "Women's Long Jump - 25.09.2020",
-        "mark": "6.91",
-        "detail": "Final",
-        "score": 1198
-      },
-      {
-        "title": "Men's 200m - 25.09.2020",
-        "mark": "20.23",
-        "detail": "Final, wind: +0.9",
-        "score": 1184
-      },
-      {
-        "title": "Women's 100mH - 25.09.2020",
-        "mark": "12.78",
-        "detail": "Final, wind: +1.1",
-        "score": 1180
-      },
-      {
-        "title": "Men's 400m - 25.09.2020",
-        "mark": "45.55",
-        "detail": "Final",
-        "score": 1142
-      },
-      {
-        "title": "Men's 1500m - 25.09.2020",
-        "mark": "3:43.66",
-        "detail": "Final 2",
-        "score": 1058
-      },
-      {
-        "title": "Men's 400m - 25.09.2020",
-        "mark": "48.77",
-        "detail": "Final",
-        "score": 933
-      },
-      {
-        "title": "Men's 100m - 25.09.2020",
-        "mark": "11.04",
-        "detail": "Final, wind: +0.9",
-        "score": 874
-      },
-      {
-        "title": "Men's 800m - 25.09.2020",
-        "mark": "1:57.39",
-        "detail": "Final",
-        "score": 826
-      },
-      {
-        "title": "Men's 1500m - 25.09.2020",
-        "mark": "4:07.11",
-        "detail": "Final",
-        "score": 773
-      }
-    ]
-  },
-  {
     "name": "Roma Golden Gala",
     "year": 2013,
     "top3": 3697,
-    "top4": 4921,
+    "top8": 9784,
     "topScores": [
       {
         "title": "Men's Pole Vault - 06.06.2013",
@@ -22097,7 +21631,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2014,
     "top3": 3695,
-    "top4": 4906,
+    "top8": 9719,
     "topScores": [
       {
         "title": "Men's High Jump - 24.08.2014",
@@ -22237,7 +21771,7 @@
     "name": "Zürich Weltklasse",
     "year": 2022,
     "top3": 3691,
-    "top4": 4906,
+    "top8": 8341,
     "topScores": [
       {
         "title": "Women's Triple Jump - 08.09.2022",
@@ -22293,7 +21827,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2010,
     "top3": 3688,
-    "top4": 4903,
+    "top8": 9739,
     "topScores": [
       {
         "title": "Men's Discus Throw - 10.07.2010",
@@ -22451,7 +21985,7 @@
     "name": "Zürich Weltklasse",
     "year": 2014,
     "top3": 3687,
-    "top4": 4912,
+    "top8": 9788,
     "topScores": [
       {
         "title": "Men's Shot Put - 28.08.2014",
@@ -22609,7 +22143,7 @@
     "name": "New York adidas Grand Prix",
     "year": 2015,
     "top3": 3684,
-    "top4": 4905,
+    "top8": 9759,
     "topScores": [
       {
         "title": "Men's 400m - 13.06.2015",
@@ -22797,7 +22331,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2011,
     "top3": 3684,
-    "top4": 4905,
+    "top8": 9768,
     "topScores": [
       {
         "title": "Men's 100m - 10.07.2011",
@@ -22943,7 +22477,7 @@
     "name": "Oslo Bislett Games",
     "year": 2017,
     "top3": 3680,
-    "top4": 4889,
+    "top8": 9703,
     "topScores": [
       {
         "title": "Men's High Jump - 15.06.2017",
@@ -23089,7 +22623,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2013,
     "top3": 3678,
-    "top4": 4888,
+    "top8": 9698,
     "topScores": [
       {
         "title": "Men's Triple Jump - 30.06.2013",
@@ -23235,7 +22769,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2013,
     "top3": 3677,
-    "top4": 4891,
+    "top8": 9712,
     "topScores": [
       {
         "title": "Women's Javelin Throw - 22.08.2013",
@@ -23429,7 +22963,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2012,
     "top3": 3676,
-    "top4": 4887,
+    "top8": 9707,
     "topScores": [
       {
         "title": "Men's 400mH - 13.07.2012",
@@ -23575,7 +23109,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2016,
     "top3": 3676,
-    "top4": 4874,
+    "top8": 9646,
     "topScores": [
       {
         "title": "Men's Triple Jump - 16.06.2016",
@@ -23781,7 +23315,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2017,
     "top3": 3671,
-    "top4": 4887,
+    "top8": 9688,
     "topScores": [
       {
         "title": "Men's 1500m - 18.06.2017",
@@ -23879,7 +23413,7 @@
     "name": "Müller Grand Prix Birmingham",
     "year": 2019,
     "top3": 3668,
-    "top4": 4880,
+    "top8": 9655,
     "topScores": [
       {
         "title": "Women's 3000mSC - 18.08.2019",
@@ -24007,7 +23541,7 @@
     "name": "London Müller Anniversary Games",
     "year": 2014,
     "top3": 3663,
-    "top4": 4880,
+    "top8": 9731,
     "topScores": [
       {
         "title": "Men's 800m - 12.07.2014",
@@ -24207,7 +23741,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2014,
     "top3": 3662,
-    "top4": 4866,
+    "top8": 9667,
     "topScores": [
       {
         "title": "Men's 5000m - 21.08.2014",
@@ -24377,7 +23911,7 @@
     "name": "New York adidas Grand Prix",
     "year": 2013,
     "top3": 3655,
-    "top4": 4864,
+    "top8": 9623,
     "topScores": [
       {
         "title": "Women's Discus Throw - 25.05.2013",
@@ -24553,7 +24087,7 @@
     "name": "Stockholm BAUHAUS Galan",
     "year": 2015,
     "top3": 3650,
-    "top4": 4864,
+    "top8": 9682,
     "topScores": [
       {
         "title": "Men's 110mH - 30.07.2015",
@@ -24786,146 +24320,10 @@
     ]
   },
   {
-    "name": "Oslo Bislett Games",
-    "year": 2020,
-    "top3": 3645,
-    "top4": 4815,
-    "topScores": [
-      {
-        "title": "Men's 2000m - 11.06.2020",
-        "mark": "4:50.01",
-        "detail": "Final",
-        "score": 1235
-      },
-      {
-        "title": "Men's Pole Vault - 11.06.2020",
-        "mark": "5.86",
-        "detail": "Final",
-        "score": 1228
-      },
-      {
-        "title": "Men's Shot Put - 11.06.2020",
-        "mark": "21.03",
-        "detail": "Final",
-        "score": 1182
-      },
-      {
-        "title": "Men's 25,000m - 11.06.2020",
-        "mark": "1:12:46.5h",
-        "detail": "Final",
-        "score": 1170
-      },
-      {
-        "title": "Men's Discus Throw - 11.06.2020",
-        "mark": "65.92",
-        "detail": "Final",
-        "score": 1169
-      },
-      {
-        "title": "Women's 10,000m - 11.06.2020",
-        "mark": "31:40.67",
-        "detail": "Final",
-        "score": 1156
-      },
-      {
-        "title": "Men's 1000m - 11.06.2020",
-        "mark": "2:16.46",
-        "detail": "Final",
-        "score": 1146
-      },
-      {
-        "title": "Men's 20,000m - 11.06.2020",
-        "mark": "57:55.00",
-        "detail": "Final",
-        "score": 1130
-      },
-      {
-        "title": "Women's 600m - 11.06.2020",
-        "mark": "1:29.06",
-        "detail": "Final",
-        "score": 1066
-      },
-      {
-        "title": "Men's 100m - 11.06.2020",
-        "mark": "10.59",
-        "detail": "Final, wind: +0.2",
-        "score": 1011
-      },
-      {
-        "title": "Men's 1 Hour - 11.06.2020",
-        "mark": "20703",
-        "detail": "Final",
-        "score": null
-      },
-      {
-        "title": "Men's 300mH - 11.06.2020",
-        "mark": "33.78",
-        "detail": "Final",
-        "score": null
-      },
-      {
-        "title": "Women's 3000m - 11.06.2020",
-        "mark": "DNF",
-        "detail": "Final",
-        "score": null
-      },
-      {
-        "title": "Women's 200mH - 11.06.2020",
-        "mark": "26.11",
-        "detail": "Final, wind: -0.9",
-        "score": null
-      },
-      {
-        "title": "Women's 300mH - 11.06.2020",
-        "mark": "39.42",
-        "detail": "Final",
-        "score": null
-      }
-    ]
-  },
-  {
-    "name": "Zürich Weltklasse",
-    "year": 2020,
-    "top3": 3585,
-    "top4": 3585,
-    "topScores": [
-      {
-        "title": "Men's Pole Vault - 09.07.2020",
-        "mark": "5.81",
-        "detail": "Final",
-        "score": 1214
-      },
-      {
-        "title": "Men's Triple Jump - 09.07.2020",
-        "mark": "17.40",
-        "detail": "Final",
-        "score": 1207
-      },
-      {
-        "title": "Women's Pole Vault - 09.07.2020",
-        "mark": "4.66",
-        "detail": "Final",
-        "score": 1164
-      },
-      {
-        "title": "Women's 300mH - 09.07.2020",
-        "mark": "39.08",
-        "detail": "Final",
-        "score": null
-      },
-      {
-        "title": "Women's 3x100m - 09.07.2020",
-        "mark": "32.25",
-        "detail": "Final",
-        "score": null
-      }
-    ]
-  },
-  {
     "name": "New York adidas Grand Prix",
     "year": 2011,
     "top3": 3572,
-    "top4": 4743,
+    "top8": 9340,
     "topScores": [
       {
         "title": "Men's 400mH - 11.06.2011",
@@ -25016,102 +24414,6 @@
         "mark": "4:42.71",
         "detail": "Final",
         "score": 1029
-      }
-    ]
-  },
-  {
-    "name": "Rabat Meeting Mohammed VI d'Athletisme",
-    "year": 2010,
-    "top3": 3153,
-    "top4": 4175,
-    "topScores": [
-      {
-        "title": "Men's 1500m - 06.06.2010",
-        "mark": "3:42.66",
-        "detail": "Final",
-        "score": 1071
-      },
-      {
-        "title": "Women's 3000m - 06.06.2010",
-        "mark": "9:17.64",
-        "detail": "Final",
-        "score": 1047
-      },
-      {
-        "title": "Men's 800m - 06.06.2010",
-        "mark": "1:49.69",
-        "detail": "Final",
-        "score": 1035
-      },
-      {
-        "title": "Women's 1500m - 06.06.2010",
-        "mark": "4:23.80",
-        "detail": "Final",
-        "score": 1022
-      }
-    ]
-  },
-  {
-    "name": "Rabat Meeting Mohammed VI d'Athletisme",
-    "year": 2014,
-    "top3": 3060,
-    "top4": 4058,
-    "topScores": [
-      {
-        "title": "Men's 800m - 08.06.2014",
-        "mark": "1:49.78",
-        "detail": "Final",
-        "score": 1032
-      },
-      {
-        "title": "Women's 800m - 08.06.2014",
-        "mark": "2:07.89",
-        "detail": "Final",
-        "score": 1025
-      },
-      {
-        "title": "Men's 1500m - 08.06.2014",
-        "mark": "3:47.87",
-        "detail": "Final",
-        "score": 1003
-      },
-      {
-        "title": "Women's 1500m - 08.06.2014",
-        "mark": "4:27.02",
-        "detail": "Final",
-        "score": 998
-      }
-    ]
-  },
-  {
-    "name": "Rabat Meeting Mohammed VI d'Athletisme",
-    "year": 2015,
-    "top3": 2877,
-    "top4": 3812,
-    "topScores": [
-      {
-        "title": "Women's 800m - 14.06.2015",
-        "mark": "2:10.36",
-        "detail": "Final",
-        "score": 984
-      },
-      {
-        "title": "Men's 800m - 14.06.2015",
-        "mark": "1:52.52",
-        "detail": "Final",
-        "score": 955
-      },
-      {
-        "title": "Women's 1500m - 14.06.2015",
-        "mark": "4:35.32",
-        "detail": "Final",
-        "score": 938
-      },
-      {
-        "title": "Men's 1500m - 14.06.2015",
-        "mark": "3:53.34",
-        "detail": "Final",
-        "score": 935
       }
     ]
   }
