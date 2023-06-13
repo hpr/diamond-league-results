@@ -69,14 +69,19 @@ const disciplineToCode = {
 };
 
 const meetingIds = read("meetingIds");
-const rankedMeets: { name: string, year: number, top3: number, topScores: TopScore[] }[] = [];
+const rankedMeets: {
+  name: string;
+  year: number;
+  top3: number;
+  topScores: TopScore[];
+}[] = [];
 for (const id in meetingIds) {
   for (const year of range(DL_START, new Date().getFullYear())) {
     const fname = `data/${year}_${id}`;
     const evts: Events = read(fname);
     const topScores: TopScore[] = [];
     for (const { title, data, category } of Object.values(evts).flat()) {
-      if (category === 'Split times') continue;
+      if (category === "Split times") continue;
       const [sexWord, ...rest] = title.split(" ");
       const gender: string = sexWordToCode[sexWord];
       let disciplineWords = rest.join(" ").split(" - ")[0];
@@ -104,8 +109,8 @@ for (const id in meetingIds) {
       topScores.length >= 3
         ? topScores.slice(0, 3).reduce((acc, x) => acc + x.score, 0)
         : 0;
-    rankedMeets.push({ name: meetingIds[id], year, top3, topScores });
+    if (top3) rankedMeets.push({ name: meetingIds[id], year, top3, topScores });
   }
 }
-rankedMeets.filter(meet => meet.top3).sort((a, b) => b.top3 - a.top3);
-write('rankedMeets', rankedMeets);
+rankedMeets.sort((a, b) => b.top3 - a.top3);
+write("rankedMeets", rankedMeets);
